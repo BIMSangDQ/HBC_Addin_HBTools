@@ -1,0 +1,575 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{24588A66-BC2B-4ACA-AAA0-4B75E1296D26}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>HoaBinhTools</RootNamespace>
+    <AssemblyName>HoaBinhTools</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>7.1</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.1</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>HoaBinhTools.addin</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Apps\ExternalApplication.cs" />
+    <Compile Include="BIMHBC_2018\AutoSheetNumberCommand.cs" />
+    <Compile Include="BIMHBC_2018\AutoSheetNumberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BIMHBC_2018\AutoSheetNumberForm.Designer.cs">
+      <DependentUpon>AutoSheetNumberForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BIMHBC_2018\BeamLevelNumberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BIMHBC_2018\BeamLevelNumberForm.Designer.cs">
+      <DependentUpon>BeamLevelNumberForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BIMHBC_2018\ChangeTextCase.cs" />
+    <Compile Include="BIMHBC_2018\ChangeTextCaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BIMHBC_2018\ChangeTextCaseForm.Designer.cs">
+      <DependentUpon>ChangeTextCaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BIMHBC_2018\FilterRebar.cs" />
+    <Compile Include="BIMHBC_2018\GlobalVar.cs" />
+    <Compile Include="BIMHBC_2018\JtWindowHandle.cs" />
+    <Compile Include="BIMHBC_2018\OrderingNumberForSheetCommand.cs" />
+    <Compile Include="BIMHBC_2018\OrderingNumberForSheetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BIMHBC_2018\OrderingNumberForSheetForm.Designer.cs">
+      <DependentUpon>OrderingNumberForSheetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BIMHBC_2018\ParameterUtil.cs" />
+    <Compile Include="BIMHBC_2018\PartitionRebarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BIMHBC_2018\PartitionRebarForm.Designer.cs">
+      <DependentUpon>PartitionRebarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BIMHBC_2018\SetMarkForBeam.cs" />
+    <Compile Include="BIMHBC_2018\SetRebarPartition.cs" />
+    <Compile Include="BIMHBC_2018\ShowRebar.cs" />
+    <Compile Include="FramingInformation\Db\LocalDb.cs" />
+    <Compile Include="FramingInformation\Models\BeamSystemsGroup.cs" />
+    <Compile Include="FramingInformation\Models\ConverterCollection.cs" />
+    <Compile Include="FramingInformation\Models\CreateRebar\AddT1.cs" />
+    <Compile Include="FramingInformation\Models\CreateRebar\HorizontalLink.cs" />
+    <Compile Include="FramingInformation\Models\CreateRebar\SideBar.cs" />
+    <Compile Include="FramingInformation\Models\CreateRebar\TopMainRebar.cs" />
+    <Compile Include="FramingInformation\Models\Extension Models\ExtensationElevationBeam.cs" />
+    <Compile Include="FramingInformation\Models\ErrorModels.cs" />
+    <Compile Include="FramingInformation\Models\Extension Models\ExtensationOpening.cs" />
+    <Compile Include="FramingInformation\Models\GridModels.cs" />
+    <Compile Include="FramingInformation\Models\Extension Models\ExtensationContiuousBeamModels.cs" />
+    <Compile Include="FramingInformation\Models\Extension Models\ExtensationCuverModel.cs" />
+    <Compile Include="FramingInformation\Models\ElementOverridesModels.cs" />
+    <Compile Include="FramingInformation\Models\EnumSetting.cs" />
+    <Compile Include="FramingInformation\Models\ExcelManager.cs" />
+    <Compile Include="FramingInformation\Models\FineTuneValue.cs" />
+    <Compile Include="FramingInformation\Models\FramingInformationCmd\FramingInformationCmd.cs" />
+    <Compile Include="FramingInformation\Models\HostFraming.cs" />
+    <Compile Include="FramingInformation\Models\MathRound.cs" />
+    <Compile Include="FramingInformation\Models\FramingInformationCmd\SettingGeoInfoRevitCmd.cs" />
+    <Compile Include="FramingInformation\Models\FramingInfoView3D.cs" />
+    <Compile Include="FramingInformation\Models\IntersectFraming.cs" />
+    <Compile Include="FramingInformation\Models\MovableRestBeamEnum.cs" />
+    <Compile Include="FramingInformation\Models\MovableRestBeamModels.cs" />
+    <Compile Include="FramingInformation\Models\MovableRestBeamSort.cs" />
+    <Compile Include="FramingInformation\Models\OpeningModels.cs" />
+    <Compile Include="FramingInformation\Models\CreateRebar\StirrupRebar.cs" />
+    <Compile Include="FramingInformation\Models\SolidModels.cs" />
+    <Compile Include="FramingInformation\Models\SortModels.cs" />
+    <Compile Include="FramingInformation\Models\TransformCurve.cs" />
+    <Compile Include="FramingInformation\Save.Designer.cs">
+      <DependentUpon>Save.settings</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="FramingInformation\ViewModels\FramingInfoViewModels.cs" />
+    <Compile Include="FramingInformation\ViewModels\SettingGeoInfoRevitViewModels.cs" />
+    <Compile Include="FramingInformation\Views\FramingInfoView.xaml.cs">
+      <DependentUpon>FramingInfoView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FramingInformation\Views\SettingGeoInfoRevit.xaml.cs">
+      <DependentUpon>SettingGeoInfoRevit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LeanConcrete\Models\ElementFloor.cs" />
+    <Compile Include="LeanConcrete\Models\ElementFoundation.cs" />
+    <Compile Include="LeanConcrete\Models\ElementGroundBeam.cs" />
+    <Compile Include="LeanConcrete\Models\ElementIsolatedFoundation.cs" />
+    <Compile Include="LeanConcrete\Models\ElementLeanConcrete.cs" />
+    <Compile Include="LeanConcrete\Models\ElementOpening.cs" />
+    <Compile Include="LeanConcrete\Models\ElementSort.cs" />
+    <Compile Include="LeanConcrete\Models\ExtensionMethod.cs" />
+    <Compile Include="LeanConcrete\Models\LeanConcreteCmd\LeanConcreteCmd.cs" />
+    <Compile Include="LeanConcrete\ViewModels\LeanConcreteViewModel.cs" />
+    <Compile Include="LeanConcrete\Views\LeanConcreteView.xaml.cs">
+      <DependentUpon>LeanConcreteView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectWarnings\Models\FailureController.cs" />
+    <Compile Include="ProjectWarnings\Models\FixConverter.cs" />
+    <Compile Include="ProjectWarnings\Models\ObjectWaring.cs" />
+    <Compile Include="ProjectWarnings\Models\GUIService.cs" />
+    <Compile Include="ProjectWarnings\Models\WarningService.cs" />
+    <Compile Include="ProjectWarnings\Views\ViewWarning.xaml.cs">
+      <DependentUpon>ViewWarning.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectWarnings\WarningsCmd\WarningCmd.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PurgeViewsV2\Models\FillPatternsModel.cs" />
+    <Compile Include="PurgeViewsV2\Models\InfoLink.cs" />
+    <Compile Include="PurgeViewsV2\Models\InfoView.cs" />
+    <Compile Include="PurgeViewsV2\Models\ParameterModel.cs" />
+    <Compile Include="PurgeViewsV2\Models\PugreExtensation.cs" />
+    <Compile Include="PurgeViewsV2\Models\LinePatternModels.cs" />
+    <Compile Include="PurgeViewsV2\Models\PurgeCmd\PurgeCmd.cs" />
+    <Compile Include="PurgeViewsV2\Models\PurgeModels.cs" />
+    <Compile Include="PurgeViewsV2\Models\ViewExtensation.cs" />
+    <Compile Include="PurgeViewsV2\ViewModels\PugreViewModels.cs" />
+    <Compile Include="PurgeViewsV2\Views\PurgeViews.xaml.cs">
+      <DependentUpon>PurgeViews.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="QLUser\Models\GetListAddin.cs" />
+    <Compile Include="QLUser\Models\Registration.cs" />
+    <Compile Include="QLUser\Models\User.cs" />
+    <Compile Include="QLUser\Models\HddSerialNumber.cs" />
+    <Compile Include="QLUser\Models\QLUserCmd\QLUserCmd.cs" />
+    <Compile Include="QLUser\SaveUser.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>SaveUser.settings</DependentUpon>
+    </Compile>
+    <Compile Include="QLUser\ViewModels\QLUserViewModel.cs" />
+    <Compile Include="QLUser\Views\UserView.xaml.cs">
+      <DependentUpon>UserView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RebarShape2Excel\Command\Command.cs" />
+    <Compile Include="RebarShape2Excel\Command\Schedule2ExcelCommand.cs" />
+    <Compile Include="RebarShape2Excel\Constant\ConstantValue.cs" />
+    <Compile Include="RebarShape2Excel\Helper\Geometry\BeamGeometryHelper.cs" />
+    <Compile Include="RebarShape2Excel\Helper\Geometry\ColumnGeometryHelper.cs" />
+    <Compile Include="RebarShape2Excel\Helper\Geometry\GeometryHelper.cs" />
+    <Compile Include="RebarShape2Excel\Helper\Geometry\WallGeometryHelper.cs" />
+    <Compile Include="RebarShape2Excel\Helper\Query\NStringQuery.cs" />
+    <Compile Include="RebarShape2Excel\Helper\Query\QueryHelper.cs" />
+    <Compile Include="RebarShape2Excel\Helper\Query\SafeQuery.cs" />
+    <Compile Include="RebarShape2Excel\Model\Control\FilterComboBox.cs" />
+    <Compile Include="RebarShape2Excel\Model\Control\ProgressBar.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\AddParameterType.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Category.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\CategoryExtension.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\DefinitionGroupType.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Discipline.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Element.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\ElementType.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Failure.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Family.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Geometry.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Identity.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Level.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Location.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Mass.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\MassValue.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Navigation.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\ParameterValue.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Project.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Schedule\CurveInfo.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Schedule\DimensionInfo.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Schedule\Rebar.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Schedule\RebarShapeInfo.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\Schedule\ScheduleColumn.cs" />
+    <Compile Include="RebarShape2Excel\Model\Entity\XYZ.cs" />
+    <Compile Include="RebarShape2Excel\Model\Event\ExternalEventHandler.cs" />
+    <Compile Include="RebarShape2Excel\Model\Exception\CaseNotCheckException.cs" />
+    <Compile Include="RebarShape2Excel\Model\Exception\ElementNotFoundException.cs" />
+    <Compile Include="RebarShape2Excel\Model\Exception\InvalidCategoryException.cs" />
+    <Compile Include="RebarShape2Excel\Model\Exception\LevelNotValidException.cs" />
+    <Compile Include="RebarShape2Excel\Model\Exception\ParameterNotFoundException.cs" />
+    <Compile Include="RebarShape2Excel\Model\Form\ProgressBarView.xaml.cs">
+      <DependentUpon>ProgressBarView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RebarShape2Excel\Model\Form\Schedule2ExcelForm.xaml.cs">
+      <DependentUpon>Schedule2ExcelForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RebarShape2Excel\Property\WPF\Button\AddLeftToRightClicked.cs" />
+    <Compile Include="RebarShape2Excel\Property\WPF\Button\AddRightToLeftClicked.cs" />
+    <Compile Include="RebarShape2Excel\Property\WPF\Button\BrowseFileClicked.cs" />
+    <Compile Include="RebarShape2Excel\Property\WPF\Button\CloseClicked.cs" />
+    <Compile Include="RebarShape2Excel\Property\WPF\Button\ExportClicked.cs" />
+    <Compile Include="RebarShape2Excel\Setting\Settings1.Designer.cs">
+      <DependentUpon>Settings1.settings</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RebarShape2Excel\Single\ExcelData.cs" />
+    <Compile Include="RebarShape2Excel\Single\FormData.cs" />
+    <Compile Include="RebarShape2Excel\Single\IOData.cs" />
+    <Compile Include="RebarShape2Excel\Single\Model\ModelData.cs" />
+    <Compile Include="RebarShape2Excel\Single\Model\Revit\RevitModelData.cs" />
+    <Compile Include="RebarShape2Excel\Single\RevitData.cs" />
+    <Compile Include="RebarShape2Excel\Single\SercurityData.cs" />
+    <Compile Include="RebarShape2Excel\Single\Singleton.cs" />
+    <Compile Include="RebarShape2Excel\Single\TemplateData.cs" />
+    <Compile Include="RebarShape2Excel\Single\WPFData.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Model\CurveUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Model\ModelUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Model\RebarCurveUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Model\RebarShapeInfoUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Model\RebarUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Model\ScheduleColumnUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Model\ScheduleSheetUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Model\ViewScheduleUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\BeamUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\BindingUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\CategoryUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\ConcreteUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\DisciplineUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\ElementTypeUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\ElementUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\EqualUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\EvaluateUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\ExcelUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\FailuresPreprocessor.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\FailureUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\FamilyUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\FillPatternUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\FormworkUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\GeomUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\IdentifyUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\IOUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\JsonUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\LevelUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\LocationUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\MassUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\NavigationUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\NotifyClass.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\ParameterUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\ProjectionUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\ProjectUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\RevitDataUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\RevitUIUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\SelectionFilter.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\SolidUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\UnitUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\ViewSectionUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\VisualUtil.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\WPFUtility.cs" />
+    <Compile Include="RebarShape2Excel\Utility\Other\XYZUtil.cs" />
+    <Compile Include="RevisionMultSheet\Command.cs" />
+    <Compile Include="RevisionMultSheet\FormMaster.xaml.cs">
+      <DependentUpon>FormMaster.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RevisionMultSheet\GlobalVar.cs" />
+    <Compile Include="Schedule2Excel\Command.cs" />
+    <Compile Include="Schedule2Excel\Forms\Excel2ScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Schedule2Excel\Forms\Excel2ScheduleForm.Designer.cs">
+      <DependentUpon>Excel2ScheduleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Schedule2Excel\Forms\Schedule2ExcelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Schedule2Excel\Forms\Schedule2ExcelForm.Designer.cs">
+      <DependentUpon>Schedule2ExcelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Schedule2Excel\GlobalVar.cs" />
+    <Compile Include="Schedule2Excel\Util\ElementUtil.cs" />
+    <Compile Include="Schedule2Excel\Util\JsonConfigParser.cs" />
+    <Compile Include="Schedule2Excel\Util\ParameterUtil.cs" />
+    <Compile Include="SheetMaker\ChildForms\ViewListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SheetMaker\ChildForms\ViewListForm.Designer.cs">
+      <DependentUpon>ViewListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SheetMaker\Command.cs" />
+    <Compile Include="SheetMaker\Forms\AlignViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SheetMaker\Forms\AlignViewForm.Designer.cs">
+      <DependentUpon>AlignViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SheetMaker\Forms\SheetMakerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SheetMaker\Forms\SheetMakerForm.Designer.cs">
+      <DependentUpon>SheetMakerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SheetMaker\Forms\ViewDuplicaterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SheetMaker\Forms\ViewDuplicaterForm.Designer.cs">
+      <DependentUpon>ViewDuplicaterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SheetMaker\GlobalVar.cs" />
+    <Compile Include="SheetMaker\Util\ElementUtil.cs" />
+    <EmbeddedResource Include="BIMHBC_2018\AutoSheetNumberForm.resx">
+      <DependentUpon>AutoSheetNumberForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BIMHBC_2018\BeamLevelNumberForm.resx">
+      <DependentUpon>BeamLevelNumberForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BIMHBC_2018\ChangeTextCaseForm.resx">
+      <DependentUpon>ChangeTextCaseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BIMHBC_2018\OrderingNumberForSheetForm.resx">
+      <DependentUpon>OrderingNumberForSheetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BIMHBC_2018\PartitionRebarForm.resx">
+      <DependentUpon>PartitionRebarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Schedule2Excel\Forms\Excel2ScheduleForm.resx">
+      <DependentUpon>Excel2ScheduleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Schedule2Excel\Forms\Schedule2ExcelForm.resx">
+      <DependentUpon>Schedule2ExcelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SheetMaker\ChildForms\ViewListForm.resx">
+      <DependentUpon>ViewListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SheetMaker\Forms\AlignViewForm.resx">
+      <DependentUpon>AlignViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SheetMaker\Forms\SheetMakerForm.resx">
+      <DependentUpon>SheetMakerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SheetMaker\Forms\ViewDuplicaterForm.resx">
+      <DependentUpon>ViewDuplicaterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="FramingInformation\Save.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Save.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Content Include="FramingInformation\Db\Framing_Db.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FramingInformation\Db\Framing_Db_log.ldf">
+      <DependentUpon>Framing_Db.mdf</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="RebarShape2Excel\data\options.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="RebarShape2Excel\excel_tpl\template.xlsx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="QLUser\SaveUser.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>SaveUser.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="RebarShape2Excel\Setting\Settings1.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="RevisionMultSheet\config.json" />
+    <None Include="Schedule2Excel\config.json" />
+    <None Include="SheetMaker\config.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTL.png" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PurgeImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HoaBinhTools.addin" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <ReferencePath Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\packages\EPPlus.4.5.3.2\lib\net40\EPPlus.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\Microsoft.CSharp.dll" />
+    <ReferencePath Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\packages\morelinq.3.3.2\lib\net451\MoreLinq.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\mscorlib.dll" />
+    <ReferencePath Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectComboBox.dll" />
+    <ReferencePath Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\packages\MultiSelectTreeView.1.0.9\lib\net40\MultiSelectTreeView.dll" />
+    <ReferencePath Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\PresentationCore.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\PresentationFramework.dll" />
+    <ReferencePath Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPI.dll" />
+    <ReferencePath Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.dll" />
+    <ReferencePath Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Software Key Manager-BeamInformation.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Core.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Data.DataSetExtensions.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Data.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Drawing.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Management.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Web.Extensions.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Windows.Forms.dll" />
+    <ReferencePath Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\packages\Expression.Interaction.3.0.40218.0\lib\net46\System.Windows.Interactivity.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Xaml.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Xml.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Xml.Linq.dll" />
+    <ReferencePath Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Utils.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\WindowsBase.dll" />
+    <ReferencePath Include="C:\WINDOWS\assembly\GAC_MSIL\Office\15.0.0.0__71e9bce111e9429c\Office.dll">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </ReferencePath>
+    <ReferencePath Include="C:\WINDOWS\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </ReferencePath>
+    <ReferencePath Include="C:\WINDOWS\assembly\GAC_MSIL\Microsoft.Vbe.Interop\15.0.0.0__71e9bce111e9429c\Microsoft.Vbe.Interop.dll">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </ReferencePath>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs" />
+    <Compile Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs" />
+    <Compile Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs" />
+    <Compile Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.g.cs" />
+    <Compile Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs" />
+    <Compile Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.g.cs" />
+    <Compile Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.g.cs" />
+    <Compile Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.g.cs" />
+    <Compile Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.g.cs" />
+    <Compile Include="C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs" />
+  </ItemGroup>
+</Project>

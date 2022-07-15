@@ -1,0 +1,153 @@
+﻿<Window x:Class="Model.Form.Schedule2ExcelForm"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Model.Form"
+             xmlns:property="clr-namespace:Property.WPF"
+             mc:Ignorable="d" 
+             SizeToContent="WidthAndHeight" ResizeMode="NoResize" Title="Rebar Schedule To Excel">
+    <FrameworkElement.Resources>
+        <ResourceDictionary Source="..\Style\Styles.xaml"/>
+    </FrameworkElement.Resources>
+    <StackPanel Orientation="Vertical">
+        <GroupBox Header="File Options" Margin="5">
+            <StackPanel Orientation="Vertical" Margin="5">
+                <Grid Margin="5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="Save As:" FontWeight="DemiBold"/>
+                    <TextBox Grid.Column="1" Text="{Binding SavePath}" HorizontalAlignment="Stretch" HorizontalContentAlignment="Right" Margin="10 0 30 0"
+                         VerticalContentAlignment="Center" IsEnabled="False"/>
+                    <Button Grid.Column="2" Style="{StaticResource btnStandard}" Width="50" Content="Select"
+                            property:BaseAttachedProperty.BrowseFileClickedProperty="true"/>
+                </Grid>
+                <CheckBox Margin="35,20,0,10" Content="Open excel file after export" IsChecked="{Binding IsOpenExcel}"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Rebar Schedule" Margin="5">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Orientation="Vertical" Margin="5" Grid.Column="0">
+                    <Label Content="Available Schedules" Margin="15 0 0 15" FontWeight="DemiBold"/>
+                    <ListView x:Name="availableScheduleListView" ItemsSource="{Binding ViewSchedules}"
+                              DisplayMemberPath="Name"
+                              SelectedItem="{Binding SelectedViewSchedule}"
+                              Width="350"
+                              Height="400"
+                                ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True"></ListView>
+                </StackPanel>
+                <StackPanel Margin="10" Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Stretch" VerticalAlignment="Center">
+                    <Button Style="{StaticResource imageMediumButton}" property:BaseAttachedProperty.AddLeftToRightClickedProperty="true"
+                                HorizontalAlignment="Center" Width="70" Height="30" Margin="0 0 0 12">
+                        <Image Margin="1" Source="/Schedule2Excel;component/Image/next.png"/>
+                    </Button>
+                    <Button Style="{StaticResource imageMediumButton}" property:BaseAttachedProperty.AddRightToLeftClickedProperty="true"
+                                HorizontalAlignment="Center" Width="70" Height="30" Margin="0 0 0 12">
+                        <Image Margin="1" Source="/Schedule2Excel;component/Image/back.png"/>
+                    </Button>
+                    <Button Style="{StaticResource btnStandard}" Content="Export" HorizontalAlignment="Center" Width="70" Height="30"
+                                property:BaseAttachedProperty.ExportClickedProperty="true"/>
+                </StackPanel>
+                <StackPanel Orientation="Vertical" Margin="5" Grid.Column="2">
+                    <Label Content="Export Schedules" Margin="15 0 0 15" FontWeight="DemiBold"/>
+                    <ListView x:Name="exportScheduleListView"
+                              MaxHeight="500" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True"
+                              ItemsSource="{Binding ExportViewSchedules}"
+                              DisplayMemberPath="Name"
+                              SelectedItem="{Binding SelectedExportViewSchedule}"
+                            Height="{Binding ElementName=availableScheduleListView, Path=ActualHeight}"
+                            Width="{Binding ElementName=availableScheduleListView, Path=ActualWidth}"></ListView>
+                </StackPanel>
+            </Grid>
+        </GroupBox>
+        <Button Style="{StaticResource btnStandard}" Content="Close" Width="50" HorizontalAlignment="Right"
+                    Margin="0 7 15 15"
+                    property:BaseAttachedProperty.CloseClickedProperty="true"/>
+    </StackPanel>
+    <!--<Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Margin="5" Orientation="Vertical" Grid.Row="0" Grid.Column="0">
+            <GroupBox Header="File Options" Margin="5">
+                <Grid Margin="5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Save As" Grid.Row="2" Grid.Column="0"/>
+                    <TextBox Width="150" Grid.Row="3" Grid.Column="0"
+                             Text="{Binding SavePath}"/>
+                    <Button Width="50" Content="Select" Grid.Row="3" Grid.Column="1"
+                            property:BaseAttachedProperty.BrowseFileClickedProperty="true"/>
+                </Grid>
+            </GroupBox>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Margin="5" Grid.Row="0" Grid.Column="1">
+            <Grid Margin="5">
+                <Grid Margin="5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" MinWidth="150"/>
+                        <ColumnDefinition Width="auto" MinWidth="80"/>
+                        <ColumnDefinition Width="*" MinWidth="150"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Margin="5" Grid.Row="0" Grid.Column="0" Orientation="Horizontal">
+                        <Label Content="Schedule List"/>
+                    </StackPanel>
+                    <ListView Grid.Row="1" Grid.Column="0"
+                              ItemsSource="{Binding ViewSchedules}"
+                              DisplayMemberPath="Name"
+                              SelectedItem="{Binding SelectedViewSchedule}"
+                              MaxHeight="500"
+                                ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True"></ListView>
+                    <StackPanel Margin="5" Grid.Row="1" Grid.Column="1" Orientation="Vertical">
+                        <Button property:BaseAttachedProperty.AddLeftToRightClickedProperty="true">
+                            <Image Margin="1" Source="/Schedule2Excel;component/Resources/next.png"/>
+                        </Button>
+                        <Button property:BaseAttachedProperty.AddRightToLeftClickedProperty="true">
+                            <Image Margin="1" Source="/Schedule2Excel;component/Resources/back.png"/>
+                        </Button>
+                        <Button Content="Export"
+                                property:BaseAttachedProperty.ExportClickedProperty="true"/>
+                    </StackPanel>
+                    <StackPanel Margin="5" Grid.Row="0" Grid.Column="2" Orientation="Horizontal">
+                        <Label Content="Schedule2Excel List"/>
+                    </StackPanel>
+                    <ListView Grid.Row="1" Grid.Column="2"
+                              MaxHeight="500" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True"
+                              ItemsSource="{Binding ExportViewSchedules}"
+                              DisplayMemberPath="Name"
+                              SelectedItem="{Binding SelectedExportViewSchedule}"
+                              ></ListView>
+                </Grid>
+            </Grid>
+        </StackPanel>
+        <StackPanel Margin="5" Grid.Row="1" Grid.Column="1" Orientation="Horizontal">
+            <Button Margin="330 0 0 0" Content="Close" Width="50"
+                    property:BaseAttachedProperty.CloseClickedProperty="true"/>
+        </StackPanel>
+    </Grid>-->
+</Window>

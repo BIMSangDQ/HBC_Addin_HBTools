@@ -1,0 +1,723 @@
+﻿<Window x:Class="HoaBinhTools.FramingInformation.Views.FramingInfoView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:local="clr-namespace:HoaBinhTools.FramingInformation.Views"
+        
+        xmlns:scm="clr-namespace:System.ComponentModel;assembly=WindowsBase"
+        Name="WDMain"
+        mc:Ignorable="d"             
+        Topmost="True"      
+        BorderBrush="White"
+        Background="White"
+        Title="( BIM Export )  Version2 " Height="770" Width="700" Closed="Window_Closed"
+        MaxHeight="1050" MinHeight="770"
+        MinWidth="700" MaxWidth="700">
+
+	<i:Interaction.Triggers>
+		<i:EventTrigger EventName="Closing" >
+			<i:InvokeCommandAction                                        
+              Command="{Binding CloseCommand }"  >
+			</i:InvokeCommandAction>
+		</i:EventTrigger>
+	</i:Interaction.Triggers>
+	<Grid>
+		<Grid.ColumnDefinitions>
+			<!--<ColumnDefinition Width="*"></ColumnDefinition>-->
+			<ColumnDefinition Width="0"></ColumnDefinition>
+			<ColumnDefinition Width="5"></ColumnDefinition>
+			<ColumnDefinition Width="*"></ColumnDefinition>
+
+		</Grid.ColumnDefinitions>
+		<Grid Grid.Column="2" Height="1010" VerticalAlignment="Top" Grid.ColumnSpan="2">
+
+			<Grid.RowDefinitions>
+
+				<RowDefinition Height="3.5"></RowDefinition>
+
+				<RowDefinition Height="*"></RowDefinition>
+
+				<RowDefinition Height="40"></RowDefinition>
+
+				<RowDefinition Height="300"></RowDefinition>
+				<RowDefinition Height="280"></RowDefinition>
+			</Grid.RowDefinitions>
+
+			<Grid  Grid.Row="0">
+
+				<Grid.RowDefinitions>
+
+					<RowDefinition Height="50"></RowDefinition>
+
+					<RowDefinition Height="*"></RowDefinition>
+
+				</Grid.RowDefinitions>
+
+				<Grid.ColumnDefinitions>
+
+					<ColumnDefinition Width="120"></ColumnDefinition>
+
+					<ColumnDefinition Width="*"></ColumnDefinition>
+
+					<ColumnDefinition Width="50"></ColumnDefinition>
+
+					<ColumnDefinition Width="80"></ColumnDefinition>
+
+				</Grid.ColumnDefinitions>
+
+			</Grid>
+
+			<TabControl x:Name="ViewTab" TabStripPlacement="Top"  Grid.Row="1"   BorderBrush="Green" >
+
+				<TabItem Header="  Info Framing  " Width="100" >
+
+					<GroupBox Header="{Binding CountBeamSystemsGroup }"
+   
+                  HeaderStringFormat="( Framings Information Modeling ) Count = {0}"
+                                 
+                  BorderBrush="Green"   Grid.Row="1" Margin="0,5,0,0">
+
+						<ScrollViewer VerticalScrollBarVisibility="Auto"  >
+
+							<Border  BorderThickness="0,5,0,0">
+
+								<ItemsControl ItemsSource="{Binding SystemFramings  ,UpdateSourceTrigger=PropertyChanged}">
+
+									<ItemsControl.ItemTemplate>
+
+										<DataTemplate >
+
+											<!--<Expander Grid.Column="0" Grid.Row="0" IsExpanded="{Binding IsMouseOver, Mode=OneWay , RelativeSource={RelativeSource Self}}" BorderThickness="1,1,1,5">-->
+											<Expander x:Name="Expander" Grid.Column="0" Grid.Row="0" IsExpanded="False" BorderThickness="1,1,1,5">
+
+												<Expander.Background>
+													<LinearGradientBrush EndPoint="0,1" StartPoint="1,0">
+														<GradientStop Color="White" Offset="0"></GradientStop>
+														<GradientStop Color="LawnGreen" Offset="12"></GradientStop>
+													</LinearGradientBrush>
+												</Expander.Background>
+
+												<Expander.Header  >
+
+													<StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left">
+
+														<TextBlock Text="{Binding  Name}" FontWeight="Bold" Foreground="Gray" FontSize="22" VerticalAlignment="Bottom" />
+
+														<TextBlock Text="     Support :" FontSize="22" Foreground="Red" FontStyle="Italic" VerticalAlignment="Bottom" />
+
+														<TextBlock Text="{Binding SupportCount }"  FontSize="22" Foreground="Red" FontStyle="Italic" Margin="10,0,0,0" VerticalAlignment="Bottom" />
+
+														<TextBlock Text="     Span :" FontSize="22" Foreground="Green" FontStyle="Italic" VerticalAlignment="Bottom" />
+
+														<TextBlock Text="{Binding SpanCount}"  FontSize="22" Foreground="Green" FontStyle="Italic" Margin="10,0,0,0" VerticalAlignment="Bottom" />
+
+														<TextBlock Text="     SecondaryBeam :" FontSize="22" Foreground="Blue" FontStyle="Italic" VerticalAlignment="Bottom" />
+
+														<TextBlock Text="{Binding SecondaryBeamCount}"  FontSize="22" Foreground="Blue" FontStyle="Italic" Margin="10,0,0,0" VerticalAlignment="Bottom" />
+
+													</StackPanel>
+
+												</Expander.Header>
+
+												<DataGrid  x:Name="Dg" BorderBrush="Green" AlternatingRowBackground="LightBlue" AlternationCount="2"   CanUserAddRows="False" CanUserReorderColumns="False" SelectionMode="Extended"  SelectionUnit="FullRow" AutoGenerateColumns="False"                  
+                               
+                                                     CanUserSortColumns="False" 
+                                               
+                                                     ItemsSource="{Binding Path = Movable , UpdateSourceTrigger=PropertyChanged}"
+                                           
+                                                     Tag="{Binding DataContext,RelativeSource={RelativeSource Mode=FindAncestor,AncestorType=Window}}">
+
+													<DataGrid.ContextMenu>
+
+														<ContextMenu>
+
+															<MenuItem Header="Remove (Zoom View)" >
+
+																<i:Interaction.Triggers>
+																	<i:EventTrigger EventName="Click">
+																		<i:InvokeCommandAction 
+                                                              
+                                                                          Command="{Binding PlacementTarget.Tag.btnRemoveZoomeView , RelativeSource={RelativeSource Mode=FindAncestor,AncestorType=ContextMenu} }"                                      
+                                                                
+                                                                          CommandParameter="{Binding CBXType}">
+
+																		</i:InvokeCommandAction>
+																	</i:EventTrigger>
+																</i:Interaction.Triggers>
+
+															</MenuItem>
+
+															<!--Chọn nhịp-->
+															<MenuItem Header="Remove" >
+																<i:Interaction.Triggers>
+																	<i:EventTrigger EventName="Click">
+																		<i:InvokeCommandAction 
+                                                              
+                                                                           Command="{Binding PlacementTarget.Tag.btnRemove , RelativeSource={RelativeSource Mode=FindAncestor,AncestorType=ContextMenu} }"                                      
+                                                                
+                                                                           CommandParameter="{Binding Movable}">
+
+																		</i:InvokeCommandAction>
+																	</i:EventTrigger>
+																</i:Interaction.Triggers>
+
+															</MenuItem>
+
+														</ContextMenu>
+
+													</DataGrid.ContextMenu>
+
+													<DataGrid.ColumnHeaderStyle>
+
+														<Style TargetType="DataGridColumnHeader">
+
+															<Setter Property="HorizontalContentAlignment" Value="Center"/>
+
+														</Style>
+
+													</DataGrid.ColumnHeaderStyle>
+
+													<DataGrid.Columns>
+
+														<DataGridTextColumn Header="ID " Width="0.3*" Binding="{Binding Id,UpdateSourceTrigger=PropertyChanged}"  IsReadOnly="True">
+
+														</DataGridTextColumn>
+
+														<DataGridTextColumn 
+                        
+                                                          Header="Category " Width="*" Binding="{Binding Category ,UpdateSourceTrigger=PropertyChanged}"  IsReadOnly="True">
+
+														</DataGridTextColumn>
+
+														<DataGridTemplateColumn Header="Type "  IsReadOnly="True" Width="*">
+
+															<DataGridTemplateColumn.CellTemplate>
+																<DataTemplate >
+																	<ComboBox  Name="CBXType" Background="Transparent" SelectedValue="{Binding Type ,UpdateSourceTrigger = PropertyChanged }"                                                                                                                                                                                                                                         
+                                                                                SelectedValuePath="Tag"  IsSynchronizedWithCurrentItem="False" >
+
+																		<TextBlock Foreground="Red"    Text="Support" Background="Transparent" Tag="GT"></TextBlock>
+																		<TextBlock Foreground="Green"  Text="Span"  Background="Transparent" Tag="ND"></TextBlock>
+																		<TextBlock Foreground="Blue"   Text="Secondary Beam" Background="Transparent" Tag="DP"></TextBlock>
+
+																	</ComboBox>
+																</DataTemplate>
+															</DataGridTemplateColumn.CellTemplate>
+
+														</DataGridTemplateColumn>
+
+														<DataGridTextColumn  Header="Length" Width="*" IsReadOnly="True" Binding="{Binding Length , UpdateSourceTrigger=PropertyChanged}"  >
+
+														</DataGridTextColumn>
+
+														<DataGridTextColumn  Header="TopElevation" Width="0.5*" IsReadOnly="True" Binding="{Binding TopElevation , UpdateSourceTrigger=LostFocus ,TargetNullValue=  - }"  >
+
+														</DataGridTextColumn>
+
+														<DataGridTextColumn  Header="BottomElevation" Width="0.5*" IsReadOnly="True" Binding="{Binding BottomElevation , UpdateSourceTrigger=PropertyChanged ,TargetNullValue=  -}"  >
+
+														</DataGridTextColumn>
+
+													</DataGrid.Columns>
+
+													<i:Interaction.Triggers>
+
+														<i:EventTrigger EventName="MouseUp" >
+															<i:InvokeCommandAction
+                                                                            
+                                                                 Command="{Binding RelativeSource={RelativeSource AncestorType=Window}, Path=DataContext.DGSelectionChangedCommand}"
+                                                
+                                                                 CommandParameter="{Binding SelectedItems, ElementName=Dg}">
+
+															</i:InvokeCommandAction>
+
+														</i:EventTrigger>
+
+														<i:EventTrigger EventName="Closing">
+
+															<i:InvokeCommandAction
+                                                                            
+                                                               Command="{Binding RelativeSource={RelativeSource AncestorType=Window}, Path=DataContext.CloseCommand}"
+                                                
+                                                               CommandParameter="{Binding SelectedItems, ElementName=WDMain}">
+
+															</i:InvokeCommandAction>
+
+														</i:EventTrigger>
+
+													</i:Interaction.Triggers>
+
+												</DataGrid>
+
+											</Expander>
+
+										</DataTemplate>
+
+									</ItemsControl.ItemTemplate>
+
+								</ItemsControl>
+							</Border>
+
+						</ScrollViewer>
+					</GroupBox>
+				</TabItem>
+
+				<TabItem Name="Erro" Header=" Error" HorizontalAlignment="Left" Width="100"   BorderBrush="Green">
+					<ListView  Name="ErrorInput" ItemsSource="{Binding ListErro , UpdateSourceTrigger=PropertyChanged}"  BorderBrush="Green" >
+						<ListView.View>
+							<GridView >
+
+								<GridViewColumn Header="ID" Width="100" DisplayMemberBinding="{Binding ErrorID}" />
+
+								<GridViewColumn Header="Category" Width="150"  DisplayMemberBinding="{Binding Category}" />
+
+								<GridViewColumn Header="Content" Width="1020" DisplayMemberBinding="{Binding InfoErro}" />
+
+							</GridView>
+						</ListView.View>
+
+
+						<i:Interaction.Triggers>
+
+							<i:EventTrigger EventName="MouseUp" >
+								<i:InvokeCommandAction                                                             
+                                    Command="{Binding RelativeSource={RelativeSource AncestorType=Window},Path=DataContext.ShowErrorCmd}"
+                                                
+                                    CommandParameter="{Binding SelectedItems, ElementName=ErrorInput}">
+
+								</i:InvokeCommandAction>
+
+							</i:EventTrigger>
+
+						</i:Interaction.Triggers>
+
+
+					</ListView>
+
+				</TabItem>
+
+			</TabControl>
+
+			<Grid Grid.Row="2">
+
+				<Grid.RowDefinitions>
+
+					<RowDefinition Height="5"></RowDefinition>
+					<RowDefinition Height="*"></RowDefinition>
+					<RowDefinition Height="5"></RowDefinition>
+
+				</Grid.RowDefinitions>
+
+				<Grid.ColumnDefinitions>
+
+					<ColumnDefinition Width="50"></ColumnDefinition>
+					<ColumnDefinition Width="*"></ColumnDefinition>
+					<ColumnDefinition Width="50"></ColumnDefinition>
+					<ColumnDefinition Width="80"></ColumnDefinition>
+					<ColumnDefinition Width="20"></ColumnDefinition>
+					<ColumnDefinition Width="80"></ColumnDefinition>
+					<ColumnDefinition Width="20"></ColumnDefinition>
+					<ColumnDefinition Width="80"></ColumnDefinition>
+					<ColumnDefinition Width="5"></ColumnDefinition>
+
+				</Grid.ColumnDefinitions>
+
+				<StackPanel Grid.Column="1" Grid.Row="1" Orientation="Horizontal">
+					<TextBlock Text="Span with ElementID:  "  Margin="0,5"/>
+					<TextBox Text="{Binding Elem_ID,Mode=TwoWay}" Margin="0,5" Background="Transparent" BorderBrush="Transparent"
+					         x:Name="Id"
+					         TextChanged="SpanChange"  FontWeight="Bold" />
+				</StackPanel>
+
+				<Button Grid.Column="7" Grid.Row="1"  BorderBrush="Green" Content="Export" Background="Transparent" Command="{Binding btnOk}" />
+
+				<!--<Button Grid.Column="5" Grid.Row="1"   BorderBrush="Green" Content="Update" Background="Transparent" Command="{Binding btnUpdateData}" />-->
+			</Grid>
+			<TabControl x:Name="DrawingTag" TabStripPlacement="Top"  Grid.Row="3"   BorderBrush="Green" >
+				<TabItem Header="  Rebar  " Width="100" BorderBrush="Green" >
+					<Grid >
+						<Grid.RowDefinitions>
+							<RowDefinition Height="20" />
+							<RowDefinition Height="10" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="10" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="10" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="10" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+						</Grid.RowDefinitions>
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition Width="150" />
+							<ColumnDefinition Width="*" />
+							<ColumnDefinition Width="*" />
+							<ColumnDefinition Width="*" />
+							<ColumnDefinition Width="30" />
+						</Grid.ColumnDefinitions>
+						<!--Khai báo thép từng nhịp vào đây, các nhịp không khai báo sẽ lấy theo nhịp phía trước-->
+						<TextBlock Text="Section:" Grid.Row="0" Margin="10,0,0,0" />
+						<Button Grid.Column="1" Grid.Row="0" Width="40"
+						Content="1" HorizontalAlignment="Center"
+						BorderBrush="Green" Background="Transparent" 
+						Command="{Binding GetSection }" />
+						<Button Grid.Column="2" Grid.Row="0" Width="40"
+						Content="2" HorizontalAlignment="Center"
+						BorderBrush="Green" Background="Transparent" 
+						Command="{Binding GetSection }" />
+						<Button Grid.Column="3" Grid.Row="0" Width="40"
+						Content="3" HorizontalAlignment="Center"
+						BorderBrush="Green" Background="Transparent"
+						Command="{Binding GetSection }" />
+
+						<!--Khai báo đai từng mặt cắt-->
+						<StackPanel Orientation="Horizontal" Grid.Row="2" Margin="10,0,0,0">
+							<TextBlock Text="Stirrup:" />
+						</StackPanel>
+						<StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center">
+							<ComboBox x:Name="Stirrup1" Width="55" Background="Transparent" BorderBrush="Transparent"
+							          ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding StirrupDiameter, Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" SelectionChanged="StirrupChangeDiameter"/>
+							<TextBlock Text=" a" />
+							<TextBox x:Name="Kc1" Width="40" Background="Transparent" BorderBrush="Transparent" Text="{Binding Kc_dai1,Mode=TwoWay}"
+							 TextChanged="KhoangRaiDai"/>
+						</StackPanel>
+						<StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center">
+							<ComboBox x:Name="Stirrup2" Width="55" Background="Transparent" BorderBrush="Transparent" 
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							  Text="{Binding StirrupDiameter , Mode=TwoWay}" SelectionChanged="StirrupChangeDiameter" />
+							<TextBlock Text=" a" />
+							<TextBox x:Name="Kc2" Width="40" Background="Transparent" BorderBrush="Transparent" Text="{Binding Kc_dai2,Mode=TwoWay}"/>
+						</StackPanel>
+						<StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="3" HorizontalAlignment="Center">
+							<ComboBox x:Name="Stirrup3" Width="55" Background="Transparent" BorderBrush="Transparent" 
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding StirrupDiameter, Mode=TwoWay}" SelectionChanged="StirrupChangeDiameter"/>
+							<TextBlock Text=" a" />
+							<TextBox x:Name="Kc3" Width="40" Background="Transparent" BorderBrush="Transparent" Text="{Binding Kc_dai3,Mode=TwoWay}"/>
+						</StackPanel>
+						<Button Grid.Row="2" Grid.Column="4" Background="Transparent" BorderBrush="Green"
+						        Content="OK" Command="{Binding btnsaveStirrupInfos}" />
+
+						<!--Khai báo đai gia cường-->
+						<TextBlock Text="Additional Stirrup:" Grid.Row="3" Margin="10,0,0,0" />
+						<StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="1" Margin="32,0,0,0">
+							<ComboBox Width="55" Background="Transparent" 
+							 ItemsSource ="{Binding RebarDiameter}"
+							 Text="{Binding AddStirrupDiameter}"
+							 Height="20" VerticalAlignment="Bottom" />
+							<TextBlock Text=" a " />
+							<TextBox Width="37" Background="Transparent"  Text="{Binding KC_AddStirrup}"/>
+						</StackPanel>
+						<CheckBox x:Name="AddStirrup2" Content="Same as main Stirrup" IsChecked="{Binding IsCheckMainStirrup}"
+						          Grid.Row="3" Grid.Column="2"/>
+
+						<!--Khai báo thép chủ T1-->
+						<TextBlock Text="Top main bar (T1):" Grid.Row="5" Margin="10,0,0,0" />
+						<StackPanel Orientation="Horizontal" Grid.Row="5" Grid.Column="1" HorizontalAlignment="Center">
+							<TextBox Width="40" Background="Transparent"  Text="{Binding SL_T1}" />
+							<ComboBox Width="55" Background="Transparent"  
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding TopMainBarDia}" />
+						</StackPanel>
+
+						<!--Khai báo thép chủ T2-->
+						<StackPanel Orientation="Horizontal" Grid.Row="5" Grid.Column="2" HorizontalAlignment="Center">
+							<TextBox Width="40" Background="Transparent"  Text="{Binding SL_T2}" />
+							<ComboBox Width="55" Background="Transparent"  
+							          ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							          Text="{Binding TopMainBarDia_T2}" />
+						</StackPanel>
+
+						<!--Khai báo thép gia cường T1-->
+						<TextBlock Text="Additional Top bar (T1):" Grid.Row="6" Margin="10,0,0,0" />
+						<StackPanel Orientation="Horizontal" Grid.Row="6" Grid.Column="1" HorizontalAlignment="Center">
+							<TextBox x:Name="AddT1_1" Width="40" Background="Transparent"  Text="{Binding Count_AddT1_1,Mode=TwoWay}"/>
+							<ComboBox x:Name="AddT1_1_Dia" Width="55" Background="Transparent"  
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding AddT1_1_Dia,Mode=TwoWay}" />
+						</StackPanel>
+						<StackPanel Orientation="Horizontal" Grid.Row="6" Grid.Column="2" HorizontalAlignment="Center">
+							<TextBox x:Name="AddT1_2" Width="40" Background="Transparent"  Text="{Binding Count_AddT1_2,Mode=TwoWay}"/>
+							<ComboBox x:Name="AddT1_2_Dia" Width="55" Background="Transparent"  
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding AddT1_2_Dia,Mode=TwoWay}" />
+						</StackPanel>
+						<StackPanel Orientation="Horizontal" Grid.Row="6" Grid.Column="3" HorizontalAlignment="Center">
+							<TextBox x:Name="AddT1_3" Width="40" Background="Transparent"  Text="{Binding Count_AddT1_3,Mode=TwoWay}"/>
+							<ComboBox x:Name="AddT1_3_Dia" Width="55" Background="Transparent"  
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding AddT1_3_Dia,Mode=TwoWay}" />
+						</StackPanel>
+						<Button Grid.Row="6" Grid.Column="4" Background="Transparent" BorderBrush="Green"
+						        Content="OK" Command="{Binding btnsaveAddT1}" />
+
+						<!--Khai báo thép gia cường T2-->
+						<TextBlock Text="Additional Top bar (T2):" Grid.Row="7" Margin="10,0,0,0" />
+						<StackPanel Orientation="Horizontal" Grid.Row="7" Grid.Column="1" HorizontalAlignment="Center">
+							<TextBox x:Name="AddT2_1"  Width="40" Background="Transparent"  Text="{Binding Count_AddT2_1,Mode=TwoWay}"/>
+							<ComboBox Width="55" Background="Transparent"  
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding AddT2_1_Dia,Mode=TwoWay}" x:Name="AddT2_1_Dia" />
+						</StackPanel>
+						<StackPanel Orientation="Horizontal" Grid.Row="7" Grid.Column="2" HorizontalAlignment="Center">
+							<TextBox x:Name="AddT2_2" Width="40" Background="Transparent"  Text="{Binding Count_AddT2_2,Mode=TwoWay}"/>
+							<ComboBox Width="55" Background="Transparent"  
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding AddT2_2_Dia,Mode=TwoWay}" x:Name="AddT2_2_Dia" />
+						</StackPanel>
+						<StackPanel Orientation="Horizontal" Grid.Row="7" Grid.Column="3" HorizontalAlignment="Center">
+							<TextBox x:Name="AddT2_3" Width="40" Background="Transparent"  Text="{Binding Count_AddT2_3,Mode=TwoWay}"/>
+							<ComboBox Width="55" Background="Transparent"  
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding AddT2_3_Dia,Mode=TwoWay}" x:Name="AddT2_3_Dia" />
+						</StackPanel>
+
+						<!--Khai báo thép gía-->
+						<TextBlock Text="Side bar:" Grid.Row="9" Margin="10,0,0,0" />
+						<StackPanel Orientation="Horizontal" Grid.Row="9" Grid.Column="1" HorizontalAlignment="Center">
+							<TextBox Width="40" Background="Transparent"  Text="{Binding LayerSide}"/>
+							<TextBlock Text="x"/>
+							<TextBox Width="40" Background="Transparent"  Text="{Binding CountSideBar}"/>
+							<ComboBox Width="55" Background="Transparent"  
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding SideBar_Dia}" />
+						</StackPanel>
+						<CheckBox Grid.Row="9" Grid.Column="2" Content="Is have horizontal stirrup" IsChecked="{Binding IsCheckHorizontalC}"/>
+
+						<!--Khai báo thép gia cường B2-->
+						<TextBlock Text="Additional Bot bar (B2):" Grid.Row="11" Margin="10,0,0,0" />
+						<StackPanel Orientation="Horizontal" Grid.Row="11" Grid.Column="1" HorizontalAlignment="Center">
+							<TextBox x:Name="AddB2_1" Width="40" Background="Transparent"  Text="{Binding Count_AddB2_1,Mode=TwoWay}"/>
+							<ComboBox Width="55" Background="Transparent"  
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding AddB2_1_Dia,Mode=TwoWay}" x:Name="AddB2_1_Dia" />
+						</StackPanel>
+						<StackPanel Orientation="Horizontal" Grid.Row="11" Grid.Column="2" HorizontalAlignment="Center">
+							<TextBox x:Name="AddB2_2" Width="40" Background="Transparent"  Text="{Binding Count_AddB2_2,Mode=TwoWay}"/>
+							<ComboBox Width="55" Background="Transparent"  
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding AddB2_2_Dia,Mode=TwoWay}" x:Name="AddB2_2_Dia" />
+						</StackPanel>
+						<StackPanel Orientation="Horizontal" Grid.Row="11" Grid.Column="3" HorizontalAlignment="Center">
+							<TextBox x:Name="AddB2_3" Width="40" Background="Transparent"  Text="{Binding Count_AddB2_3,Mode=TwoWay}"/>
+							<ComboBox Width="55" Background="Transparent"  
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding AddB2_3_Dia,Mode=TwoWay}" x:Name="AddB2_3_Dia" />
+						</StackPanel>
+
+						<!--Khai báo thép gia cường B1-->
+						<TextBlock Text="Additional Bot bar (B1):" Grid.Row="12" Margin="10,0,0,0" />
+						<StackPanel Orientation="Horizontal" Grid.Row="12" Grid.Column="1" HorizontalAlignment="Center">
+							<TextBox x:Name="AddB1_1"  Width="40" Background="Transparent"  Text="{Binding Count_AddB1_1,Mode=TwoWay}"/>
+							<ComboBox Width="55" Background="Transparent"  
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding AddB1_1_Dia,Mode=TwoWay}" x:Name="AddB1_1_Dia"/>
+						</StackPanel>
+						<StackPanel Orientation="Horizontal" Grid.Row="12" Grid.Column="2" HorizontalAlignment="Center">
+							<TextBox x:Name="AddB1_2" Width="40" Background="Transparent"  Text="{Binding Count_AddB1_2,Mode=TwoWay}"/>
+							<ComboBox Width="55" Background="Transparent"  
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding AddB1_2_Dia,Mode=TwoWay}" x:Name="AddB1_2_Dia" />
+						</StackPanel>
+						<StackPanel Orientation="Horizontal" Grid.Row="12" Grid.Column="3" HorizontalAlignment="Center">
+							<TextBox x:Name="AddB1_3" Width="40" Background="Transparent"  Text="{Binding Count_AddB1_3,Mode=TwoWay}"/>
+							<ComboBox Width="55" Background="Transparent"  
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding AddB1_3_Dia,Mode=TwoWay}" x:Name="AddB1_3_Dia"/>
+						</StackPanel>
+
+						<!--Khai báo thép chủ B1-->
+						<TextBlock Text="Bottom main bar (B1):" Grid.Row="13" Margin="10,0,0,0" />
+						<StackPanel Orientation="Horizontal" Grid.Row="13" Grid.Column="1" HorizontalAlignment="Center">
+							<TextBox Width="40" Background="Transparent"  Text="{Binding SL_B1}"/>
+							<ComboBox Width="55" Background="Transparent"  
+							 ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							 Text="{Binding BotMainBarDia}" />
+						</StackPanel>
+
+						<!--Khai báo thép chủ B2-->
+						<StackPanel Orientation="Horizontal" Grid.Row="13" Grid.Column="2" HorizontalAlignment="Center">
+							<TextBox Width="40" Background="Transparent"  Text="{Binding SL_B2}" />
+							<ComboBox Width="55" Background="Transparent"  
+							          ItemsSource ="{Binding RebarDiameter}" Height="20" VerticalAlignment="Bottom"
+							          Text="{Binding BotMainBarDia_B2}" />
+						</StackPanel>
+					</Grid>
+				</TabItem>
+
+				<TabItem Header="Special Stirrup" Width="100" BorderBrush="Green">
+					<Grid>
+						<Grid.RowDefinitions>
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="22" />
+							<RowDefinition Height="30" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+						</Grid.RowDefinitions>
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition Width="150"/>
+							<ColumnDefinition Width="150" />
+							<ColumnDefinition Width="10" />
+							<ColumnDefinition Width="*" />
+						</Grid.ColumnDefinitions>
+
+
+						<RadioButton Content="C stirrup" Grid.Row="0" Margin="10,2,0,0"
+						             IsChecked="{Binding IsCStirrup}"/>
+						<RadioButton Content="Rectangular Stirrup" Grid.Row="1" Margin="10,2,0,0" />
+						<StackPanel Grid.Row="2" Orientation="Horizontal"  HorizontalAlignment="Center">
+							<TextBox Width="30" Height="20" Text="{Binding Vitri1}" />
+							<TextBlock Text=" - " Margin="0,2,0,0"/>
+							<TextBox Width="30" Height="20" Text="{Binding Vitri2}" />
+						</StackPanel>
+						<CheckBox Grid.Row="3" Content="Set all Span" Margin="10,3,0,0"
+						          IsChecked="{Binding IsSetAllSpan}"/>
+						<StackPanel Grid.Row="3" Grid.Column="1" Orientation="Horizontal">
+							<Button Content="Add Stirrup" Height="25"  Width="70" BorderBrush="Green" Background="Transparent"
+							        Command="{Binding btnAddStirrup}" />
+
+							<Button Content="Del" Height="25"  Width="40" BorderBrush="Green" Background="Transparent"
+							        Margin="20,0,0,0"
+							        Command="{Binding btnDelStirrup}" />
+						</StackPanel>
+						<Canvas x:Name="myCanvas" Grid.Column="3" Background="Transparent" 
+						        Width="270" Height="270" >
+							<TextBlock x:Name="DIM2" />
+						</Canvas>
+					</Grid>
+				</TabItem>
+
+				<TabItem Header="setting" Width="100" BorderBrush="Green">
+					<Grid>
+						<Grid.RowDefinitions>
+							<RowDefinition Height="20" />
+							<RowDefinition Height="10" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="10" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="20" />
+							<RowDefinition Height="25" />
+						</Grid.RowDefinitions>
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition Width="75"/>
+							<ColumnDefinition Width="75"/>
+							<ColumnDefinition Width="*" />
+							<ColumnDefinition Width="10" />
+							<ColumnDefinition Width="*" />
+							<ColumnDefinition Width="*" />
+						</Grid.ColumnDefinitions>
+
+						<!--Lớp bê tông bảo vệ-->
+						<TextBlock Text="Concrete Cover:" Margin="10,2,0,0" Grid.ColumnSpan="2" />
+						<TextBox Grid.Column="2" Grid.Row="0" Width="100" BorderBrush="Transparent" Background="Transparent"
+						         HorizontalAlignment="Left" Text="{Binding ConcreteCover}"/>
+
+						<!--Kích thước đai mặc định-->
+						<TextBlock Text="Stirrup default:" 
+						           Grid.Column="0" Grid.Row="2" Margin="10,2,0,0" Grid.ColumnSpan="2" />
+						<StackPanel Grid.Row="2" Grid.Column="2" Orientation="Horizontal">
+							<ComboBox ItemsSource="{Binding RebarDiameter}" Text="{Binding StirrupDiaSet}"></ComboBox>
+							<TextBlock Text=" a "/>
+							<TextBox Background="Transparent" BorderBrush="Transparent" Width="30" Text="{Binding StirrupSup}"/>
+							<TextBlock Text="-"/>
+							<TextBox Background="Transparent" BorderBrush="Transparent" Width="30" Text="{Binding StirrupSpan}"/>
+						</StackPanel>
+
+						<!--Quy định các đoạn móc-->
+						<TextBlock Text="Stirrup HookName:" 
+						           Grid.Column="0" Grid.Row="3" Margin="10,2,0,0" Grid.ColumnSpan="2" />
+						<ComboBox Grid.Column="2" Grid.Row="3" Margin="0,0,0,0"
+						         HorizontalAlignment="Left"
+						         ItemsSource="{Binding HookName}"
+						         Text="{Binding Stirrup_HookStart}"/>
+						<ComboBox Grid.Column="4" Grid.Row="3" Margin="0,0,0,0"
+						          HorizontalAlignment="Left" 
+						          ItemsSource="{Binding HookName}"
+						          Text="{Binding Stirrup_HookEnd}"/>
+
+						<TextBlock Text="Stirrup C HookName:" 
+						           Grid.Column="0" Grid.Row="4" Margin="10,2,0,0" Grid.ColumnSpan="2" />
+						<ComboBox Grid.Column="2" Grid.Row="4" Margin="0,0,0,0"
+						          HorizontalAlignment="Left"
+						          ItemsSource="{Binding HookName}"
+						          Text="{Binding Link_HookStart}"/>
+						<ComboBox Grid.Column="4" Grid.Row="4" Margin="0,0,0,0"
+						          HorizontalAlignment="Left" 
+						          ItemsSource="{Binding HookName}"
+						          Text="{Binding Link_HookEnd}"/>
+
+						<!--Quy định đoạn neo nối-->
+						<TextBlock Text="Anchorage Length:" 
+						            Grid.Column="0" Grid.Row="6" Margin="10,2,0,0" Grid.ColumnSpan="2" />
+						<TextBlock Text="Tension:" 
+						           Grid.Column="0" Grid.Row="7" Margin="50,2,0,0" Grid.ColumnSpan="2" />
+						<TextBox Grid.Column="2" Grid.Row="7" Width="100" BorderBrush="Transparent" Background="Transparent"
+						         HorizontalAlignment="Left" Text="{Binding Top_Anchorage}"/>
+						<TextBlock Text="Compression:" 
+						           Grid.Column="0" Grid.Row="8" Margin="50,2,0,0" Grid.ColumnSpan="2" />
+						<TextBox Grid.Column="2" Grid.Row="8" Width="100" BorderBrush="Transparent" Background="Transparent"
+						         HorizontalAlignment="Left" Text="{Binding Bot_Anchorage}"/>
+
+						<TextBlock Text="Lap Splice Length:" 
+						           Grid.Column="0" Grid.Row="9" Margin="10,2,0,0" Grid.ColumnSpan="2" />
+						<TextBlock Text="Tension:" 
+						           Grid.Column="0" Grid.Row="10" Margin="50,2,0,0" Grid.ColumnSpan="2" />
+						<TextBox Grid.Column="2" Grid.Row="10" Width="100" BorderBrush="Transparent" Background="Transparent"
+						         HorizontalAlignment="Left" Text="{Binding Lap_Tension}"/>
+						<TextBlock Text="Compression:" 
+						           Grid.Column="0" Grid.Row="11" Margin="50,2,0,0" Grid.ColumnSpan="2" />
+						<TextBox Grid.Column="2" Grid.Row="11" Width="100" BorderBrush="Transparent" Background="Transparent"
+						         HorizontalAlignment="Left" Text="{Binding Lap_Comp}"/>
+
+						<!--Quy định tỉ lệ-->
+						<TextBlock Text="Lenght of Additional bar:" 
+						           Grid.Column="0" Grid.Row="12" Margin="10,2,0,0" Grid.ColumnSpan="2" />
+						<StackPanel Grid.Column="2" Grid.Row="12" Orientation="Horizontal" Margin="0,2,0,0">
+							<TextBlock Text="Top bar to support: " />
+							<TextBox Width="50" Text="{Binding TL_top}" BorderBrush="Transparent" Background="Transparent"/>
+						</StackPanel>
+
+						<StackPanel Grid.Column="4" Grid.Row="12" Orientation="Horizontal" Margin="0,2,0,0">
+							<TextBlock Text="Bot bar to support: " />
+							<TextBox Width="50" Text="{Binding TL_bot}" BorderBrush="Transparent" Background="Transparent"/>
+						</StackPanel>
+
+						<Button Grid.Column="5" Grid.Row="13" HorizontalAlignment="Right"
+						        Content="Save Setting"
+						        BorderBrush="Green" Background="Transparent"
+						        Command="{Binding btnSaveSetting}"
+						        Margin="0,0,10,0" ></Button>
+
+						<!--Có bố trí đai C khi >2 thanh-->
+						<CheckBox  Grid.Row="13"  Content="C stirrup when >2" Margin="10,5,0,0"
+						           IsChecked ="{Binding IsCheckCstirrup}" Grid.ColumnSpan="2"/>
+					</Grid>
+				</TabItem>
+			</TabControl>
+
+			<GroupBox BorderBrush="Green"   Grid.Row="4" Grid.Column="1" Margin="0,5,0,0" >
+
+				<Canvas x:Name="AddSection" Width="675" Height="270" HorizontalAlignment="Center" VerticalAlignment="Center" />
+
+			</GroupBox>
+		</Grid>
+	</Grid>
+
+</Window>

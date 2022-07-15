@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style TargetType="ScrollViewer" x:Key="svVertical">
+        <Setter Property="VerticalScrollBarVisibility" Value="Visible"/>
+        <Setter Property="CanContentScroll" Value="True"/>
+    </Style>
+    
+    <Style TargetType="ScrollViewer" x:Key="svHorizontal">
+        <Setter Property="HorizontalScrollBarVisibility" Value="Visible"/>
+        <Setter Property="CanContentScroll" Value="True"/>
+    </Style>
+</ResourceDictionary>

@@ -1,0 +1,252 @@
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\BeyCons.Core.dll.config
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\BeyCons.Core.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\BeyCons.Core.pdb
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\AdWindows.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\EPPlus.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\Microsoft.CSharp.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\PresentationCore.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\PresentationFramework.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\RevitAPI.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\RevitAPIUI.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\Software Key Manager - New BIM-HBC.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\System.Configuration.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\System.Data.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\System.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\System.Drawing.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\System.Net.Http.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\System.Security.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\System.Threading.Tasks.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\System.Windows.Forms.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\System.Windows.Interactivity.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\System.Xaml.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\System.Xml.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\System.Xml.Linq.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\WindowsBase.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\EPPlus.xml
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Github\HBCRevitTools\BeyCons.Core\bin\Debug\System.Windows.Interactivity.xml
+D:\Github\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.csprojAssemblyReference.cache
+D:\Github\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\NotificationView.g.cs
+D:\Github\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\ProgressBarView.g.cs
+D:\Github\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core_MarkupCompile.cache
+D:\Github\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core_MarkupCompile.lref
+D:\Github\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\NotificationView.baml
+D:\Github\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\ProgressBarView.baml
+D:\Github\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.g.resources
+D:\Github\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.csproj.CoreCompileInputs.cache
+D:\Github\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.csproj.CopyComplete
+D:\Github\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.dll
+D:\Github\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.pdb
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\NotificationView.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\ProgressBarView.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core_MarkupCompile.cache
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core_MarkupCompile.lref
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.pdb
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\BeyCons.Core.dll.config
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\BeyCons.Core.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\BeyCons.Core.pdb
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\AdWindows.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\EPPlus.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Microsoft.CSharp.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Newtonsoft.Json.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\PresentationCore.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\PresentationFramework.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\RevitAPI.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\RevitAPIUI.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Software Key Manager - New BIM-HBC.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Configuration.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Data.DataSetExtensions.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Data.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Drawing.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Net.Http.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Security.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Threading.Tasks.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Windows.Forms.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Windows.Interactivity.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Xaml.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Xml.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Xml.Linq.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\WindowsBase.dll
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\EPPlus.xml
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Newtonsoft.Json.xml
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Windows.Interactivity.xml
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\NotificationView.baml
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\ProgressBarView.baml
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.g.resources
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.csproj.CoreCompileInputs.cache
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.csproj.CopyComplete
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\BeyCons.Core.dll.config
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\BeyCons.Core.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\BeyCons.Core.pdb
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\AdWindows.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\EPPlus.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Microsoft.CSharp.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\PresentationCore.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\PresentationFramework.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\RevitAPI.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\RevitAPIUI.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Software Key Manager - New BIM-HBC.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Configuration.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Data.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Drawing.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Net.Http.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Security.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Threading.Tasks.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Windows.Forms.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Xaml.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Xml.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Xml.Linq.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\WindowsBase.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\EPPlus.xml
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\NotificationView.g.cs
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\ProgressBarView.g.cs
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core_MarkupCompile.cache
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core_MarkupCompile.lref
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\NotificationView.baml
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\ProgressBarView.baml
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.g.resources
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.csproj.CoreCompileInputs.cache
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.csproj.CopyComplete
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.dll
+C:\Users\bimphuongnh\Dropbox\20211111\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.pdb
+E:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.csprojAssemblyReference.cache
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\BeyCons.Core.dll.config
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\BeyCons.Core.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\BeyCons.Core.pdb
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\AdWindows.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\EPPlus.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Microsoft.CSharp.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Newtonsoft.Json.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\PresentationCore.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\PresentationFramework.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\RevitAPI.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\RevitAPIUI.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Software Key Manager - New BIM-HBC.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Configuration.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Data.DataSetExtensions.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Data.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Drawing.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Net.Http.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Security.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Threading.Tasks.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Windows.Forms.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Windows.Interactivity.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Xaml.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Xml.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Xml.Linq.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\WindowsBase.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\EPPlus.xml
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Newtonsoft.Json.xml
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Windows.Interactivity.xml
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\NotificationView.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\ProgressBarView.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core_MarkupCompile.cache
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core_MarkupCompile.lref
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\NotificationView.baml
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\ProgressBarView.baml
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.g.resources
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.csproj.CoreCompileInputs.cache
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.csproj.CopyComplete
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.dll
+D:\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\BeyCons.Core.dll.config
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\BeyCons.Core.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\BeyCons.Core.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\AdWindows.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\EPPlus.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Microsoft.CSharp.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\PresentationCore.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\PresentationFramework.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\RevitAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\RevitAPIUI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Software Key Manager - New BIM-HBC.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Configuration.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Data.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Drawing.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Net.Http.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Security.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Threading.Tasks.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Windows.Forms.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Windows.Interactivity.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Xaml.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Xml.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Xml.Linq.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\WindowsBase.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\EPPlus.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\Debug\System.Windows.Interactivity.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.csproj.AssemblyReference.cache
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\NotificationView.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\ProgressBarView.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core_MarkupCompile.cache
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core_MarkupCompile.lref
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\NotificationView.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\FormUtils\Views\ProgressBarView.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.g.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.csproj.CoreCompileInputs.cache
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.csproj.CopyComplete
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\Debug\BeyCons.Core.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\BeyCons.Core.dll.config
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\BeyCons.Core.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\BeyCons.Core.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\EPPlus.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\Microsoft.CSharp.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\PresentationCore.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\PresentationFramework.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\System.Configuration.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\System.Data.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\System.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\System.Drawing.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\System.Net.Http.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\System.Security.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\System.Threading.Tasks.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\System.Windows.Forms.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\System.Windows.Interactivity.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\System.Xaml.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\System.Xml.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\System.Xml.Linq.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\WindowsBase.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\EPPlus.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\bin\Debug\System.Windows.Interactivity.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\obj\Debug\BeyCons.Core.csproj.AssemblyReference.cache
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\obj\Debug\FormUtils\Views\NotificationView.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\obj\Debug\FormUtils\Views\ProgressBarView.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\obj\Debug\BeyCons.Core_MarkupCompile.cache
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\obj\Debug\BeyCons.Core_MarkupCompile.lref
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\obj\Debug\FormUtils\Views\NotificationView.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\obj\Debug\FormUtils\Views\ProgressBarView.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\obj\Debug\BeyCons.Core.g.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\obj\Debug\BeyCons.Core.csproj.CoreCompileInputs.cache
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\obj\Debug\BeyCons.Core.csproj.CopyComplete
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\obj\Debug\BeyCons.Core.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\obj\Debug\BeyCons.Core.pdb

@@ -1,0 +1,127 @@
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\BeyCons.Core.dll.config
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\BeyCons.Core.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\BeyCons.Core.pdb
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\AdWindows.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\EPPlus.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\Microsoft.CSharp.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\Microsoft.Expression.Interactions.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\Newtonsoft.Json.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\PresentationCore.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\PresentationFramework.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\RevitAPI.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\RevitAPIUI.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\Software Key Manager - New BIM-HBC.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Configuration.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Data.DataSetExtensions.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Data.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Drawing.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Net.Http.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Security.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Threading.Tasks.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Windows.Forms.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Windows.Interactivity.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Xaml.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Xml.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Xml.Linq.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\WindowsBase.dll
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\EPPlus.xml
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\Microsoft.Expression.Interactions.xml
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\Newtonsoft.Json.xml
+D:\Github\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Windows.Interactivity.xml
+D:\Github\HBCRevitTools\BeyCons.Core\obj\x64\Release\FormUtils\Views\NotificationView.g.cs
+D:\Github\HBCRevitTools\BeyCons.Core\obj\x64\Release\FormUtils\Views\ProgressBarView.g.cs
+D:\Github\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core_MarkupCompile.cache
+D:\Github\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core_MarkupCompile.lref
+D:\Github\HBCRevitTools\BeyCons.Core\obj\x64\Release\FormUtils\Views\NotificationView.baml
+D:\Github\HBCRevitTools\BeyCons.Core\obj\x64\Release\FormUtils\Views\ProgressBarView.baml
+D:\Github\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.g.resources
+D:\Github\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.csproj.CoreCompileInputs.cache
+D:\Github\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.csproj.CopyComplete
+D:\Github\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.dll
+D:\Github\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.pdb
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\BeyCons.Core.dll.config
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\BeyCons.Core.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\BeyCons.Core.pdb
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\EPPlus.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\Microsoft.CSharp.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\Microsoft.Expression.Interactions.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\Newtonsoft.Json.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\PresentationCore.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\PresentationFramework.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\Software Key Manager - New BIM-HBC.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Configuration.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Data.DataSetExtensions.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Data.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Drawing.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Net.Http.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Security.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Threading.Tasks.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Windows.Forms.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Windows.Interactivity.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Xaml.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Xml.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Xml.Linq.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\WindowsBase.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\EPPlus.xml
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\Microsoft.Expression.Interactions.xml
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\Newtonsoft.Json.xml
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Windows.Interactivity.xml
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\FormUtils\Views\NotificationView.g.cs
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\FormUtils\Views\ProgressBarView.g.cs
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core_MarkupCompile.cache
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core_MarkupCompile.lref
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\FormUtils\Views\NotificationView.baml
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\FormUtils\Views\ProgressBarView.baml
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.g.resources
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.csproj.CoreCompileInputs.cache
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.csproj.CopyComplete
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.pdb
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\AdWindows.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\RevitAPI.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\RevitAPIUI.dll
+T:\P.BIM\04_SOFTWARE\02.SourceCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.csprojAssemblyReference.cache
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\BeyCons.Core.dll.config
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\BeyCons.Core.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\BeyCons.Core.pdb
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\AdWindows.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\EPPlus.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\Microsoft.CSharp.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\Microsoft.Expression.Interactions.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\Newtonsoft.Json.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\PresentationCore.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\PresentationFramework.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\RevitAPI.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\RevitAPIUI.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\Software Key Manager - New BIM-HBC.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Configuration.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Data.DataSetExtensions.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Data.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Drawing.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Net.Http.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Security.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Threading.Tasks.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Windows.Forms.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Windows.Interactivity.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Xaml.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Xml.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Xml.Linq.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\WindowsBase.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\EPPlus.xml
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\Microsoft.Expression.Interactions.xml
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\Newtonsoft.Json.xml
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\bin\x64\Release\System.Windows.Interactivity.xml
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\FormUtils\Views\NotificationView.g.cs
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\FormUtils\Views\ProgressBarView.g.cs
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core_MarkupCompile.cache
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core_MarkupCompile.lref
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\FormUtils\Views\NotificationView.baml
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\FormUtils\Views\ProgressBarView.baml
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.g.resources
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.csproj.CoreCompileInputs.cache
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.csproj.CopyComplete
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.dll
+E:\SourcesCode\23. NewBIMHoaBinh\HBCRevitTools\BeyCons.Core\obj\x64\Release\BeyCons.Core.pdb

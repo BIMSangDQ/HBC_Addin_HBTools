@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application HoaBinhTool</Name>
+    <Assembly>HoaBinhTool\HoaBinhTools.dll</Assembly>
+    <FullClassName>HoaBinhTools.Apps.ExternalApplication</FullClassName>
+    <ClientId>19fdc25f-5b35-480b-b170-034dd5060224</ClientId>
+    <VendorId>BIM</VendorId>
+    <VendorDescription>BIM</VendorDescription>
+  </AddIn>
+</RevitAddIns>

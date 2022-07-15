@@ -1,0 +1,88 @@
+﻿<Window x:Class="HoaBinhTools.LeanConcrete.Views.LeanConcreteView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HoaBinhTools.LeanConcrete.Views"
+        mc:Ignorable="d"
+         WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+      Title="Lean Concrete Foundation" Height="228" Width="400" Topmost="True">
+
+    <StackPanel Margin="2,2,2,2">
+
+        <Grid  Margin="0,-11,2,0" HorizontalAlignment="Right" Width="386" Height="206" VerticalAlignment="Bottom">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="30*"/>
+                <ColumnDefinition Width="60*"/>
+
+
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="15*"/>
+                <RowDefinition Height="15*"/>
+                <RowDefinition Height="15*"/>
+
+            </Grid.RowDefinitions>
+
+            <Button Content="OK" 
+                Margin="0,0,97,19"
+                Background="#FFFBFBFB"  
+                Height="26" 
+                Command="{Binding OkButton}"
+                VerticalAlignment="Bottom" RenderTransformOrigin="1.8,0.66" Grid.Row="2" HorizontalAlignment="Right" Width="55" Grid.Column="1"
+            
+                />
+
+            <Button Content="Cancel" 
+                Margin="0,0,17,19"
+                Command="{Binding CancelButton}"
+                Background="#FFFBFBFB" Grid.Row="2" 
+                HorizontalAlignment="Right" Width="55" Height="26"
+                VerticalAlignment="Bottom"  Grid.Column="1" RenderTransformOrigin="0.488,1.771"/>
+
+            <Label Content="Family Type"  Margin="0,0,41,18" VerticalAlignment="Bottom" Height="30" RenderTransformOrigin="0.353,1.913" HorizontalAlignment="Right" Width="78"/>
+
+            <Label Content="Offset"  Margin="0,0,51,39" RenderTransformOrigin="0.353,2.913" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="61" Grid.Column="0" Grid.ColumnSpan="1" Height="27" Grid.Row="1" 
+/>
+
+            <TextBox TextWrapping="Wrap" Height="23" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="259" Margin="0,0,17,40"
+                     Text="{Binding Offset}" Grid.ColumnSpan="2" Grid.Row="1"/>
+
+            <ComboBox
+            x:Name="CBXFAMILY"
+            HorizontalAlignment="Right" 
+            Width="259" Height="25"
+            VerticalAlignment="Bottom"
+            Margin="0,0,17,21"
+            
+                 ItemsSource="{Binding FoundationType}"
+                
+                SelectedItem="{Binding Fltype}"
+                
+                IsSynchronizedWithCurrentItem="True"
+               
+                DisplayMemberPath="Name" Grid.ColumnSpan="2"  />
+            <Grid Grid.ColumnSpan="2" Margin="77,40,16,61" Grid.Row="1" Grid.RowSpan="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="9"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0*"/>
+                    <ColumnDefinition Width="60*"/>
+
+                    <ColumnDefinition Width="30*"/>
+                    <ColumnDefinition Width="90"/>
+                </Grid.ColumnDefinitions>
+
+                <CheckBox IsChecked="{Binding Beam}" IsEnabled="{Binding IsChecked, ElementName=cbAll, Mode=OneWay}" Grid.Column="1" Content="Beams"  HorizontalAlignment="Center" VerticalAlignment="Center" Height="15" Margin="64,7,10,7" Width="61" Grid.RowSpan="2"/>
+                <CheckBox IsChecked="{Binding Floor}" IsEnabled="{Binding IsChecked, ElementName=cbAll, Mode=OneWay}" Grid.Column="2" Content="Floors"  HorizontalAlignment="Center" VerticalAlignment="Center" Height="15" Margin="0,7,75,7" Width="83" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
+
+                <CheckBox IsChecked="{Binding Foundation}" IsEnabled="{Binding IsChecked, ElementName=cbAll, Mode=OneWay}" Grid.Column="3" Content="Foundations"  HorizontalAlignment="Center" VerticalAlignment="Center" Height="15" Margin="0,7" Width="90" Grid.RowSpan="2"/>
+            </Grid>
+
+
+        </Grid>
+    </StackPanel>
+</Window>

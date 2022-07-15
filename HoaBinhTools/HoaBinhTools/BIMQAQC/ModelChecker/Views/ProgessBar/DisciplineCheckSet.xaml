@@ -1,0 +1,501 @@
+﻿<Page x:Class="HoaBinhTools.BIMQAQC.ModelChecker.Views.ProgessBar.DisciplineCheckSet"
+	  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+	  xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+	  xmlns:local="clr-namespace:HoaBinhTools.BIMQAQC.ModelChecker.Views.ProgessBar"
+	  xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+	  mc:Ignorable="d" 
+	  Background="White"
+	  d:DesignHeight="450" d:DesignWidth="1200"
+	  Title="DisciplineCheckSet">
+	<Page.Resources>
+		<ResourceDictionary Source="pack://application:,,,/HoaBinhTools;component/BIMQAQC/ResourceDictionary/ResourceDictionary.xaml"/>
+	</Page.Resources>
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="40"/>
+			<RowDefinition Height="*"/>
+			<RowDefinition Height="5"/>
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="100"/>
+			<ColumnDefinition />
+			<ColumnDefinition Width="80"/>
+		</Grid.ColumnDefinitions>
+
+		<TextBlock Grid.Row="0" Grid.Column="0"
+			Margin ="10,15,0,0"
+			Text="Check Set"/>
+
+		<ComboBox Grid.Row="0" Grid.Column="1"
+					Style="{StaticResource SDCombobox}"
+					ItemsSource="{Binding DesciplineCheck}"
+					SelectedItem="{Binding DesciplineCheckName,Mode=TwoWay}">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="SelectionChanged">
+					<i:InvokeCommandAction Command="{Binding btnCheckSetChange}"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</ComboBox>
+
+		<StackPanel Orientation="Horizontal" Width="Auto"
+					Grid.Row="0" Grid.Column="2" >
+
+			<Button Width="32" Height="32"
+					Style="{StaticResource SDButtonDel}" Margin="0,2,5,2"
+					ToolTip="Duplicate Checkset"
+					Command="{Binding btnDuplicate}">
+				<Image Width="24" Height="24"
+					Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/content-duplicate.png"/>
+			</Button>
+
+			<Button Width="32" Height="32"
+					Style="{StaticResource SDButtonDel}" Margin="5,2,10,2"
+					ToolTip="Delete Checkset"
+					Command="{Binding btnDeleteCheckSet}">
+				<Image Width="24" Height="24"
+					Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/file-document-remove-outline.png"/>
+			</Button>
+		</StackPanel>
+
+		<Grid Grid.Row="1" Grid.ColumnSpan="3">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="300"/>
+				<ColumnDefinition />
+			</Grid.ColumnDefinitions>
+
+			<ScrollViewer Width="295">
+				<DataGrid x:Name="dgCheck" Height="Auto"
+						  Style="{StaticResource SDDataGrid}"
+							GridLinesVisibility="None"
+							CanUserSortColumns="True"
+							CanUserAddRows="False"
+							AutoGenerateColumns="False"
+							Background="Transparent"
+							BorderBrush="Transparent"
+							ItemsSource="{Binding DesciplineCheckRows}"
+							SelectedItem="{Binding DisciplineCheckRow, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+							ScrollViewer.VerticalScrollBarVisibility="Hidden">
+					<DataGrid.Columns>
+
+						<DataGridTemplateColumn MaxWidth="25">
+							<DataGridTemplateColumn.CellTemplate>
+								<HierarchicalDataTemplate>
+									<StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+										<Button Width="18" Height="18"
+														Style="{StaticResource SDButtonDel}" Margin="2"
+														ToolTip="Move down"
+														Command="{Binding Path=DataContext.btndgCheckMoveDown,       
+														RelativeSource= {RelativeSource FindAncestor, AncestorType={x:Type DataGrid}}}"
+														CommandParameter="{Binding Path=Name}">
+											<Image Width="16" Height="16"
+														Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/arrow-down-bold-outline.png"/>
+											<Button.Resources>
+												<Style TargetType="{x:Type Border}">
+													<Setter Property="CornerRadius" Value="5"/>
+												</Style>
+											</Button.Resources>
+										</Button>
+									</StackPanel>
+								</HierarchicalDataTemplate>
+							</DataGridTemplateColumn.CellTemplate>
+						</DataGridTemplateColumn>
+
+						<DataGridTemplateColumn MaxWidth="25">
+							<DataGridTemplateColumn.CellTemplate>
+								<HierarchicalDataTemplate>
+									<StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+										<Button Width="18" Height="18"
+														Style="{StaticResource SDButtonDel}" Margin="2"
+														ToolTip="Move up"
+														Command="{Binding Path=DataContext.btndgCheckMoveUp,       
+														RelativeSource= {RelativeSource FindAncestor, AncestorType={x:Type DataGrid}}}"
+														CommandParameter="{Binding Path=Name}">
+											<Image Width="16" Height="16"
+														Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/arrow-up-bold-outline.png"/>
+											<Button.Resources>
+												<Style TargetType="{x:Type Border}">
+													<Setter Property="CornerRadius" Value="5"/>
+												</Style>
+											</Button.Resources>
+										</Button>
+									</StackPanel>
+								</HierarchicalDataTemplate>
+							</DataGridTemplateColumn.CellTemplate>
+						</DataGridTemplateColumn>
+						
+						<DataGridTemplateColumn Header="List check" Width="*">
+							<DataGridTemplateColumn.CellTemplate>
+								<HierarchicalDataTemplate>
+									<Button Style="{StaticResource SDButtonDel2}"
+											Content="{Binding Path=Name}"
+											ToolTip="{Binding Path=Name}"
+											HorizontalContentAlignment="Left"
+											Command="{Binding Path=DataContext.btnSelectCheck,       
+											RelativeSource= {RelativeSource FindAncestor, AncestorType={x:Type DataGrid}}}"
+											CommandParameter="{Binding Path=Name}">
+									</Button>
+								</HierarchicalDataTemplate>
+							</DataGridTemplateColumn.CellTemplate>
+						</DataGridTemplateColumn>
+
+
+					</DataGrid.Columns>
+
+
+					<!--<i:Interaction.Triggers>
+						<i:EventTrigger EventName="SelectionChanged">
+							<i:InvokeCommandAction Command="{Binding btnSelectCheck}"/>
+						</i:EventTrigger>
+					</i:Interaction.Triggers>-->
+				</DataGrid>
+			</ScrollViewer>
+
+			<Grid Grid.Column="1">
+				<Grid.RowDefinitions>
+					<RowDefinition Height="Auto"/>
+					<RowDefinition Height="Auto"/>
+					<RowDefinition Height="Auto"/>
+					<RowDefinition Height="Auto"/>
+					<RowDefinition Height="Auto"/>
+					<RowDefinition Height="40"/>
+					<RowDefinition Height="40"/>
+					<RowDefinition />
+				</Grid.RowDefinitions>
+				<Grid.ColumnDefinitions>
+					<ColumnDefinition Width="120"/>
+					<ColumnDefinition />
+				</Grid.ColumnDefinitions>
+
+				<TextBlock Text="Name:" Style="{StaticResource SDButtonText}"
+						   Grid.Row="0" Margin="20,15,0,5"/>
+
+				<Grid Grid.Row="0" Grid.Column="1" HorizontalAlignment="Stretch" Margin="0" >
+					<Grid.ColumnDefinitions>
+						<ColumnDefinition/>
+						<ColumnDefinition Width="40"/>
+						<ColumnDefinition Width="40"/>
+						<ColumnDefinition Width="40"/>
+					</Grid.ColumnDefinitions>
+					<TextBox Style="{StaticResource SDTextBox}"
+							 Width="Auto"
+						 Text="{Binding CheckName}"
+						 TextWrapping="Wrap"/>
+
+					<Button Width="32" Height="32" HorizontalAlignment="Right"
+							Grid.Column="1"
+					Style="{StaticResource SDButtonDel}" Margin="0,2,5,2"
+					ToolTip="Duplicate this check"
+					Command="{Binding btnAddCheck}">
+						<Image Width="24" Height="24"
+					Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/content-duplicate.png"/>
+					</Button>
+
+					<Button Width="32" Height="32" HorizontalAlignment="Right"
+							Grid.Column="2"
+					Style="{StaticResource SDButtonDel}" Margin="0,2,5,2"
+					ToolTip="Save this Check"
+					Command="{Binding btnSaveCheck}">
+						<Image Width="24" Height="24"
+					Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/content-save-check-outline.png"/>
+					</Button>
+
+					<Button Width="32" Height="32" HorizontalAlignment="Right"
+							Grid.Column="3"
+					Style="{StaticResource SDButtonDel}" Margin="0,2,5,2"
+					ToolTip="Delete this check"
+					Command="{Binding btnDeleteCheck}">
+						<Image Width="24" Height="24"
+					Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/file-document-remove-outline.png"/>
+					</Button>
+				</Grid>
+
+				<TextBlock Text="Description:" Style="{StaticResource SDButtonText}"
+						   Grid.Row="1" Margin="20,15,0,5"/>
+
+				<TextBox Style="{StaticResource SDTextBox}"
+						 Text="{Binding Description}"
+						 Grid.Row="1" Grid.Column="1" />
+
+				<TextBlock Text="Check Result:" Style="{StaticResource SDButtonText}"
+						   Grid.Row="2" Margin="20,15,0,5"/>
+
+				<ComboBox Style="{StaticResource SDCombobox}"
+						  ItemsSource="{Binding Check_Results}"
+						  SelectedItem="{Binding Check_Result}"
+						 Grid.Row="2" Grid.Column="1" />
+
+				<TextBlock Text="Failure Message:" Style="{StaticResource SDButtonText}"
+						   Grid.Row="3" Margin="20,15,0,5"/>
+
+				<TextBox Style="{StaticResource SDTextBox}"
+						 Text="{Binding Failure_Message}"
+						 Grid.Row="3" Grid.Column="1" />
+
+				<TextBlock Text="Ratings:" Style="{StaticResource SDButtonText}"
+						   Grid.Row="4" Margin="20,15,0,5"/>
+				
+				
+
+				<Grid Grid.Row="4" Grid.Column="1">
+					<Grid.ColumnDefinitions>
+						<ColumnDefinition Width="35"/>
+						<ColumnDefinition Width="35"/>
+						<ColumnDefinition Width="35"/>
+						<ColumnDefinition Width="35"/>
+						<ColumnDefinition Width="35"/>
+						<ColumnDefinition Width="35"/>
+						<ColumnDefinition Width="35"/>
+						<ColumnDefinition Width="35"/>
+						<ColumnDefinition Width="120"/>
+						<ColumnDefinition/>
+					</Grid.ColumnDefinitions>
+
+					<TextBox 
+						Style="{StaticResource SDTextBoxNoBackgroud2}"
+						 Text="0"
+						 Grid.Column="0"
+						IsEnabled="False"/>
+
+					<TextBox Background="LawnGreen"
+							 Foreground="LawnGreen"
+							   Style="{StaticResource SDTextBoxNoBackgroud2}"
+							   Grid.Column="1"/>
+					
+					<TextBox x:Name="tbRangeA"
+						Style="{StaticResource SDTextBoxNoBackgroud2}"
+						 Text="{Binding RangeA}"
+						 Grid.Column="2">
+						<i:Interaction.Triggers>
+							<i:EventTrigger EventName="LostKeyboardFocus">
+								<i:InvokeCommandAction Command="{Binding btnCheckRangeA}"
+													   CommandParameter="{Binding ElementName=tbRangeA,Path=Text}"/>
+							</i:EventTrigger>
+						</i:Interaction.Triggers>
+					</TextBox>
+
+					<TextBox Background="Yellow"
+							 Foreground="Yellow"
+							   Style="{StaticResource SDTextBoxNoBackgroud2}"
+							   Grid.Column="3"/>
+
+					<TextBox x:Name="tbRangeB" 
+						Style="{StaticResource SDTextBoxNoBackgroud2}"
+						 Text="{Binding RangeB}"
+						 Grid.Column="4" >
+						<i:Interaction.Triggers>
+							<i:EventTrigger EventName="LostKeyboardFocus">
+								<i:InvokeCommandAction Command="{Binding btnCheckRangeA}"
+													   CommandParameter="{Binding ElementName=tbRangeB,Path=Text}"/>
+							</i:EventTrigger>
+						</i:Interaction.Triggers>
+					</TextBox>
+
+					<TextBox Background="Red"
+							 Foreground="Red"
+							 Style="{StaticResource SDTextBoxNoBackgroud2}"
+							 Grid.Column="5"/>
+
+					<TextBox x:Name="tbRangeC" 
+						Style="{StaticResource SDTextBoxNoBackgroud2}"
+						 Text="{Binding RangeC}"
+						 Grid.Column="6" >
+						<i:Interaction.Triggers>
+							<i:EventTrigger EventName="LostKeyboardFocus">
+								<i:InvokeCommandAction Command="{Binding btnCheckRangeA}"
+													   CommandParameter="{Binding ElementName=tbRangeC,Path=Text}"/>
+							</i:EventTrigger>
+						</i:Interaction.Triggers>
+					</TextBox>
+
+					<TextBox Background="Purple"
+							 Foreground="Purple"
+							 Style="{StaticResource SDTextBoxNoBackgroud2}"
+							 Grid.Column="7"/>
+
+					<TextBlock Text="Parameters Result:" Style="{StaticResource SDButtonText}"
+						   Grid.Column="8" Margin="20,15,0,5"/>
+
+					<TextBox Style="{StaticResource SDTextBox}"
+						 Text="{Binding ParasInResult}"
+						 Grid.Column="9" />
+				</Grid>
+				
+				<CheckBox Grid.Row="5" Margin="20,10,5,5"
+						  IsChecked="{Binding Run_ThisCheck}"
+						  Content="Set this check to run" Style="{StaticResource SDCheckBox}"/>
+
+				<CheckBox Grid.Row="5" Margin="20,10,5,5" Grid.Column="1" Grid.ColumnSpan="2"
+						  HorizontalAlignment="Right"
+						  IsChecked="{Binding IsImpotant}"
+						  Content="Is Mandatory Condition" Style="{StaticResource SDCheckBox}"/>
+				
+				<Button Width="70" Grid.Row="6" Content="Add Filter" HorizontalAlignment="Left"
+							Margin="0,0,0,10"
+							Command="{Binding btnAddFilter}"
+							Style="{StaticResource SDButton}"/>
+
+				<ScrollViewer Grid.Row="7" Grid.ColumnSpan="2">
+					<DataGrid x:Name="dgFilter" Height="Auto"
+							Margin="0,5,0,0"
+							GridLinesVisibility="None"
+							CanUserSortColumns="True"
+							CanUserAddRows="False"
+							AutoGenerateColumns="False"
+							Background="Transparent"
+							BorderBrush="Transparent"
+							ItemsSource="{Binding DesciplineCheckRowFilters,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
+							ScrollViewer.VerticalScrollBarVisibility="Hidden">
+						<DataGrid.Columns>
+
+							<DataGridTemplateColumn MaxWidth="30">
+								<DataGridTemplateColumn.CellTemplate>
+									<HierarchicalDataTemplate>
+										<StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+											<Button Width="18" Height="18"
+														Style="{StaticResource SDButtonDel}" Margin="2"
+														ToolTip="Del this filter"
+														Command="{Binding Path=DataContext.btndgfilterDelete,       
+														RelativeSource= {RelativeSource FindAncestor, AncestorType={x:Type DataGrid}}}">
+												<Image Width="16" Height="16"
+														Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/file-document-remove-outline.png"/>
+												<Button.Resources>
+													<Style TargetType="{x:Type Border}">
+														<Setter Property="CornerRadius" Value="5"/>
+													</Style>
+												</Button.Resources>
+											</Button>
+										</StackPanel>
+									</HierarchicalDataTemplate>
+								</DataGridTemplateColumn.CellTemplate>
+							</DataGridTemplateColumn>
+
+							<DataGridTemplateColumn MaxWidth="20">
+								<DataGridTemplateColumn.CellTemplate>
+									<HierarchicalDataTemplate>
+										<StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+											<Button Width="18" Height="18"
+														Style="{StaticResource SDButtonDel}" Margin="2"
+														ToolTip="Move down"
+														Command="{Binding Path=DataContext.btndgfilterMoveDown,       
+														RelativeSource= {RelativeSource FindAncestor, AncestorType={x:Type DataGrid}}}">
+												<Image Width="16" Height="16"
+														Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/arrow-down-bold-outline.png"/>
+												<Button.Resources>
+													<Style TargetType="{x:Type Border}">
+														<Setter Property="CornerRadius" Value="5"/>
+													</Style>
+												</Button.Resources>
+											</Button>
+										</StackPanel>
+									</HierarchicalDataTemplate>
+								</DataGridTemplateColumn.CellTemplate>
+							</DataGridTemplateColumn>
+
+							<DataGridTemplateColumn MaxWidth="20">
+								<DataGridTemplateColumn.CellTemplate>
+									<HierarchicalDataTemplate>
+										<StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+											<Button Width="18" Height="18"
+														Style="{StaticResource SDButtonDel}" Margin="2"
+														ToolTip="Move up"
+														Command="{Binding Path=DataContext.btndgfilterMoveUp,       
+														RelativeSource= {RelativeSource FindAncestor, AncestorType={x:Type DataGrid}}}">
+												<Image Width="16" Height="16"
+														Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/arrow-up-bold-outline.png"/>
+												<Button.Resources>
+													<Style TargetType="{x:Type Border}">
+														<Setter Property="CornerRadius" Value="5"/>
+													</Style>
+												</Button.Resources>
+											</Button>
+										</StackPanel>
+									</HierarchicalDataTemplate>
+								</DataGridTemplateColumn.CellTemplate>
+							</DataGridTemplateColumn>
+
+							<DataGridTemplateColumn MinWidth="150" MaxWidth="150" Header="Oparator">
+								<DataGridTemplateColumn.CellTemplate>
+									<HierarchicalDataTemplate>
+										<ComboBox Width="80"
+												  ItemsSource="{Binding Path=Oparators,UpdateSourceTrigger=PropertyChanged}"
+												  SelectedItem="{Binding Path=Oparator,UpdateSourceTrigger=PropertyChanged}"
+												  Style="{StaticResource SDCombobox}"/>
+									</HierarchicalDataTemplate>
+								</DataGridTemplateColumn.CellTemplate>
+							</DataGridTemplateColumn>
+
+							<DataGridTemplateColumn Width="150" Header="Criteria">
+								<DataGridTemplateColumn.CellTemplate>
+									<HierarchicalDataTemplate>
+										<ComboBox Margin="2"
+												  ItemsSource="{Binding Path=Criterias,UpdateSourceTrigger=PropertyChanged}"
+												  SelectedItem="{Binding Path=Criteria,UpdateSourceTrigger=PropertyChanged}"
+												  Style="{StaticResource SDCombobox}">
+											<i:Interaction.Triggers>
+												<i:EventTrigger EventName="SelectionChanged">
+													<i:InvokeCommandAction Command="{Binding Path=DataContext.btnChangeCriteriaFilter,       
+														RelativeSource= {RelativeSource FindAncestor, AncestorType={x:Type DataGrid}}}"/>
+												</i:EventTrigger>
+											</i:Interaction.Triggers>
+										</ComboBox>
+									</HierarchicalDataTemplate>
+								</DataGridTemplateColumn.CellTemplate>
+							</DataGridTemplateColumn>
+
+							<DataGridTemplateColumn Width="200" Header="Property">
+								<DataGridTemplateColumn.CellTemplate>
+									<HierarchicalDataTemplate>
+										<ComboBox Margin="2"
+												  ItemsSource="{Binding Path=Properties,UpdateSourceTrigger=PropertyChanged}"
+												  SelectedItem="{Binding Path=Property,UpdateSourceTrigger=PropertyChanged}"
+												  Style="{StaticResource SDComboboxIsEdit}">
+											<i:Interaction.Triggers>
+												<i:EventTrigger EventName="SelectionChanged">
+													<i:InvokeCommandAction Command="{Binding Path=DataContext.btnChangeProperty,       
+														RelativeSource= {RelativeSource FindAncestor, AncestorType={x:Type DataGrid}}}"/>
+												</i:EventTrigger>
+												<i:EventTrigger EventName="KeyUp">
+													<i:InvokeCommandAction Command="{Binding Path=DataContext.btnFilterProperty,       
+														RelativeSource= {RelativeSource FindAncestor, AncestorType={x:Type DataGrid}}}"/>
+												</i:EventTrigger>
+											</i:Interaction.Triggers>
+										</ComboBox>
+									</HierarchicalDataTemplate>
+								</DataGridTemplateColumn.CellTemplate>
+							</DataGridTemplateColumn>
+
+							<DataGridTemplateColumn Width="200" Header="Condition">
+								<DataGridTemplateColumn.CellTemplate>
+									<HierarchicalDataTemplate>
+										<ComboBox Margin="2"
+												  ItemsSource="{Binding Path=Conditions,UpdateSourceTrigger=PropertyChanged}"
+												  SelectedItem="{Binding Path=Condition,UpdateSourceTrigger=PropertyChanged}"
+												  Style="{StaticResource SDCombobox}">
+											<i:Interaction.Triggers>
+												<i:EventTrigger EventName="SelectionChanged">
+													<i:InvokeCommandAction Command="{Binding Path=DataContext.btnChangeConditions,       
+														RelativeSource= {RelativeSource FindAncestor, AncestorType={x:Type DataGrid}}}"/>
+												</i:EventTrigger>
+											</i:Interaction.Triggers>
+										</ComboBox>
+									</HierarchicalDataTemplate>
+								</DataGridTemplateColumn.CellTemplate>
+							</DataGridTemplateColumn>
+
+							<DataGridTemplateColumn Width="200" Header="Value">
+								<DataGridTemplateColumn.CellTemplate>
+									<HierarchicalDataTemplate>
+										<TextBox Style="{StaticResource SDTextBox}"
+												 Text="{Binding Value,UpdateSourceTrigger=PropertyChanged}"/>
+									</HierarchicalDataTemplate>
+								</DataGridTemplateColumn.CellTemplate>
+							</DataGridTemplateColumn>
+						</DataGrid.Columns>
+					</DataGrid>
+				</ScrollViewer>
+			</Grid>
+		</Grid>
+	</Grid>
+</Page>

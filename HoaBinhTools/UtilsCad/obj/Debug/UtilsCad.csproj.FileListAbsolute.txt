@@ -1,0 +1,2 @@
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\UtilsCad\obj\Debug\UtilsCad.csprojAssemblyReference.cache
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\UtilsCad\obj\Debug\UtilsCad.csproj.CoreCompileInputs.cache

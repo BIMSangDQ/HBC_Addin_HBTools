@@ -1,0 +1,716 @@
+﻿<Window x:Class="HoaBinhTools.BIMQAQC.ModelChecker.Views.ModelCheckerLaunchView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:local="clr-namespace:HoaBinhTools.BIMQAQC.ModelChecker.Views"
+        mc:Ignorable="d"
+        Title="Model Checker"
+		Height="800" Width="1450">
+	<Window.Resources>
+		<ResourceDictionary Source="pack://application:,,,/HoaBinhTools;component/BIMQAQC/ResourceDictionary/ResourceDictionary.xaml"/>
+	</Window.Resources>
+
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition/>
+			<RowDefinition Height="50"/>
+		</Grid.RowDefinitions>
+
+		<Grid Grid.Row="0" Margin="0,10,0,0">
+
+			<TabControl
+					Style="{StaticResource SDTabControl}"
+					SnapsToDevicePixels="True"
+					TabStripPlacement="Left">
+
+				<TabItem Style="{StaticResource SDTabItem}">
+					<TabItem.Header>
+						<StackPanel Width="auto" Height="auto">
+							<Image Width="32" Height="32"
+								   Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/cog-outline.png"/>
+							<TextBlock
+									HorizontalAlignment="Center"
+									Text="Setting" />
+						</StackPanel>
+					</TabItem.Header>
+
+					<Grid>
+						<Grid.RowDefinitions>
+							<RowDefinition Height="30"/>
+							<RowDefinition Height="30"/>
+							<RowDefinition Height="30"/>
+							<RowDefinition Height="30"/>
+							<RowDefinition Height="30"/>
+							<RowDefinition Height="30"/>
+							<RowDefinition Height="30"/>
+							<RowDefinition Height="30"/>
+							<RowDefinition Height="30"/>
+							<RowDefinition Height="60"/>
+							<RowDefinition />
+							<RowDefinition Height="80"/>
+						</Grid.RowDefinitions>
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition/>
+							<ColumnDefinition Width="200"/>
+						</Grid.ColumnDefinitions>
+
+						<CheckBox x:Name="CbAutoRun"
+								  Style="{StaticResource SDCheckBox}"
+										  Grid.Row="0" Content="Auto Run"
+										  IsChecked="{Binding IsAutoRun}"
+										  Margin="10,5"/>
+
+						<TextBlock Text="Choose a time-based type trigger"
+								   Grid.Row="1" Margin="10,5"
+								   Style="{StaticResource SDButtonText}"/>
+
+						<ComboBox x:Name="TimeTriger"
+									Grid.Row="2" Grid.ColumnSpan="2"
+									IsEnabled="{Binding Path=IsChecked, ElementName=CbAutoRun}"
+									Style="{StaticResource SDCombobox}"
+									Margin="10,0,10,0"
+									ItemsSource="{Binding TimeTrigers}"
+									SelectedItem="{Binding TimeTriger}">
+							<i:Interaction.Triggers>
+								<i:EventTrigger EventName="SelectionChanged">
+									<i:InvokeCommandAction 
+										Command="{Binding btnChangeTimeTriger}"
+										CommandParameter="{Binding ElementName=TimeTriger, Path=SelectedValue}"/>
+								</i:EventTrigger>
+							</i:Interaction.Triggers>
+						</ComboBox>
+
+
+						<TextBlock Text="Choose a day"
+								   Grid.Row="3" Margin="10,5"
+								   Style="{StaticResource SDButtonText}"/>
+
+						<ComboBox x:Name="TimeTrigerlevel2"
+								    IsEnabled="{Binding Path=IsChecked, ElementName=CbAutoRun}"
+									Grid.Row="4" Grid.ColumnSpan="2"
+									Style="{StaticResource SDCombobox}"
+									Margin="10,0,10,0"
+									ItemsSource="{Binding DatesApps}"
+									SelectedItem="{Binding DatesApp}"/>
+
+						<TextBlock Text="Choose time of day"
+								   Grid.Row="5" Margin="10,5"
+								   Style="{StaticResource SDButtonText}"/>
+
+						<ComboBox x:Name="TimeTrigerlevel3"
+									Grid.Row="6" Grid.ColumnSpan="2"
+									IsEnabled="{Binding Path=IsChecked, ElementName=CbAutoRun}"
+									Style="{StaticResource SDCombobox}"
+									Margin="10,0,10,0"
+									ItemsSource="{Binding TimeApps}"
+									SelectedItem="{Binding TimeApp}"/>
+
+						<TextBlock Text="Choose Folder Result"
+								   Grid.Row="7" Margin="10,5"
+								   Style="{StaticResource SDButtonText}"/>
+
+						<Grid Grid.Row="8" Grid.ColumnSpan="2">
+							<Grid.ColumnDefinitions>
+								<ColumnDefinition/>
+								<ColumnDefinition Width="32"/>
+							</Grid.ColumnDefinitions>
+							<TextBox 	Style="{StaticResource SDTextBox}"
+									Text="{Binding FolderResult}"
+									Margin="10,0,10,0"/>
+
+							<Button Grid.Column="1" 
+								Width="32" Height="32" HorizontalAlignment="Right"
+								Style="{StaticResource SDButtonDel}" Margin="0,2,5,2"
+								ToolTip="Select folder to save result file"
+								Command="{Binding btnSelectFolder}">
+								<Image Width="24" Height="24"
+								Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/folder-arrow-up-outline.png"/>
+							</Button>
+						</Grid>
+						<StackPanel Grid.Row="9" Grid.Column="0" Margin="10" Orientation="Horizontal">
+							<RadioButton x:Name="CbListFile" 
+										 Style="{StaticResource SDRadio}"
+										IsChecked="{Binding IsFileSelect}"
+										Content="Execute with list file select"
+										Margin="0,10"/>
+
+							<RadioButton x:Name="CbGGSheet"
+										 Style="{StaticResource SDRadio}"
+										IsChecked="{Binding IsGGsheet}"
+										Content="Execute with list from googlesheet"
+										Margin="10">
+								<i:Interaction.Triggers>
+									<i:EventTrigger EventName="Checked" >
+										<i:InvokeCommandAction                                        
+												Command="{Binding BtnGetListInGGSheet}" >
+										</i:InvokeCommandAction>
+									</i:EventTrigger>
+								</i:Interaction.Triggers>
+							</RadioButton>
+						</StackPanel>
+						<Button Height="50" HorizontalAlignment="Right" Margin="0,0,10,0"
+										Grid.Row="9" Grid.Column="1"
+										Width="100"
+										Style="{StaticResource SDButton}"
+										IsEnabled="{Binding Path=IsChecked, ElementName=CbListFile}"
+										Command="{Binding SelectFile}">
+							<Button.Resources>
+								<Style TargetType="{x:Type Border}">
+									<Setter Property="CornerRadius" Value="7"/>
+								</Style>
+							</Button.Resources>
+							<StackPanel Orientation="Vertical">
+								<Image Width="32" Height="32"
+								   Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/file-outline.png"/>
+								<TextBlock Text="Select File"/>
+							</StackPanel>
+						</Button>
+
+						<DataGrid x:Name="dgFile"
+							Grid.Row="10" Height="Auto"
+								GridLinesVisibility="None"
+								Grid.ColumnSpan="2"
+								CanUserSortColumns="True"
+								CanUserAddRows="False"
+								AutoGenerateColumns="False"
+								Background="Transparent"
+								BorderBrush="Transparent"
+								Margin="10,0,10,0" ItemsSource="{Binding ListFileAutoRun}"
+								ScrollViewer.VerticalScrollBarVisibility="Visible">
+							<DataGrid.Columns >
+								<DataGridTemplateColumn Header="File Name" Width="*">
+									<DataGridTemplateColumn.CellTemplate>
+										<DataTemplate>
+											<StackPanel Orientation="Horizontal">
+												<Button Width="18" Height="18"
+														Style="{StaticResource SDButtonDel}" Margin="15,2,5,2"
+														ToolTip="Delete File"
+														Command="{Binding Path=DataContext.btnDelPath,       
+														 RelativeSource= {RelativeSource FindAncestor, AncestorType={x:Type DataGrid}}}">
+													<Image Width="16" Height="16"
+														Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/file-document-remove-outline.png"/>
+													<Button.Resources>
+														<Style TargetType="{x:Type Border}">
+															<Setter Property="CornerRadius" Value="5"/>
+														</Style>
+													</Button.Resources>
+												</Button>
+
+												<TextBlock Text="{Binding FileName}" Margin="5"
+														   Style="{StaticResource SDButtonText}"/>
+											</StackPanel>
+										</DataTemplate>
+									</DataGridTemplateColumn.CellTemplate>
+								</DataGridTemplateColumn>
+							</DataGrid.Columns>
+						</DataGrid>
+
+						<Button Grid.Row="11" Margin="10" Grid.Column="1"
+									Command="{Binding btnSaveSetting}"
+									Style="{StaticResource SDButton}"
+									Height="50" Width="150" HorizontalAlignment="Right"
+									Content="SaveSetting">
+							<Button.Resources>
+								<Style TargetType="{x:Type Border}">
+									<Setter Property="CornerRadius" Value="7"/>
+								</Style>
+							</Button.Resources>
+						</Button>
+
+					</Grid>
+				</TabItem>
+
+				<TabItem Style="{StaticResource SDTabItem}">
+					<TabItem.Header>
+						<StackPanel Width="auto" Height="auto">
+							<Image Width="32" Height="32"
+								   Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/check-circle.png"/>
+							<TextBlock
+									HorizontalAlignment="Center"
+									Text="General" />
+						</StackPanel>
+
+					</TabItem.Header>
+
+					<Grid>
+						<Frame Width="Auto" Height="Auto" 
+							   x:Name="CheckSetFrame"/>
+					</Grid>
+				</TabItem>
+
+
+				<TabItem Style="{StaticResource SDTabItem}">
+					<TabItem.Header>
+						<StackPanel Width="auto" Height="auto">
+							<Image Width="32" Height="32"
+								   Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/check-circle.png"/>
+							<TextBlock
+									HorizontalAlignment="Center"
+									Text="Discipline" />
+						</StackPanel>
+
+					</TabItem.Header>
+
+					<Grid>
+						<Frame Width="Auto" Height="Auto" 
+							   x:Name="DFrame2"/>
+					</Grid>
+				</TabItem>
+
+				<TabItem Style="{StaticResource SDTabItem}" x:Name="ResultTab" IsSelected="True">
+					<TabItem.Header>
+						<StackPanel Width="auto" Height="auto">
+							<Image Width="32" Height="32"
+								   Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/check-circle.png"/>
+							<TextBlock
+									HorizontalAlignment="Center"
+									Text="Result" />
+						</StackPanel>
+
+					</TabItem.Header>
+					<Grid>
+						<Grid.RowDefinitions>
+							<RowDefinition/>
+						</Grid.RowDefinitions>
+						<ScrollViewer Grid.Row="1" Grid.ColumnSpan="3" Margin="0,0,0,0">
+							<DataGrid Grid.Row="0" Height="Auto" x:Name="dgResult"
+								  GridLinesVisibility="Horizontal"
+										  CanUserSortColumns="True"
+										  CanUserAddRows="False"
+										  AutoGenerateColumns="False" HeadersVisibility="None"
+										  Background="Transparent"
+										  BorderBrush="Transparent"
+										  Margin="10,0,0,0" ItemsSource="{Binding ListFileInfors}">
+								<DataGrid.Columns>
+
+									<DataGridTemplateColumn Header="File Infor" Width="*">
+										<DataGridTemplateColumn.CellTemplate>
+											<DataTemplate>
+												<Expander Width="Auto" Background="Transparent"
+														  HorizontalAlignment="Stretch">
+													<Expander.Header>
+														<Grid>
+															<Grid.ColumnDefinitions>
+																<ColumnDefinition Width="320"/>
+																<ColumnDefinition Width="*"/>
+															</Grid.ColumnDefinitions>
+															<TextBlock Text="{Binding FileName}"/>
+
+															<StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right">
+																<TextBlock Text="{Binding FileResultsDescription}" x:Name="tbl_FileNameDass">
+																	<TextBlock.Style>
+																		<Style TargetType="TextBlock">
+																			<Setter Property="Foreground" Value="Green"></Setter>
+																			<Style.Triggers>
+																				<DataTrigger Binding="{Binding ElementName=tbl_FileNameDass, Path=Text}" Value="FAIL">
+																					<Setter Property="Foreground" Value="Red" />
+																				</DataTrigger>
+																			</Style.Triggers>
+																		</Style>
+																	</TextBlock.Style>
+																</TextBlock>
+															</StackPanel>
+														</Grid>
+													</Expander.Header>
+													<StackPanel Orientation="Vertical" Margin="15,0,0,0">
+														<Expander Width="Auto" Background="Transparent"
+														  HorizontalAlignment="Stretch">
+
+															<Expander.Header>
+																<Grid>
+																	<Grid.ColumnDefinitions>
+																		<ColumnDefinition Width="300"/>
+																		<ColumnDefinition Width="*"/>
+																	</Grid.ColumnDefinitions>
+																	<TextBlock>File Infor</TextBlock>
+
+																	<StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right">
+																		<TextBlock Text="{Binding FileGeneralResultsDescription}" Style="{StaticResource SDButtonText}">
+																		</TextBlock>
+																	</StackPanel>
+																</Grid>
+															</Expander.Header>
+
+															<StackPanel Orientation="Vertical"
+															Background="Transparent"
+															Margin="24,5,24,5">
+
+																<StackPanel Orientation="Horizontal" Background="Transparent" Margin="2">
+																	<TextBlock	Text="File Name Check *:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding File_name_Check,UpdateSourceTrigger=PropertyChanged}" x:Name="tbl_FileNameCheck">
+																		<TextBlock.Style>
+																			<Style TargetType="TextBlock">
+																				<Setter Property="Foreground" Value="Green"></Setter>
+																				<Style.Triggers>
+																					<DataTrigger Binding="{Binding ElementName=tbl_FileNameCheck, Path=Text}" Value="False">
+																						<Setter Property="Foreground" Value="Red" />
+																					</DataTrigger>
+																				</Style.Triggers>
+																			</Style>
+																		</TextBlock.Style>
+																	</TextBlock>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Background="Transparent" Margin="2">
+																	<TextBlock	Text="File Size *:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding FileSize}" Style="{StaticResource SDButtonTextBlack}" />
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Margin="2">
+																	<TextBlock	Text="Warnings *:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding Warnings}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Margin="2">
+																	<TextBlock	Text="Total_Element:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding Total_Element}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Margin="2">
+																	<TextBlock	Text="Purable_Elements:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding Purable_Elements}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Margin="2">
+																	<TextBlock	Text="Model_Groups:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding Model_Groups}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Margin="2">
+																	<TextBlock	Text="Detail_Groups:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding Detail_Groups}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Margin="2">
+																	<TextBlock	Text="In_Place_Families:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding In_Place_Families}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Margin="2">
+																	<TextBlock	Text="Duplicate_Intances:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding Duplicate_Intances}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Margin="2">
+																	<TextBlock	Text="Views not on sheet:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding Views}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Margin="2">
+																	<TextBlock	Text="Sheets:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding Sheets}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Margin="2">
+																	<TextBlock	Text="Hidden_Elements:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding Hidden_Elements}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Margin="2">
+																	<TextBlock	Text="Cad_Imports *:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding Cad_Imports}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Margin="2">
+																	<TextBlock	Text="Link_Revit:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding Link_Revit}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Margin="2">
+																	<TextBlock	Text="Linked_Cad:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding Linked_Cad}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Margin="2">
+																	<TextBlock	Text="Worksets:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding Worksets}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Background="Transparent" Margin="2">
+																	<TextBlock	Text="Project Infor Check:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding ProjectInfor_Check,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Background="Transparent" Margin="2">
+																	<TextBlock	Text="Project Location Check:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding ProjectLocation_Check,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource SDButtonTextBlack}" />
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Background="Transparent" Margin="2">
+																	<TextBlock	Text="Levels and Grids on wrong workset:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding Levels_Workset_Check,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource SDButtonTextBlack}" />
+																</StackPanel>
+
+																<StackPanel Orientation="Horizontal" Background="Transparent" Margin="2">
+																	<TextBlock	Text="Wrong Elements on grid workset:" Width="300" Style="{StaticResource SDButtonTextBlack}"/>
+																	<TextBlock	Text="{Binding WrongElement_Check,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource SDButtonTextBlack}"/>
+																</StackPanel>
+															</StackPanel>
+														</Expander>
+
+														<Expander Background="Transparent">
+															<Expander.Header>
+																<Grid>
+																	<Grid.ColumnDefinitions>
+																		<ColumnDefinition Width="300"/>
+																		<ColumnDefinition Width="*"/>
+																	</Grid.ColumnDefinitions>
+																	<TextBlock>Discipline Check</TextBlock>
+
+																	<StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right">
+																		<TextBlock Style="{StaticResource SDButtonText}" Text="{Binding FileCheckResultsDescription}"/>
+																	</StackPanel>
+																</Grid>
+															</Expander.Header>
+															<DataGrid Grid.Row="0" Height="Auto" x:Name="dtg"
+																	  GridLinesVisibility="Horizontal"
+																	  CanUserSortColumns="True"
+																	  CanUserAddRows="False"
+																	  AutoGenerateColumns="False"
+																	  HeadersVisibility="None"
+																	  Background="Transparent"
+																	  BorderBrush="Transparent"
+																	  Margin="10,0,0,0" ItemsSource="{Binding Path=FileCheckResults}">
+																<DataGrid.Columns>
+																	<DataGridTemplateColumn Header="File Infor" Width="*">
+																		<DataGridTemplateColumn.CellTemplate>
+																			<DataTemplate>
+																				<ScrollViewer Margin="15,0,0,0">
+																					<StackPanel>
+																						<Grid>
+																							<Grid.RowDefinitions>
+																								<RowDefinition Height="Auto"/>
+																								<RowDefinition Height="Auto"/>
+																							</Grid.RowDefinitions>
+
+																							<StackPanel Orientation="Horizontal" Grid.Row="0">
+																								<Image Width="24" Height="24">
+																									<Image.Style>
+																										<Style TargetType="Image">
+																											<Style.Triggers>
+																												<MultiDataTrigger>
+																													<MultiDataTrigger.Conditions>
+																														<Condition Binding="{Binding Path=IsImportant}" Value="True"/>
+																														<Condition Binding="{Binding Path=Result}" Value="False"/>
+																														<Condition Binding="{Binding Path=SetRange}" Value="D"/>
+																													</MultiDataTrigger.Conditions>
+																													<Setter Property="Source" Value="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/alert.png"/>
+																												</MultiDataTrigger>
+																												<MultiDataTrigger>
+																													<MultiDataTrigger.Conditions>
+																														<Condition Binding="{Binding Path=IsImportant}" Value="True"/>
+																														<Condition Binding="{Binding Path=Result}" Value="False"/>
+																														<Condition Binding="{Binding Path=SetRange}" Value="C"/>
+																													</MultiDataTrigger.Conditions>
+																													<Setter Property="Source" Value="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/alert.png"/>
+																												</MultiDataTrigger>
+																												<MultiDataTrigger>
+																													<MultiDataTrigger.Conditions>
+																														<Condition Binding="{Binding Path=IsImportant}" Value="True"/>
+																														<Condition Binding="{Binding Path=Result}" Value="False"/>
+																														<Condition Binding="{Binding Path=SetRange}" Value="B"/>
+																													</MultiDataTrigger.Conditions>
+																													<Setter Property="Source" Value="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/alpha-x-box-yellow.png"/>
+																												</MultiDataTrigger>
+																												<MultiDataTrigger>
+																													<MultiDataTrigger.Conditions>
+																														<Condition Binding="{Binding Path=IsImportant}" Value="True"/>
+																														<Condition Binding="{Binding Path=SetRange}" Value="A"/>
+																													</MultiDataTrigger.Conditions>
+																													<Setter Property="Source" Value="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/checkbox-marked.png"/>
+																												</MultiDataTrigger>
+																												<MultiDataTrigger>
+																													<MultiDataTrigger.Conditions>
+																														<Condition Binding="{Binding Path=IsImportant}" Value="False"/>
+																														<Condition Binding="{Binding Path=Result}" Value="False"/>
+																														<Condition Binding="{Binding Path=SetRange}" Value="D"/>
+																													</MultiDataTrigger.Conditions>
+																													<Setter Property="Source" Value="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/alpha-x-box-Important.png"/>
+																												</MultiDataTrigger>
+																												<MultiDataTrigger>
+																													<MultiDataTrigger.Conditions>
+																														<Condition Binding="{Binding Path=IsImportant}" Value="False"/>
+																														<Condition Binding="{Binding Path=Result}" Value="False"/>
+																														<Condition Binding="{Binding Path=SetRange}" Value="C"/>
+																													</MultiDataTrigger.Conditions>
+																													<Setter Property="Source" Value="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/alpha-x-box.png"/>
+																												</MultiDataTrigger>
+																												<MultiDataTrigger>
+																													<MultiDataTrigger.Conditions>
+																														<Condition Binding="{Binding Path=Result}" Value="False"/>
+																														<Condition Binding="{Binding Path=SetRange}" Value="B"/>
+																													</MultiDataTrigger.Conditions>
+																													<Setter Property="Source" Value="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/alpha-x-box-yellow.png"/>
+																												</MultiDataTrigger>
+																												<MultiDataTrigger>
+																													<MultiDataTrigger.Conditions>
+																														<Condition Binding="{Binding Path=Result}" Value="False"/>
+																														<Condition Binding="{Binding Path=SetRange}" Value="A"/>
+																													</MultiDataTrigger.Conditions>
+																													<Setter Property="Source" Value="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/checkbox-marked.png"/>
+																												</MultiDataTrigger>
+                                                                                                                <MultiDataTrigger>
+                                                                                                                    <MultiDataTrigger.Conditions>
+                                                                                                                        <Condition Binding="{Binding Path=Result}" Value="True"/>
+                                                                                                                        <Condition Binding="{Binding Path=SetRange}" Value="A"/>
+                                                                                                                    </MultiDataTrigger.Conditions>
+                                                                                                                    <Setter Property="Source" Value="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/checkbox-marked.png"/>
+                                                                                                                </MultiDataTrigger>
+                                                                                                                <DataTrigger Binding="{Binding Path=Result}" Value="True">
+																													<Setter Property="Source" Value="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/checkbox-marked.png"/>
+																												</DataTrigger>
+																											</Style.Triggers>
+																										</Style>
+																									</Image.Style>
+																								</Image>
+
+																								<TextBlock Text="{Binding Path=Name}" Style="{StaticResource SD7TextBlock}" Margin="5,0,0,0"/>
+
+																							</StackPanel>
+
+																							<!--<TextBlock Grid.Row="1"-->
+																							<!--Text="{Binding Path=Description}" Style="{StaticResource SDButtonText}" Margin="35,5,0,0"/>-->
+
+																							<Expander Width="Auto" Background="Transparent" Grid.Row="1" x:Name="ExpanderDis"
+																									  HorizontalAlignment="Stretch" Header="{Binding Path=Description}">
+																								<StackPanel Orientation="Vertical">
+																									<TextBlock  
+																									Text="{Binding Path=Failure_Message}" Style="{StaticResource SD7TextBlock}" Margin="35,5,0,0"/>
+
+																									<StackPanel Orientation="Horizontal" >
+																										<TextBlock Text="Count:" Style="{StaticResource SD7TextBlock}" Margin="35,5,0,0"/>
+																										<TextBlock Text="{Binding Path=ElementCount}" Style="{StaticResource SD7TextBlock}" Margin="5,5,0,0"/>
+																									</StackPanel>
+
+																									<DataGrid  Height="Auto" x:Name="dgElement"
+																									  GridLinesVisibility="Horizontal"
+																									  CanUserSortColumns="True"
+																									  CanUserAddRows="False"
+																									  AutoGenerateColumns="False"
+																									  MaxHeight="300"
+																									  Background="Transparent"
+																									  BorderBrush="Transparent"
+																									  Margin="35,5,0,0" ItemsSource="{Binding Path=Elements}">
+																										<DataGrid.Columns>
+																											<DataGridTemplateColumn  Width="30">
+																												<DataGridTemplateColumn.CellTemplate>
+																													<DataTemplate>
+																														<StackPanel Orientation="Horizontal">
+																															<Button Width="18" Height="18"
+																																Style="{StaticResource SDButtonDel}" Margin="5,2,5,2"
+																																ToolTip="Find Element"
+																																Command="{Binding Path=DataContext.btnFindElement,       
+																																RelativeSource= {RelativeSource FindAncestor,AncestorType={x:Type DataGrid},AncestorLevel=3}}"
+																																CommandParameter="{Binding ElementName=dgElement,Path=SelectedItem.ElementId}">
+																																<Image Width="16" Height="16"
+																																Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/magnify.png"/>
+																																<Button.Resources>
+																																	<Style TargetType="{x:Type Border}">
+																																		<Setter Property="CornerRadius" Value="5"/>
+																																	</Style>
+																																</Button.Resources>
+																															</Button>
+																														</StackPanel>
+																													</DataTemplate>
+																												</DataGridTemplateColumn.CellTemplate>
+																											</DataGridTemplateColumn>
+
+																											<DataGridTextColumn Header="Element Id" Width="150" Binding="{Binding Path=ElementId}"/>
+
+																											<DataGridTextColumn Header="Category" Width="150" Binding="{Binding Path=Category}"/>
+
+																											<DataGridTextColumn Header="Type" Width="150" Binding="{Binding Path=Type}"/>
+
+																											<DataGridTextColumn Header="Family Name" Width="150" Binding="{Binding Path=Name}"/>
+
+																											<DataGridTextColumn 
+																												Width="150" Binding="{Binding Path=Para1Value}">
+																												<DataGridTextColumn.HeaderTemplate>
+																													<DataTemplate>
+																														<TextBlock Text="{Binding ElementName=dgElement,Path=Items[0].Para1}"/>
+																													</DataTemplate>
+																												</DataGridTextColumn.HeaderTemplate>
+																											</DataGridTextColumn>
+
+																											<DataGridTextColumn Header="{Binding Para2}" Width="150" Binding="{Binding Path=Para2Value}">
+																												<DataGridTextColumn.HeaderTemplate>
+																													<DataTemplate>
+																														<TextBlock Text="{Binding ElementName=dgElement,Path=Items[0].Para2}"/>
+																													</DataTemplate>
+																												</DataGridTextColumn.HeaderTemplate>
+																											</DataGridTextColumn>
+
+																											<DataGridTextColumn Header="{Binding Para3}" Width="150" Binding="{Binding Path=Para3Value}">
+																												<DataGridTextColumn.HeaderTemplate>
+																													<DataTemplate>
+																														<TextBlock Text="{Binding ElementName=dgElement,Path=Items[0].Para3}"/>
+																													</DataTemplate>
+																												</DataGridTextColumn.HeaderTemplate>
+																											</DataGridTextColumn>
+
+
+																										</DataGrid.Columns>
+																										<i:Interaction.Triggers>
+																											<i:EventTrigger EventName="SelectionChanged">
+																												<i:InvokeCommandAction Command="{Binding Path= btnFindElement}"/>
+																											</i:EventTrigger>
+																										</i:Interaction.Triggers>
+																									</DataGrid>
+																								</StackPanel>
+																							</Expander>
+																						</Grid>
+																					</StackPanel>
+																				</ScrollViewer>
+																			</DataTemplate>
+																		</DataGridTemplateColumn.CellTemplate>
+																	</DataGridTemplateColumn>
+																</DataGrid.Columns>
+															</DataGrid>
+
+														</Expander>
+													</StackPanel>
+
+												</Expander>
+											</DataTemplate>
+										</DataGridTemplateColumn.CellTemplate>
+									</DataGridTemplateColumn>
+
+									<!--<DataGridTextColumn Header="TimeSpan" Width="50" Binding="{Binding TimeSpan}"/>-->
+								</DataGrid.Columns>
+							</DataGrid>
+						</ScrollViewer>
+					</Grid>
+				</TabItem>
+
+
+			</TabControl>
+
+		</Grid>
+
+		<Grid Grid.Row="1">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition/>
+				<ColumnDefinition/>
+				<ColumnDefinition/>
+			</Grid.ColumnDefinitions>
+
+			<Button
+			  Style="{StaticResource SDButton}"
+			  Command="{Binding btnRunFile}"
+			  Grid.Column="0" Height="50"
+			  Content="Run Curent File"/>
+			<Button
+			  Style="{StaticResource SDButton}"
+			  Command="{Binding btnRunList}"
+			  Grid.Column="1" Height="50"
+			  Content="Run List File"/>
+			<Button
+			  Style="{StaticResource SDButton}"
+			  Grid.Column="2" Height="50"
+			  Command="{Binding btnExportToExcel}"
+			  Content="Export Excel"/>
+		</Grid>
+	</Grid>
+</Window>

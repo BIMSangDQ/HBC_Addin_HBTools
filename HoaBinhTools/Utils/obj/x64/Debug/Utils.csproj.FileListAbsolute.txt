@@ -1,0 +1,8 @@
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\x64\Debug\Utils.csprojAssemblyReference.cache
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\x64\Debug\ProgressBarUtils\ProgressBarView.baml
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\x64\Debug\ProgressBarUtils\ProgressBarView.g.cs
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\x64\Debug\Utils_MarkupCompile.cache
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\x64\Debug\Utils.g.resources
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\x64\Debug\Utils.Properties.Resources.resources
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\x64\Debug\Utils.csproj.GenerateResource.cache
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\x64\Debug\Utils.csproj.CoreCompileInputs.cache

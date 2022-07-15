@@ -1,0 +1,126 @@
+﻿<Window x:Class="HoaBinhTools.ProjectWarnings.Views.ViewWarning"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:local="clr-namespace:HoaBinhTools.ProjectWarnings.Views"
+        xmlns:converters="clr-namespace:HoaBinhTools.ProjectWarnings.Models"   
+        mc:Ignorable="d"
+        Title="ViewWarning" Height="800" Width="1000">
+
+	<Window.Resources>
+		<converters:FixConverter x:Key="FixConverter" />
+	</Window.Resources>
+
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="*"></RowDefinition>
+			<RowDefinition Height="70"></RowDefinition>
+			<RowDefinition Height="30"></RowDefinition>
+		</Grid.RowDefinitions>
+
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="Auto"/>
+			<ColumnDefinition Width="960"/>
+		</Grid.ColumnDefinitions>
+
+		<Border Grid.Column="0" Grid.RowSpan="2"
+				HorizontalAlignment="Right" BorderBrush="Black"
+				Width="0.5">
+
+		</Border>
+
+		<Expander ExpandDirection="Right" Grid.Column="0" Grid.RowSpan="3">
+			<Border>
+				<StackPanel Orientation="Vertical">
+
+
+					<Grid>
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition Width="75"></ColumnDefinition>
+							<ColumnDefinition Width="75"></ColumnDefinition>
+							<ColumnDefinition></ColumnDefinition>
+						</Grid.ColumnDefinitions>
+
+						<Button Content="Check All" Grid.Column="0"  Margin="0 0 2 2"
+						        Command="{Binding CheckAllCommand}"/>
+
+						<Button Content="Check None" Grid.Column="1"  Margin="0 0 2 2"
+						        Command="{Binding CheckNoneCommand}"/>
+
+						<Button Content="Filter" Grid.Column="2"  Margin="0 0 0 2"
+						        Command="{Binding LvFilterChangeCommand}"/>
+
+					</Grid>
+					<ListView Name="lfilter" ItemsSource="{Binding WarningType, NotifyOnSourceUpdated=True, Mode=TwoWay}">
+						<ListView.View >
+							<GridView >
+								<GridViewColumn Header="Show/Hide">
+									<GridViewColumn.CellTemplate>
+										<DataTemplate>
+											<CheckBox IsChecked="{Binding Filter, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" >
+
+												<i:Interaction.Triggers>
+													<i:EventTrigger EventName="Click">
+														<i:InvokeCommandAction                                          
+															Command="{Binding CheckAllCommand}"/>
+													</i:EventTrigger>
+												</i:Interaction.Triggers>
+
+											</CheckBox>
+										</DataTemplate>
+									</GridViewColumn.CellTemplate>
+								</GridViewColumn>
+								<GridViewColumn Width="50" Header="Count" DisplayMemberBinding="{Binding Count}"/>
+								<GridViewColumn Width="300" Header="Description" DisplayMemberBinding="{Binding Description}"/>
+							</GridView>
+						</ListView.View>
+					</ListView>
+				</StackPanel>
+			</Border>
+		</Expander>
+
+		<ListView SelectionMode="Single" Width="Auto" Grid.Column="1"
+					  Name="lview" ItemsSource="{Binding ObjWarnings ,NotifyOnSourceUpdated=True}">
+			<ListView.View >
+				<GridView>
+					<GridViewColumn Width="50" Header="No." DisplayMemberBinding="{Binding Stt}" />
+					<GridViewColumn Width="100" Header="Warning Types" DisplayMemberBinding="{Binding TypeWarning}"/>
+					<GridViewColumn  Header="Description" DisplayMemberBinding="{Binding Description}" />
+				</GridView>
+			</ListView.View>
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseDoubleClick">
+					<i:InvokeCommandAction                                          
+                      Command="{Binding LvSelectionChangedCommand}"                                          
+                      CommandParameter="{Binding ElementName= lview, Path=SelectedItems}"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</ListView>
+
+		<Grid Grid.Row="2" Grid.Column="1">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition></ColumnDefinition>
+				<ColumnDefinition></ColumnDefinition>
+				<ColumnDefinition Width="80"></ColumnDefinition>
+			</Grid.ColumnDefinitions>
+			<Button Content="Fix" Command="{Binding LvFixWarningCommand }"
+			        IsEnabled="{Binding NoteWarning ,Converter={StaticResource FixConverter}}" Grid.Column="0"
+			        Width="100" HorizontalAlignment="Center" Margin=" 2 2 120 2"></Button>
+			<Button Content="Select Element" Command="{Binding SelectElementWarning }"
+					Grid.Column="0" Margin=" 2 2 2 2" Width="100"
+					HorizontalAlignment="Left"></Button>
+		</Grid>
+
+		<RichTextBox Grid.Row="1" Grid.Column="1"
+		             IsReadOnly="True" HorizontalAlignment="Left" Height="68" VerticalAlignment="Top" Width="auto">
+			<FlowDocument>
+				<Paragraph>
+					<Run Text="{Binding NoteWarning}"/>
+				</Paragraph>
+			</FlowDocument>
+		</RichTextBox>
+	</Grid>
+
+</Window>

@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style TargetType="StackPanel" x:Key="V">
+        <Setter Property="Orientation" Value="Vertical"/>
+    </Style>
+
+    <Style TargetType="StackPanel" x:Key="H">
+        <Setter Property="Orientation" Value="Horizontal"/>
+    </Style>
+</ResourceDictionary>

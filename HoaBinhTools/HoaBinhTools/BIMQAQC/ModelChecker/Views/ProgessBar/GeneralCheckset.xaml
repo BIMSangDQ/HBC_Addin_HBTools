@@ -1,0 +1,399 @@
+﻿<Page x:Class="HoaBinhTools.BIMQAQC.ModelChecker.Views.ProgessBar.GeneralCheckset"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	  xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+      xmlns:local="clr-namespace:HoaBinhTools.BIMQAQC.ModelChecker.Views.ProgessBar"
+      mc:Ignorable="d" 
+	  Background="White"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="GeneralCheckset">
+	<Page.Resources>
+		<ResourceDictionary Source="pack://application:,,,/HoaBinhTools;component/BIMQAQC/ResourceDictionary/ResourceDictionary.xaml"/>
+	</Page.Resources>
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="40"/>
+			<RowDefinition />
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="100"/>
+			<ColumnDefinition />
+			<ColumnDefinition Width="170"/>
+		</Grid.ColumnDefinitions>
+
+		<TextBlock Grid.Row="0" Grid.Column="0"
+											   Margin ="10,5,0,0"
+											   Text="Check Set"/>
+
+		<ComboBox Grid.Row="0" Grid.Column="1"
+											  Style="{StaticResource SDCombobox}"
+											  ItemsSource="{Binding GeneralCheckSets}"
+											  SelectedItem="{Binding GeneralCheckSet,Mode=TwoWay}">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="SelectionChanged">
+					<i:InvokeCommandAction 
+										Command="{Binding btnCheckSetChange}"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</ComboBox>
+
+		<StackPanel Orientation="Horizontal" Width="Auto"
+					Grid.Row="0" Grid.Column="2" >
+			<Button Width="32" Height="32"
+					Style="{StaticResource SDButtonDel}" Margin="15,2,5,2"
+					ToolTip="Save CheckSet"
+					Command="{Binding btnSave}">
+				<Image Width="24" Height="24"
+					Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/content-save-check-outline.png"/>
+			</Button>
+
+			<Button Width="32" Height="32"
+					Style="{StaticResource SDButtonDel}" Margin="0,2,5,2"
+					ToolTip="Duplicate Checkset"
+					Command="{Binding btnDuplicate}">
+				<Image Width="24" Height="24"
+					Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/content-duplicate.png"/>
+			</Button>
+
+			<Button Width="32" Height="32"
+					Style="{StaticResource SDButtonDel}" Margin="20,2,5,2"
+					ToolTip="Delete Checkset"
+					Command="{Binding btnDelete}">
+				<Image Width="24" Height="24"
+					Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/file-document-remove-outline.png"/>
+			</Button>
+		</StackPanel>
+
+		<ScrollViewer Grid.Row="1" Grid.ColumnSpan="3" Margin="20,10,10,10">
+			<StackPanel Orientation="Vertical">
+
+				<TextBlock Text="Project Information:" Margin="0,5,0,5"/>
+				<!--File Name-->
+				<Expander Width="Auto" Background="Transparent" Margin="15,0,0,0"
+						Header="File Name">
+					<Grid >
+						<Grid.RowDefinitions>
+							<RowDefinition MinHeight="40"/>
+							<RowDefinition/>
+						</Grid.RowDefinitions>
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition Width="150"/>
+							<ColumnDefinition/>
+						</Grid.ColumnDefinitions>
+
+						<TextBlock Grid.Row="0" Grid.Column="0" Margin="10,5,5,5"
+							   Style="{StaticResource SDButtonText}"
+							   Text="File Name Pattern"/>
+
+						<TextBox Grid.Row="0" Grid.Column="1" Margin="10,5,5,5"
+								 TextWrapping="Wrap"
+							 Style="{StaticResource SDTextBox}"
+							 Height="Auto"
+							 Text="{Binding FileNamePattern}"/>
+
+						<CheckBox Grid.Row="1" Margin="0,5,5,5" IsChecked="{Binding Run_FileName}"
+						  Content="Set this check to run" Style="{StaticResource SDCheckBox}"/>
+
+						<Separator Grid.Row="1" Grid.ColumnSpan="2" VerticalAlignment="Bottom"/>
+					</Grid>
+				</Expander>
+
+				<!--ProjectInfor-->
+				<Expander Width="Auto" Background="Transparent" Margin="15,0,0,0"
+					Header="Project Information" >
+					<Grid>
+						<Grid.RowDefinitions>
+							<RowDefinition />
+							<RowDefinition />
+						</Grid.RowDefinitions>
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition Width="50"/>
+							<ColumnDefinition/>
+						</Grid.ColumnDefinitions>
+
+						<Button Grid.Row="0" Style="{StaticResource SDButton}" Margin="0,5,0,0"
+							Width="40" Height="25" HorizontalAlignment="Right" VerticalAlignment="Top"
+							Command="{Binding AddParameterProjectInfor}"
+							Content="Add"/>
+
+						<DataGrid x:Name="dgparaProjectInfor"
+							Grid.Row="0" Grid.Column="1" Height="Auto"
+							GridLinesVisibility="None"
+							CanUserSortColumns="True"
+							CanUserAddRows="False"
+							AutoGenerateColumns="False"
+							Background="Transparent"
+							BorderBrush="Transparent"
+							Margin="10,5,10,0"
+							ItemsSource="{Binding ListParaProjectInfor}"
+							ScrollViewer.VerticalScrollBarVisibility="Visible">
+							<DataGrid.Columns>
+								<DataGridTemplateColumn Header="Parameter Has Value" Width="*">
+									<DataGridTemplateColumn.CellTemplate>
+										<HierarchicalDataTemplate>
+											<StackPanel Orientation="Horizontal" Width="600" HorizontalAlignment="Left">
+												<Button Width="18" Height="18"
+														Style="{StaticResource SDButtonDel}" Margin="15,2,5,2"
+														ToolTip="Del parameter"
+														Command="{Binding Path=DataContext.btnDelParameterProjectInfor,       
+														 RelativeSource= {RelativeSource FindAncestor, AncestorType={x:Type DataGrid}}}">
+													<Image Width="16" Height="16"
+														Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/file-document-remove-outline.png"/>
+													<Button.Resources>
+														<Style TargetType="{x:Type Border}">
+															<Setter Property="CornerRadius" Value="5"/>
+														</Style>
+													</Button.Resources>
+												</Button>
+
+												<ComboBox  MinWidth="300" ItemsSource="{Binding Path=Params}" 
+														   Style="{StaticResource SDCombobox}"
+														   SelectedItem="{Binding Path=Name,UpdateSourceTrigger=PropertyChanged}"/>
+											</StackPanel>
+										</HierarchicalDataTemplate>
+									</DataGridTemplateColumn.CellTemplate>
+								</DataGridTemplateColumn>
+
+
+							</DataGrid.Columns>
+						</DataGrid>
+
+						<CheckBox Grid.Row="1" Margin="0,5,5,5" IsChecked="{Binding Run_ProjectInfor}"
+								  Grid.ColumnSpan="2"
+						  Content="Set this check to run" Style="{StaticResource SDCheckBox}"/>
+
+						<Separator Grid.Row="1" Grid.ColumnSpan="2" VerticalAlignment="Bottom"/>
+					</Grid>
+				</Expander>
+
+				<!--Project Location-->
+				<Expander Width="Auto" Background="Transparent" Margin="15,0,0,0"
+					Header="Project Location" >
+					<Grid>
+						<Grid.RowDefinitions>
+							<RowDefinition />
+							<RowDefinition />
+						</Grid.RowDefinitions>
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition Width="50"/>
+							<ColumnDefinition/>
+						</Grid.ColumnDefinitions>
+
+						<Button Grid.Row="0" Style="{StaticResource SDButton}" Margin="0,5,0,0"
+							Width="40" Height="25" HorizontalAlignment="Right" VerticalAlignment="Top"
+							Command="{Binding AddParameterProjectLocation}"
+							Content="Add"/>
+
+						<DataGrid x:Name="dgparaProjectLocation"
+							Grid.Row="0" Grid.Column="1" Height="Auto"
+							GridLinesVisibility="None"
+							CanUserSortColumns="True"
+							CanUserAddRows="False"
+							AutoGenerateColumns="False"
+							Background="Transparent"
+							BorderBrush="Transparent"
+							Margin="10,5,10,0"
+							ItemsSource="{Binding ListParaProjectLocation}"
+							ScrollViewer.VerticalScrollBarVisibility="Visible">
+							<DataGrid.Columns>
+								<DataGridTemplateColumn Header="Parameter check" Width="*">
+									<DataGridTemplateColumn.CellTemplate>
+										<HierarchicalDataTemplate>
+											<StackPanel Orientation="Horizontal" Width="600" HorizontalAlignment="Left">
+												<Button Width="18" Height="18"
+														Style="{StaticResource SDButtonDel}" Margin="15,2,5,2"
+														ToolTip="Del parameter"
+														Command="{Binding Path=DataContext.btnDelParameterProjectLocation,       
+														 RelativeSource= {RelativeSource FindAncestor, AncestorType={x:Type DataGrid}}}">
+													<Image Width="16" Height="16"
+														Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/file-document-remove-outline.png"/>
+													<Button.Resources>
+														<Style TargetType="{x:Type Border}">
+															<Setter Property="CornerRadius" Value="5"/>
+														</Style>
+													</Button.Resources>
+												</Button>
+
+												<ComboBox  MinWidth="300" ItemsSource="{Binding Path=Params}"
+														   Style="{StaticResource SDCombobox}" 
+														SelectedItem="{Binding Path=Name,UpdateSourceTrigger=PropertyChanged}"/>
+											</StackPanel>
+										</HierarchicalDataTemplate>
+									</DataGridTemplateColumn.CellTemplate>
+								</DataGridTemplateColumn>
+
+
+							</DataGrid.Columns>
+						</DataGrid>
+
+						<CheckBox Grid.ColumnSpan="2" Grid.Row="1" Margin="0,5,5,5" IsChecked="{Binding Run_ProjectLocation}"
+						  Content="Set this check to run" Style="{StaticResource SDCheckBox}"/>
+
+						<Separator Grid.Row="1" Grid.ColumnSpan="2" VerticalAlignment="Bottom"/>
+					</Grid>
+				</Expander>
+
+				<TextBlock Text="Workset:" Margin="0,5,0,5"/>
+
+				<!--Workset Grids & levels-->
+				<Expander Width="Auto" Background="Transparent" Margin="15,0,0,0"
+						Header="Levels and Grids on Wrong Workset">
+					<Grid>
+						<Grid.RowDefinitions>
+							<RowDefinition Height="40"/>
+							<RowDefinition/>
+						</Grid.RowDefinitions>
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition Width="150"/>
+							<ColumnDefinition/>
+						</Grid.ColumnDefinitions>
+
+						<TextBlock Grid.Row="0" Grid.Column="0" Margin="10,5,5,5"
+							   Style="{StaticResource SDButtonText}"
+							   Text="Workset name:"/>
+
+						<TextBox Grid.Row="0" Grid.Column="1" Margin="10,5,5,5"
+							 Style="{StaticResource SDTextBox}"
+							 Text="{Binding WorksetGrid}"/>
+
+						<CheckBox Grid.Row="1" Margin="0,5,5,5" IsChecked="{Binding Run_GridWorkset}"
+						  Content="Set this check to run" Style="{StaticResource SDCheckBox}"/>
+
+						<Separator Grid.Row="1" Grid.ColumnSpan="2" VerticalAlignment="Bottom"/>
+					</Grid>
+				</Expander>
+
+				<!--Wrong Elements on Shared Levels and Grids-->
+				<Expander Width="Auto" Background="Transparent" Margin="15,0,0,0"
+						Header="Wrong Elements on Shared Levels and Grids">
+					<Grid>
+						<Grid.RowDefinitions>
+							<RowDefinition Height="40"/>
+							<RowDefinition />
+						</Grid.RowDefinitions>
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition Width="150"/>
+							<ColumnDefinition/>
+						</Grid.ColumnDefinitions>
+
+						<TextBlock Grid.Row="0" Grid.Column="0" Margin="10,5,5,5"
+							   Style="{StaticResource SDButtonText}"
+							   Text="Workset name:"/>
+
+						<TextBox Grid.Row="0" Grid.Column="1" Margin="10,5,5,5"
+							 Style="{StaticResource SDTextBox}"
+							 Text="{Binding WorksetGridElement}"/>
+
+						<CheckBox Grid.Row="1" Margin="0,5,5,5" IsChecked="{Binding Run_WrongWorkSet}"
+						  Content="Set this check to run" Style="{StaticResource SDCheckBox}"/>
+
+						<Separator Grid.Row="1" Grid.ColumnSpan="2" VerticalAlignment="Bottom"/>
+					</Grid>
+				</Expander>
+
+				<TextBlock Text="Mandatory Condition:" Margin="0,5,0,5"/>
+
+				<Grid>
+					<Grid.RowDefinitions>
+						<RowDefinition />
+						<RowDefinition />
+					</Grid.RowDefinitions>
+					<Grid.ColumnDefinitions>
+						<ColumnDefinition Width="50"/>
+						<ColumnDefinition/>
+					</Grid.ColumnDefinitions>
+
+					<Button Grid.Row="0" Style="{StaticResource SDButton}" Margin="0,5,0,0"
+							Width="40" Height="25" HorizontalAlignment="Right" VerticalAlignment="Top"
+							Command="{Binding btnAddMandatoryCondition}"
+							Content="Add"/>
+
+					<DataGrid x:Name="dgMadatory"
+							Grid.Row="0" Grid.Column="1" Height="Auto"
+							GridLinesVisibility="None"
+							CanUserSortColumns="True"
+							CanUserAddRows="False"
+							AutoGenerateColumns="False"
+							Background="Transparent"
+							BorderBrush="Transparent"
+							Margin="10,5,10,0"
+							ItemsSource="{Binding ListMandatory}"
+							ScrollViewer.VerticalScrollBarVisibility="Visible">
+						
+						<DataGrid.Columns>
+							<DataGridTemplateColumn Width="30" MaxWidth="30">
+								<DataGridTemplateColumn.CellTemplate>
+									<HierarchicalDataTemplate>
+										<StackPanel Orientation="Horizontal" Width="600" HorizontalAlignment="Left">
+											<Button Width="18" Height="18"
+														Style="{StaticResource SDButtonDel}" Margin="5,2,5,2"
+														ToolTip="Del parameter"
+														Command="{Binding Path=DataContext.btnDelMandatory,       
+														 RelativeSource= {RelativeSource FindAncestor, AncestorType={x:Type DataGrid}}}">
+												<Image Width="16" Height="16"
+														Source="/HoaBinhTools;component/BIMQAQC/ModelChecker/Views/Icon/file-document-remove-outline.png"/>
+												<Button.Resources>
+													<Style TargetType="{x:Type Border}">
+														<Setter Property="CornerRadius" Value="5"/>
+													</Style>
+												</Button.Resources>
+											</Button>
+										</StackPanel>
+									</HierarchicalDataTemplate>
+								</DataGridTemplateColumn.CellTemplate>
+							</DataGridTemplateColumn>
+							
+							<DataGridTemplateColumn Header="Criteria" Width="*">
+								<DataGridTemplateColumn.CellTemplate>
+									<DataTemplate>
+										<ComboBox Style="{StaticResource SDCombobox}" 
+											ItemsSource="{Binding Criterias}"
+												  SelectedItem="{Binding Path=Criteria,UpdateSourceTrigger=PropertyChanged}"/>
+									</DataTemplate>
+								</DataGridTemplateColumn.CellTemplate>
+							</DataGridTemplateColumn>
+
+							<DataGridTemplateColumn Header="A" Width="*">
+								<DataGridTemplateColumn.CellTemplate>
+									<DataTemplate>
+										<TextBox x:Name="tbRangeA"
+											Style="{StaticResource SDTextBoxNoBackgroud2}"
+											 Text="{Binding Path=RangeA,UpdateSourceTrigger=PropertyChanged}"
+											 Background="LawnGreen"/>
+									</DataTemplate>
+								</DataGridTemplateColumn.CellTemplate>
+							</DataGridTemplateColumn>
+
+							<DataGridTemplateColumn Header="B" Width="*">
+								<DataGridTemplateColumn.CellTemplate>
+									<DataTemplate>
+										<TextBox x:Name="tbRangeA"
+											Style="{StaticResource SDTextBoxNoBackgroud2}"
+											 Text="{Binding Path=RangeB,UpdateSourceTrigger=PropertyChanged}"
+											 Background="Yellow"/>
+									</DataTemplate>
+								</DataGridTemplateColumn.CellTemplate>
+							</DataGridTemplateColumn>
+
+							<DataGridTemplateColumn Header="C" Width="*">
+								<DataGridTemplateColumn.CellTemplate>
+									<DataTemplate>
+										<TextBox x:Name="tbRangeA"
+											Style="{StaticResource SDTextBoxNoBackgroud}"
+											 Text="{Binding Path=RangeC,UpdateSourceTrigger=PropertyChanged}"
+											 Background="Red"/>
+									</DataTemplate>
+								</DataGridTemplateColumn.CellTemplate>
+							</DataGridTemplateColumn>
+
+						</DataGrid.Columns>
+					</DataGrid>
+					<Separator Grid.Row="1" Grid.ColumnSpan="2" VerticalAlignment="Bottom"/>
+				</Grid>
+
+			</StackPanel>
+		</ScrollViewer>
+	</Grid>
+</Page>

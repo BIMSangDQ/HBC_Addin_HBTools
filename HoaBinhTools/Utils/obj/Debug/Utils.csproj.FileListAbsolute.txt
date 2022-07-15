@@ -1,0 +1,346 @@
+C:\Users\User\source\repos\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+C:\Users\User\source\repos\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+C:\Users\User\source\repos\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HoaBinhTools\Utils\bin\Debug\Utils.dll
+C:\Users\User\source\repos\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+C:\Users\User\source\repos\HoaBinhTools\Utils\obj\Debug\Utils.dll
+C:\Users\User\source\repos\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+C:\Users\User\source\repos\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+C:\Users\User\source\repos\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+C:\Users\User\source\repos\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+C:\Users\User\source\repos\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+C:\Users\User\source\repos\HoaBinhTools\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+C:\Users\User\Desktop\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+C:\Users\User\Desktop\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+C:\Users\User\Desktop\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+C:\Users\User\Desktop\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+C:\Users\User\Desktop\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+C:\Users\User\Desktop\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HoaBinhTools\Utils\obj\Debug\Utils.dll
+C:\Users\User\Desktop\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+C:\Users\User\Desktop\HoaBinhTools\Utils\bin\Debug\Utils.dll
+C:\Users\User\Desktop\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+C:\Users\User\Desktop\HoaBinhTools\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\bin\Debug\Utils.dll
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\obj\Debug\Utils.dll
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\bin\Debug\Utils.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\obj\Debug\Utils.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+D:\Document-BIM\Source\HoaBinhTools\Utils\bin\Debug\Utils.dll
+D:\Document-BIM\Source\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+D:\Document-BIM\Source\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+D:\Document-BIM\Source\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.dll
+D:\Document-BIM\Source\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+D:\Document-BIM\Source\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+D:\Document-BIM\Source\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.xml
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.lref
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\Debug\Utils.dll
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\bin\Debug\Utils.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.lref
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\obj\Debug\Utils.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+D:\Document-BIM\Source\HoaBinhTools\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\bin\Debug\Utils.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.lref
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\obj\Debug\Utils.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+C:\Users\PC\Desktop\HoaBinhTools\Utils\bin\Debug\Utils.dll
+C:\Users\PC\Desktop\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+C:\Users\PC\Desktop\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+C:\Users\PC\Desktop\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+C:\Users\PC\Desktop\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+C:\Users\PC\Desktop\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+C:\Users\PC\Desktop\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+C:\Users\PC\Desktop\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.lref
+C:\Users\PC\Desktop\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+C:\Users\PC\Desktop\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+C:\Users\PC\Desktop\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+C:\Users\PC\Desktop\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\PC\Desktop\HoaBinhTools\Utils\obj\Debug\Utils.dll
+C:\Users\PC\Desktop\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+C:\Users\PC\Desktop\HoaBinhTools\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.lref
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\bin\Debug\Utils.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.xml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.lref
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\obj\Debug\Utils.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\bin\Debug\Utils.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\bin\Debug\System.ValueTuple.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.xml
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.lref
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Utils.dll
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.lref
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.dll
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+D:\02.SangDQ\HoaBinhTools\Utils\bin\Debug\Utils.dll
+D:\02.SangDQ\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+D:\02.SangDQ\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+D:\02.SangDQ\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.dll
+D:\02.SangDQ\HoaBinhTools\Utils\bin\Debug\System.ValueTuple.dll
+D:\02.SangDQ\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+D:\02.SangDQ\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+D:\02.SangDQ\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.xml
+D:\02.SangDQ\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+D:\02.SangDQ\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+D:\02.SangDQ\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.lref
+D:\02.SangDQ\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+D:\02.SangDQ\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+D:\02.SangDQ\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+D:\02.SangDQ\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+D:\02.SangDQ\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\02.SangDQ\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+D:\02.SangDQ\HoaBinhTools\Utils\obj\Debug\Utils.dll
+D:\02.SangDQ\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+D:\02.SangDQ\HoaBinhTools\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+D:\HoaBinhTools\Utils\bin\Debug\Utils.dll
+D:\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+D:\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+D:\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.dll
+D:\HoaBinhTools\Utils\bin\Debug\System.ValueTuple.dll
+D:\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+D:\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+D:\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.xml
+D:\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+D:\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+D:\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.lref
+D:\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+D:\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+D:\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+D:\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+D:\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+D:\HoaBinhTools\Utils\obj\Debug\Utils.dll
+D:\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+D:\HoaBinhTools\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Utils.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\System.ValueTuple.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.xml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.lref
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Utils.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MaterialDesignColors.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MaterialDesignColors.pdb
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.xml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.lref
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\Utils.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MaterialDesignColors.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MaterialDesignColors.pdb
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.xml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.lref
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\Utils.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MaterialDesignColors.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MaterialDesignColors.pdb
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.lref
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\Utils\obj\Debug\Utils.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Utils.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Utils.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MaterialDesignColors.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MoreLinq.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MaterialDesignColors.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MoreLinq.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\MoreLinq.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\bin\Debug\Newtonsoft.Json.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.cache
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils_MarkupCompile.lref
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\ProgressBarUtils\ProgressBarView.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.g.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.Properties.Resources.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.csproj.CopyComplete
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\Utils\obj\Debug\Utils.pdb

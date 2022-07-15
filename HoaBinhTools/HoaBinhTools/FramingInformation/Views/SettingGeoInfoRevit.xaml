@@ -1,0 +1,191 @@
+﻿<Window x:Class="HoaBinhTools.FramingInformation.Views.SettingGeoInfoRevit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HoaBinhTools.FramingInformation.Views"
+        mc:Ignorable="d"
+        Topmost="True"
+        Title="Setting" Height="550" Width="530">
+    <Grid>
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="95*"/>
+
+            <ColumnDefinition Width="151*"/>
+
+        </Grid.ColumnDefinitions>
+
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="1.2*"></RowDefinition>
+
+            <RowDefinition Height="90"></RowDefinition>
+
+            <RowDefinition Height="*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+
+
+        <GroupBox Header="General Settings" Grid.Row="0" BorderBrush="Green" Grid.ColumnSpan="2"  ></GroupBox>
+
+        <Grid Grid.Row="0" Grid.ColumnSpan="2" >
+
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="10"></ColumnDefinition>
+
+                <ColumnDefinition Width="*"></ColumnDefinition>
+
+                <ColumnDefinition Width="*"></ColumnDefinition>
+
+                <ColumnDefinition Width="*"></ColumnDefinition>
+
+                <ColumnDefinition Width="*"></ColumnDefinition>
+
+                <ColumnDefinition Width="*"></ColumnDefinition>
+
+                <ColumnDefinition Width="*"></ColumnDefinition>
+
+                <ColumnDefinition Width="*"></ColumnDefinition>
+
+                <ColumnDefinition Width="10"></ColumnDefinition>
+
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20"></RowDefinition>
+
+                <RowDefinition Height="0.7*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+
+
+                <RowDefinition Height="*"></RowDefinition>
+
+                <RowDefinition Height="*"></RowDefinition>
+
+            </Grid.RowDefinitions>
+
+
+
+
+
+
+
+            <StackPanel Grid.Row="2" Grid.Column="3" Orientation="Horizontal" Grid.ColumnSpan="3" Margin="10,22,10,0.5">
+
+                <Grid Width="249">
+
+                    <Grid.ColumnDefinitions>
+
+
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+
+                        <ColumnDefinition Width="10"></ColumnDefinition>
+
+
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+
+                    </Grid.ColumnDefinitions>
+
+                    <RadioButton Grid.Column="0"  IsChecked="{Binding IsLeft}"  FlowDirection="RightToLeft" Margin="0,1,59,-1" >West</RadioButton>
+
+                    <RadioButton Grid.Column="2"  IsChecked="{Binding IsRight}" Content="East" Margin="11,0,-21,0"/>
+
+                </Grid>
+
+            </StackPanel>
+
+            <Label Grid.Column="4" Content="North" Margin="18,9,6,11.054" Grid.RowSpan="2" />
+
+            <Label Grid.Column="4" Content="West" Margin="17,35,7,29" RenderTransformOrigin="0.583,2.741" Grid.Row="3" Grid.RowSpan="2" />
+
+            <StackPanel Orientation="Vertical" Grid.Row="1"  Grid.Column="4" Grid.ColumnSpan="3" Margin="33,13,45,1" Grid.RowSpan="3">
+
+                <RadioButton IsChecked="{Binding IsUP}" HorizontalContentAlignment="Stretch"    Margin="-1,0,81,0" Height="100"/>
+                <RadioButton IsChecked="{Binding IsDown}" Height="21" VerticalAlignment="Bottom" Margin="0,0,115,0" RenderTransformOrigin="0.059,0.048"  />
+
+            </StackPanel>
+
+
+
+        </Grid>
+
+        <CheckBox Content="Max Length" IsChecked="{Binding MaxLength}" Margin="156,70,276,5" RenderTransformOrigin="0.877,1.146" Grid.Row="1" Grid.ColumnSpan="2"/>
+
+        <GroupBox Header="Option Framing" Grid.Row="3" BorderBrush="Green" Grid.ColumnSpan="2"  >
+
+            <StackPanel>
+                <DockPanel Margin="10">
+
+                    <Label HorizontalAlignment="Left" Content="Parameter"  Width="91" Height="27" Grid.ColumnSpan="2"/>
+
+                    <TextBox  Grid.Row="1" Height="25" HorizontalAlignment="Left" Text="{Binding FaramingHostName}"  Margin="10,0,0,0" Width="110" />
+
+                    <Label HorizontalAlignment="Left" Margin=" 10  0 0 0" Content="Distance Allowed  &lt; "  Width="117" Height="27" Grid.ColumnSpan="2"/>
+
+                    <TextBox  Text="{Binding KhoangCach}" Grid.Row="1"  Height="25" HorizontalAlignment="Left"   Margin="10,0,0,0" Width="110" />
+
+                </DockPanel>
+
+                <DockPanel  Margin="15,15,7,15">
+
+                    <Label HorizontalAlignment="Left" Margin=" 5  5 0 0" Content="Drop-Off &lt;"  Width="81" Height="27" />
+
+                    <TextBox Text="{Binding GiatCap}"  Height="24"  HorizontalAlignment="Left"  Margin="10,0,0,0" Width="110" />
+
+                    <Label HorizontalAlignment="Left" Margin=" 13  5 0 0" Content="Angle  &lt;  "   Width="115" Height="27" />
+
+                    <TextBox  Text="{Binding GocLechGiahaiDam}"  Height="24" HorizontalAlignment="Left" Margin="10,0,0,0" Width="110" />
+
+                </DockPanel>
+
+                <DockPanel  Margin="0,15,7,15">
+
+                    <Label HorizontalAlignment="Center" Margin=" 0 5 0 0" Content="Tolerance (BxH) &lt;"  Width="102" Height="27" />
+
+                    <TextBox Text="{Binding GiatCap}"  Height="24"  HorizontalAlignment="Left"  Margin="10,0,0,0" Width="110" />
+
+
+                </DockPanel>
+
+
+
+            </StackPanel>
+
+        </GroupBox>
+
+
+        <GroupBox Header="Select" Grid.Row="1" BorderBrush="Green" Grid.ColumnSpan="2"  >
+
+            <StackPanel  Orientation="Horizontal">
+
+                <DockPanel Width="207">
+
+                    <RadioButton  Width="70" IsChecked="{Binding IsSelect}"  VerticalAlignment="Center" >Select</RadioButton>
+
+                    <RadioButton  Width="112" IsChecked="{Binding IsPick}" VerticalAlignment="Center" Margin="0,12">Pick</RadioButton>
+
+                </DockPanel>
+
+                <DockPanel Margin="130,0,0,0">
+
+                    <RadioButton IsChecked="{Binding IsActiveView}" Width="90"   VerticalAlignment="Center">ActiveView</RadioButton>
+
+                    <RadioButton IsChecked="{Binding IsProject}" Width="65"  VerticalAlignment="Center">Project</RadioButton>
+
+                </DockPanel>
+
+
+            </StackPanel>
+
+        </GroupBox>
+
+
+        <Grid Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Left" Width="522" Margin="3,1,-3,-1" >
+
+        </Grid>
+        <CheckBox Content="Is Secondary Beam" IsChecked="{Binding IsSecondaryBeam}" Margin="75,70,106,5" RenderTransformOrigin="0.877,1.146" Grid.Row="1" Grid.Column="1"/>
+    </Grid>
+</Window>

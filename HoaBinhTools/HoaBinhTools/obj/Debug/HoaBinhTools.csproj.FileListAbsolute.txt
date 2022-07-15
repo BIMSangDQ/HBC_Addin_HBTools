@@ -1,0 +1,1879 @@
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIFoundation.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\RevitDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\PersistenceDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\UtilityAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\APIDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\GraphicsAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\GeomUtilAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\FamilyDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\DetailDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\HostObjDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\SiteDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\SculptingDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\StructuralDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\RebarDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\MassingDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\AssemblyDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\DPartDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\NumberingDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\StairRampDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDBAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\DBManagedServices.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\AdWindows.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\APIInterop.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\UIFramework.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\AddInManager.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\RevitUIAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\DesktopMFCAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\APIUIAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\RevitMFCAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsUIAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\DetailUIAPI.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\UIFrameworkServices.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+C:\Users\User\source\repos\HoaBinhTools\HoaBinhTools\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+C:\Users\User\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csprojAssemblyReference.cache
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\SuperRebarDetailing\Views\SuperRebarDetailingViews.g.cs
+C:\Users\User\Desktop\FileHoaBinh\HoaBinhTools\HoaBinhTools\obj\Debug\SuperRebarDetailing\Views\SuperRebarDetailingViews.baml
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\SuperRebarDetailing\Views\SuperRebarDetailingViews.g.cs
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\SuperRebarDetailing\Views\SuperRebarDetailingViews.baml
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\SuperRebarDetailing\Views\SuperRebarDetailingViews.g.cs
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\SuperRebarDetailing\Views\SuperRebarDetailingViews.baml
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIFoundation.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\RevitDBAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\UtilityAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\GraphicsAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsDBAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\GeomUtilAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\FamilyDBAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsDBAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\HostObjDBAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\PointCloudAccessAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\DBManagedServices.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\AdWindows.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\APIInterop.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\UIFramework.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\AddInManager.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\RevitUIAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsUIAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\DesktopMFCAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\APIUIAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\RevitMFCAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsUIAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\DetailUIAPI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\UIFrameworkServices.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\ManagedMC3.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Themes.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Windows.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.xml
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\de-DE\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\en-GB\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\en-US\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\es-ES\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\it-IT\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\AdpSDKCSharpWrapper.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIFoundation.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\RevitDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\PersistenceDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\UtilityAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\APIDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\GraphicsAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\GeomUtilAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\FamilyDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\DetailDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\HostObjDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\SiteDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\SculptingDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\StructuralDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\RebarDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\MassingDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\AssemblyDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\DPartDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\NumberingDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\StairRampDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDBAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\DBManagedServices.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\AdWindows.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\APIInterop.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\UIFramework.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\AddInManager.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\RevitUIAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\DesktopMFCAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\APIUIAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\RevitMFCAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsUIAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\DetailUIAPI.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\UIFrameworkServices.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\ManagedMC3.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Themes.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Windows.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.xml
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\SuperRebarDetailing\Views\SuperRebarDetailingViews.g.cs
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\SuperRebarDetailing\Views\SuperRebarDetailingViews.baml
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+C:\Users\PC\Desktop\File\Loi\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.dll
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.xml
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csprojAssemblyReference.cache
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIFoundation.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\RevitDBAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\UtilityAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\GraphicsAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsDBAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\GeomUtilAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\FamilyDBAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\HostObjDBAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\DBManagedServices.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\AdWindows.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\APIInterop.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\UIFramework.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\AddInManager.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\RevitUIAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\DesktopMFCAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\APIUIAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\RevitMFCAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsUIAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\DetailUIAPI.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\UIFrameworkServices.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\ManagedMC3.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Themes.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Windows.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.xml
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.xml
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\SuperRebarDetailing\Views\SuperRebarDetailingViews.g.cs
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\SuperRebarDetailing\Views\SuperRebarDetailingViews.baml
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+C:\Users\PC\Desktop\Libra\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIFoundation.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\RevitDBAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\UtilityAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\GraphicsAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsDBAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\GeomUtilAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\FamilyDBAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\HostObjDBAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\DBManagedServices.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\AdWindows.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\APIInterop.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\UIFramework.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\AddInManager.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\RevitUIAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\DesktopMFCAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\APIUIAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\RevitMFCAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsUIAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\DetailUIAPI.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\UIFrameworkServices.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\ManagedMC3.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Themes.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Windows.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.xml
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.xml
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\SuperRebarDetailing\Views\SuperRebarDetailingViews.g.cs
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\SuperRebarDetailing\Views\SuperRebarDetailingViews.baml
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csprojAssemblyReference.cache
+D:\Document-BIM\Source\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectTreeView.dll
+C:\Users\PC\Desktop\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectTreeView.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectTreeView.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIFoundation.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\RevitDBAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\UtilityAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\GraphicsAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsDBAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\GeomUtilAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\FamilyDBAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\HostObjDBAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\DBManagedServices.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\AdWindows.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\APIInterop.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\UIFramework.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\AddInManager.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\RevitUIAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\DesktopMFCAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\APIUIAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\RevitMFCAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsUIAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\DetailUIAPI.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\UIFrameworkServices.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\ManagedMC3.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Themes.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Windows.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.xml
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.xml
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\New folder (2)\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectTreeView.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIFoundation.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\UtilityAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\GraphicsAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\GeomUtilAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\FamilyDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\HostObjDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\PointCloudAccessAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\DBManagedServices.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\AdWindows.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\APIInterop.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\UIFramework.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\AddInManager.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitUIAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsUIAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\DesktopMFCAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\APIUIAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitMFCAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsUIAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\DetailUIAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\UIFrameworkServices.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\ManagedMC3.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Themes.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Windows.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.xml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.xml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\de-DE\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\en-GB\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\en-US\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\es-ES\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\it-IT\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\SuperRebarDetailing\Views\SuperRebarDetailingViews.g.cs
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\SuperRebarDetailing\Views\SuperRebarDetailingViews.baml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.g.cs
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.baml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\AdpSDKCSharpWrapper.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\PersistenceDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\APIDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\ElementGroupDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\DetailDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\ArrayElemsDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\SiteDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\SculptingDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\StructuralDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceUtilAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RebarDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\MassingDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\AssemblyDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\DPartDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\NumberingDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\StairRampDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\AnalysisAppsDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDBAPI.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPI.xml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csprojAssemblyReference.cache
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+D:\Document-BIM\Source\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectTreeView.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\System.ValueTuple.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\AdpSDKCSharpWrapper.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIFoundation.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\PersistenceDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\UtilityAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\APIDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\GraphicsAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\ElementGroupDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\GeomUtilAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\FamilyDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\DetailDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\CurtainGridFamilyDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\ArrayElemsDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\EnergyAnalysisDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\HostObjDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RoomAreaPlanDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\SiteDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\SculptingDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\StructuralDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceUtilAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RebarDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\StructuralAnalysisDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\MassingDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\AssemblyDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\DPartDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\NumberingDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\PointCloudAccessAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\StairRampDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\AnalysisAppsDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDBAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\DBManagedServices.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\AdWindows.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\APIInterop.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\UIFramework.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\AddInManager.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitUIAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsUIAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\DesktopMFCAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\APIUIAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitMFCAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsUIAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\DetailUIAPI.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\UIFrameworkServices.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\ManagedMC3.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Themes.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Windows.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPI.xml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.xml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.xml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\cs-CZ\AdWindows.resources.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\de-DE\AdWindows.resources.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\en-GB\AdWindows.resources.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\en-US\AdWindows.resources.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\es-ES\AdWindows.resources.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\fr-FR\AdWindows.resources.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\it-IT\AdWindows.resources.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\ja-JP\AdWindows.resources.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\ko-KR\AdWindows.resources.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\pl-PL\AdWindows.resources.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\pt-BR\AdWindows.resources.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\ru-RU\AdWindows.resources.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\zh-CN\AdWindows.resources.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\zh-TW\AdWindows.resources.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.g.cs
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.g.cs
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.ResolveComReference.cache
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Excel2ScheduleForm.resources
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Schedule2ExcelForm.resources
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.ChildForms.ViewListForm.resources
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.AlignViewForm.resources
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.SheetMakerForm.resources
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.ViewDuplicaterForm.resources
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.AutoSheetNumberForm.resources
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.BeamLevelNumberForm.resources
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\ChangeTextCase.ChangeTextCaseForm.resources
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.OrderingNumberForSheetForm.resources
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.PartitionRebarForm.resources
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Button.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\CheckBox.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Combobox.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Converter.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\DatePicker.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Grid.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Image.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Label.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ListView.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\RadioButton.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ScrollViewer.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Separator.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\StackPanel.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Styles.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\TabControl.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Textbox.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.g.cs
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.g.cs
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\data\options.json
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\excel_tpl\template.xlsx
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.g.cs
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectComboBox.dll
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.baml
+E:\SourcesCode\HoaBinh2019\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csprojAssemblyReference.cache
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\data\options.json
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\excel_tpl\template.xlsx
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectComboBox.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectTreeView.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.ValueTuple.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\AdpSDKCSharpWrapper.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIFoundation.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\PersistenceDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\UtilityAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\APIDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\GraphicsAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\ElementGroupDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\GeomUtilAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\FamilyDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\DetailDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\CurtainGridFamilyDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\ArrayElemsDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EnergyAnalysisDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HostObjDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RoomAreaPlanDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\SiteDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\SculptingDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\StructuralDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceUtilAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RebarDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\StructuralAnalysisDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MassingDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\AssemblyDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\DPartDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\NumberingDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\PointCloudAccessAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\StairRampDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\AnalysisAppsDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDBAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\DBManagedServices.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\AdWindows.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\APIInterop.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\UIFramework.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\AddInManager.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitUIAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsUIAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\DesktopMFCAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\APIUIAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitMFCAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsUIAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\DetailUIAPI.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\UIFrameworkServices.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\ManagedMC3.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Themes.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Autodesk.UI.Windows.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPI.xml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.xml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAddInUtility.xml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\cs-CZ\AdWindows.resources.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\de-DE\AdWindows.resources.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\en-GB\AdWindows.resources.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\en-US\AdWindows.resources.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\es-ES\AdWindows.resources.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\fr-FR\AdWindows.resources.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\it-IT\AdWindows.resources.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\ja-JP\AdWindows.resources.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\ko-KR\AdWindows.resources.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\pl-PL\AdWindows.resources.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\pt-BR\AdWindows.resources.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\ru-RU\AdWindows.resources.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\zh-CN\AdWindows.resources.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\zh-TW\AdWindows.resources.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.ResolveComReference.cache
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Button.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\CheckBox.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Combobox.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Converter.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\DatePicker.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Grid.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Image.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Label.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ListView.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\RadioButton.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ScrollViewer.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Separator.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\StackPanel.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Styles.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\TabControl.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Textbox.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.g.cs
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.g.cs
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.g.cs
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.g.cs
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.g.cs
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.baml
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.AutoSheetNumberForm.resources
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.BeamLevelNumberForm.resources
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ChangeTextCase.ChangeTextCaseForm.resources
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.OrderingNumberForSheetForm.resources
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.PartitionRebarForm.resources
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Excel2ScheduleForm.resources
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Schedule2ExcelForm.resources
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.ChildForms.ViewListForm.resources
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.AlignViewForm.resources
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.SheetMakerForm.resources
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.ViewDuplicaterForm.resources
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+E:\SourcesCode\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\data\options.json
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\excel_tpl\template.xlsx
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\FramingInformation\Db\Framing_Db.mdf
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\FramingInformation\Db\Framing_Db_log.ldf
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectTreeView.dll
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.ResolveComReference.cache
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Button.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\CheckBox.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Combobox.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Converter.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\DatePicker.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Grid.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Image.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Label.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ListView.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\RadioButton.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ScrollViewer.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Separator.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\StackPanel.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Styles.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\TabControl.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Textbox.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.g.cs
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.g.cs
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.g.cs
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.g.cs
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.g.cs
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.g.cs
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.AutoSheetNumberForm.resources
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.BeamLevelNumberForm.resources
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ChangeTextCase.ChangeTextCaseForm.resources
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.OrderingNumberForSheetForm.resources
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.PartitionRebarForm.resources
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Excel2ScheduleForm.resources
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Schedule2ExcelForm.resources
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.ChildForms.ViewListForm.resources
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.AlignViewForm.resources
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.SheetMakerForm.resources
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.ViewDuplicaterForm.resources
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.g.cs
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.g.cs
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.baml
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.g.cs
+C:\Users\Admin-s\Dropbox\Addin\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.ResolveComReference.cache
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Button.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\CheckBox.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Combobox.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Converter.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\DatePicker.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Grid.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Image.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Label.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ListView.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\RadioButton.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ScrollViewer.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Separator.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\StackPanel.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Styles.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\TabControl.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Textbox.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.g.cs
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.g.cs
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.g.cs
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.g.cs
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.g.cs
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.g.cs
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.g.cs
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.g.cs
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.g.cs
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\data\options.json
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\excel_tpl\template.xlsx
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\FramingInformation\Db\Framing_Db.mdf
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\FramingInformation\Db\Framing_Db_log.ldf
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectTreeView.dll
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\System.ValueTuple.dll
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.baml
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.AutoSheetNumberForm.resources
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.BeamLevelNumberForm.resources
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\ChangeTextCase.ChangeTextCaseForm.resources
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.OrderingNumberForSheetForm.resources
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.PartitionRebarForm.resources
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Excel2ScheduleForm.resources
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Schedule2ExcelForm.resources
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.ChildForms.ViewListForm.resources
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.AlignViewForm.resources
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.SheetMakerForm.resources
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.ViewDuplicaterForm.resources
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+D:\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csprojAssemblyReference.cache
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\data\options.json
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\excel_tpl\template.xlsx
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectTreeView.dll
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\System.ValueTuple.dll
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.ResolveComReference.cache
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Button.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\CheckBox.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Combobox.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Converter.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\DatePicker.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Grid.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Image.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Label.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ListView.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\RadioButton.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ScrollViewer.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Separator.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\StackPanel.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Styles.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\TabControl.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Textbox.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.g.cs
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.g.cs
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.g.cs
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.g.cs
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.g.cs
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.g.cs
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.g.cs
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.g.cs
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.g.cs
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.baml
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.AutoSheetNumberForm.resources
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.BeamLevelNumberForm.resources
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\ChangeTextCase.ChangeTextCaseForm.resources
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.OrderingNumberForSheetForm.resources
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.PartitionRebarForm.resources
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Excel2ScheduleForm.resources
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Schedule2ExcelForm.resources
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.ChildForms.ViewListForm.resources
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.AlignViewForm.resources
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.SheetMakerForm.resources
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.ViewDuplicaterForm.resources
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+C:\Users\bimphuongnh\Dropbox\20211005\02.SangDQ\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\data\options.json
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\excel_tpl\template.xlsx
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectTreeView.dll
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\System.ValueTuple.dll
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+D:\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.ResolveComReference.cache
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Button.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\CheckBox.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Combobox.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Converter.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\DatePicker.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Grid.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Image.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Label.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ListView.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\RadioButton.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ScrollViewer.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Separator.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\StackPanel.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Styles.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\TabControl.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Textbox.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.g.cs
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.g.cs
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.g.cs
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.g.cs
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.g.cs
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.g.cs
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.g.cs
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.g.cs
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.g.cs
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.baml
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.AutoSheetNumberForm.resources
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.BeamLevelNumberForm.resources
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\ChangeTextCase.ChangeTextCaseForm.resources
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.OrderingNumberForSheetForm.resources
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.PartitionRebarForm.resources
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Excel2ScheduleForm.resources
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Schedule2ExcelForm.resources
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.ChildForms.ViewListForm.resources
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.AlignViewForm.resources
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.SheetMakerForm.resources
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.ViewDuplicaterForm.resources
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+D:\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csprojAssemblyReference.cache
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\data\options.json
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\excel_tpl\template.xlsx
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectTreeView.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.ValueTuple.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.ResolveComReference.cache
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Button.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\CheckBox.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Combobox.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Converter.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\DatePicker.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Grid.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Image.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Label.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ListView.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\RadioButton.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ScrollViewer.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Separator.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\StackPanel.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Styles.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\TabControl.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Textbox.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.AutoSheetNumberForm.resources
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.BeamLevelNumberForm.resources
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ChangeTextCase.ChangeTextCaseForm.resources
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.OrderingNumberForSheetForm.resources
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.PartitionRebarForm.resources
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Excel2ScheduleForm.resources
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Schedule2ExcelForm.resources
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.ChildForms.ViewListForm.resources
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.AlignViewForm.resources
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.SheetMakerForm.resources
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.ViewDuplicaterForm.resources
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\Test\Views\Window1.g.cs
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\Test\Views\Window1.baml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.SqlServer.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Buffers.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Memory.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Numerics.Vectors.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.xml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.SqlServer.xml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Buffers.xml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Memory.xml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Numerics.Vectors.xml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPI.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.dll
+E:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csprojAssemblyReference.cache
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\data\options.json
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\excel_tpl\template.xlsx
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignColors.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectTreeView.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPI.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Buffers.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Memory.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Numerics.Vectors.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.xml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignColors.pdb
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Buffers.xml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Memory.xml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Numerics.Vectors.xml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.AssemblyReference.cache
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.ResolveComReference.cache
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Button.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\CheckBox.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Combobox.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Converter.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\DatePicker.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Grid.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Image.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Label.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ListView.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\RadioButton.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ScrollViewer.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Separator.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\StackPanel.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Styles.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\TabControl.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Textbox.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ModelCheckerLaunchView.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SynchronizedData\Views\Main.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ModelCheckerLaunchView.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SynchronizedData\Views\Main.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.AutoSheetNumberForm.resources
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.BeamLevelNumberForm.resources
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ChangeTextCase.ChangeTextCaseForm.resources
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.OrderingNumberForSheetForm.resources
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.PartitionRebarForm.resources
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Excel2ScheduleForm.resources
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Schedule2ExcelForm.resources
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.ChildForms.ViewListForm.resources
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.AlignViewForm.resources
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.SheetMakerForm.resources
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.ViewDuplicaterForm.resources
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ResourceDictionary\ColorResource.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ResourceDictionary\ResourceDictionary.baml
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\ProgressBarViewQAQC.g.cs
+D:\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\ProgressBarViewQAQC.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\data\options.json
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\excel_tpl\template.xlsx
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.SqlServer.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\ExcelNumberFormat.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignColors.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectTreeView.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Buffers.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.IO.Packaging.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Memory.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Numerics.Vectors.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.xml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.SqlServer.xml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\ExcelNumberFormat.xml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignColors.pdb
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Buffers.xml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Memory.xml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Numerics.Vectors.xml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.AssemblyReference.cache
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.ResolveComReference.cache
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Button.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\CheckBox.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Combobox.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Converter.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\DatePicker.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Grid.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Image.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Label.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ListView.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\RadioButton.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ScrollViewer.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Separator.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\StackPanel.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Styles.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\TabControl.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Textbox.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ModelCheckerLaunchView.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\DisciplineCheckSet.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\GeneralCheckset.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\ProgressBarViewQAQC.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\SynchronizedData\Views\Main.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ModelCheckerLaunchView.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\DisciplineCheckSet.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\GeneralCheckset.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\ProgressBarViewQAQC.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ResourceDictionary\ColorResource.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ResourceDictionary\ResourceDictionary.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\SynchronizedData\Views\Main.baml
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.AutoSheetNumberForm.resources
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.BeamLevelNumberForm.resources
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\ChangeTextCase.ChangeTextCaseForm.resources
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.OrderingNumberForSheetForm.resources
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.PartitionRebarForm.resources
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Excel2ScheduleForm.resources
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Schedule2ExcelForm.resources
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.ChildForms.ViewListForm.resources
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.AlignViewForm.resources
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.SheetMakerForm.resources
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.ViewDuplicaterForm.resources
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+E:\Dropbox\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\data\options.json
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\excel_tpl\template.xlsx
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\ExcelNumberFormat.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignColors.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectTreeView.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Buffers.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.IO.Packaging.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Memory.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.xml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\ExcelNumberFormat.xml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignColors.pdb
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Buffers.xml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Memory.xml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.AssemblyReference.cache
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.ResolveComReference.cache
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Button.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\CheckBox.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Combobox.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Converter.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\DatePicker.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Grid.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Image.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Label.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ListView.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\RadioButton.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ScrollViewer.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Separator.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\StackPanel.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Styles.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\TabControl.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Textbox.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ModelCheckerLaunchView.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\DisciplineCheckSet.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\GeneralCheckset.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\ProgressBarViewQAQC.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\SynchronizedData\Views\Main.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ModelCheckerLaunchView.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\DisciplineCheckSet.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\GeneralCheckset.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\ProgressBarViewQAQC.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ResourceDictionary\ColorResource.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ResourceDictionary\ResourceDictionary.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\SynchronizedData\Views\Main.baml
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.AutoSheetNumberForm.resources
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.BeamLevelNumberForm.resources
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\ChangeTextCase.ChangeTextCaseForm.resources
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.OrderingNumberForSheetForm.resources
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.PartitionRebarForm.resources
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Excel2ScheduleForm.resources
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Schedule2ExcelForm.resources
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.ChildForms.ViewListForm.resources
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.AlignViewForm.resources
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.SheetMakerForm.resources
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.ViewDuplicaterForm.resources
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+C:\Users\BIM-SANGDQ\Dropbox\AcadNet\New folder\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\data\options.json
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RebarShape2Excel\excel_tpl\template.xlsx
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll.config
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HoaBinhTools.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\BeyCons.Core.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\ExcelNumberFormat.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignColors.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MultiSelectTreeView.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIIFC.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIUI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Buffers.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.IO.Packaging.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Memory.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Numerics.Vectors.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Windows.Interactivity.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\AdpSDKCSharpWrapper.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIFoundation.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\UtilityAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\IntfIFCAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\GeomUtilAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\HostObjDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\FamilyDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RebarDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EssentialsDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\AdskRcManaged.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitDBCoreAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\PersistenceDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\APIDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\GraphicsAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\ElementGroupDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\DetailDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\ArrayElemsDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\BuildingSystemsDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\SiteDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\SculptingDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\StructuralDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\InterfaceUtilAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MassingDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\AssemblyDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\DPartDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\NumberingDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\PointCloudAccessAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\StairRampDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\AnalysisAppsDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDBAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\IntfATFAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\TextEngineAPI.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\DBManagedServices.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\BeyCons.Core.dll.config
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\EPPlus.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\ExcelNumberFormat.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignColors.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\MoreLinq.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Newtonsoft.Json.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\RevitAPIIFC.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Buffers.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Memory.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Numerics.Vectors.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.AssemblyReference.cache
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.ResolveComReference.cache
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Button.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\CheckBox.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Combobox.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Converter.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\DatePicker.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Grid.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Image.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Label.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ListView.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\RadioButton.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\ScrollViewer.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Separator.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\StackPanel.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Styles.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\TabControl.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Style\Textbox.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ModelCheckerLaunchView.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\DisciplineCheckSet.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\GeneralCheckset.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\ProgressBarViewQAQC.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\QAQC_Quantity\Views\QuantityStr.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SynchronizedData\Views\Main.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.cache
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools_MarkupCompile.lref
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Beam\Views\BeamView.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Column\Views\ColumnView.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\FoudationSlab\Views\FoundationSlabView.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\AutocadToRevit\Wall\Views\WallView.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ModelCheckerLaunchView.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\DisciplineCheckSet.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\GeneralCheckset.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ModelChecker\Views\ProgessBar\ProgressBarViewQAQC.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\QAQC_Quantity\Views\QuantityStr.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ResourceDictionary\ColorResource.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\BIMQAQC\ResourceDictionary\ResourceDictionary.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\FramingInfoView.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\FramingInformation\Views\SettingGeoInfoRevit.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\LeanConcrete\Views\LeanConcreteView.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ProjectWarnings\Views\ViewWarning.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\PurgeViewsV2\Views\PurgeViews.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\QLUser\Views\UserView.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\ProgressBarView.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RebarShape2Excel\Model\Form\Schedule2ExcelForm.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\RevisionMultSheet\FormMaster.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SynchronizedData\Views\Main.baml
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.g.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.AutoSheetNumberForm.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.BeamLevelNumberForm.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\ChangeTextCase.ChangeTextCaseForm.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.OrderingNumberForSheetForm.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\CreateRibbonTab.PartitionRebarForm.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.Properties.Resources.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Excel2ScheduleForm.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\Schedule2Excel2k16.Forms.Schedule2ExcelForm.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.ChildForms.ViewListForm.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.AlignViewForm.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.SheetMakerForm.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\SheetDuplicateAndAlignView.Forms.ViewDuplicaterForm.resources
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.GenerateResource.cache
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CoreCompileInputs.cache
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.csproj.CopyComplete
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.dll
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\obj\Debug\HoaBinhTools.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\BeyCons.Core.pdb
+D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\HoaBinhTools\bin\Debug\Utils.pdb

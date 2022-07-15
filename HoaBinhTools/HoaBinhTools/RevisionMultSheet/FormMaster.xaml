@@ -1,0 +1,92 @@
+﻿<UserControl x:Class="RevisionMultiSheet.FormMaster"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:control="clr-namespace:MultiSelectComboBox;assembly=MultiSelectComboBox"
+             xmlns:local="clr-namespace:RevisionMultiSheet"
+             mc:Ignorable="d" Loaded="UserControl_Loaded" Height="724" Width="900" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalAlignment="Top" VerticalContentAlignment="Top">
+    <Grid x:Name="grid" Margin="0,0,0,0" HorizontalAlignment="Left" Width="890" Height="724" VerticalAlignment="Top">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="44*" />
+            <ColumnDefinition Width="45*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" MinHeight="313" />
+            <RowDefinition Height="Auto" MinHeight="32" />
+            <RowDefinition Height="Auto" MinHeight="353" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Label Content="Revision List" FontFamily="Verdana" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10,0,0,0" Grid.Row="0" Grid.Column="0" Height="25" Width="85"/>
+        <Label Content="Note: Right Click on list Revision to Delete." FontFamily="Verdana" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="150,0,0,0" Grid.Row="0" Grid.Column="0" Height="25" Width="290"/>
+        <ProgressBar x:Name="progressBar" Width="400" Height="10" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,30,0,0" Grid.Row="1" Grid.Column="1"/>
+        <Label x:Name="resultBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,50,0,0" Grid.Row="1" Grid.Column="1" Width="400" Height="250"/>
+        <DataGrid x:Name="gridRevision" SelectionMode="Single" Width="400" Height="300" Margin="10,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Row="1" IsReadOnly="True">
+            <DataGrid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Delete This Revision" Click="MenuItem_Click"/>
+                    <MenuItem Header="Delete All Revision" Click="MenuItem_Click_1"/>
+                </ContextMenu>
+            </DataGrid.ContextMenu>
+        </DataGrid>
+
+        <Separator HorizontalAlignment="Left" VerticalAlignment="Top" Margin="9,8,0,0" Grid.Row="2" Width="400" Grid.Column="0" Background="#FF959494" />
+        <Separator HorizontalAlignment="Left" VerticalAlignment="Top" Margin="9,8,0,0" Grid.Row="2" Width="400" Grid.Column="1" Background="#FF959494" />
+        <Separator HorizontalAlignment="Left" VerticalAlignment="Top" Margin="347,218,0,0" Grid.Row="1" Width="206" Background="#FF959494" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2" >
+            <Separator.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90.424"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Separator.RenderTransform>
+        </Separator>
+
+        <Label Content="Already Sheets" FontFamily="Verdana" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10,0,0,0" Grid.Row="2" Grid.Column="0" Height="25" Width="101"/>
+        <DataGrid x:Name="alreadySheet" ScrollViewer.CanContentScroll="False" EnableRowVirtualization="False" Width="400" Height="300" Margin="10,30,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Row="3" IsReadOnly="True" MouseEnter="alreadySheet_MouseEnter" MouseLeave="alreadySheet_MouseLeave" MouseDoubleClick="alreadySheet_MouseDoubleClick" AutoGeneratingColumn="alreadySheet_AutoGeneratingColumn" Sorting="alreadySheet_Sorting">
+            <DataGrid.Columns />
+            <DataGrid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem x:Name="alreadySheet_Add_RightClick" Header="Add All Sheet Selected" Click="alreadySheet_Add_RightClick_Click"/>
+                    <MenuItem x:Name="alreadySheet_RightClick" Header="Remove All Revisions" Click="alreadySheet_RightClick_Click"/>
+                    <MenuItem x:Name="alreadySheet_RemoveCurrentRev_RightClick" Header="Remove Current Revision" Click="alreadySheet_RemoveCurrentRev_RightClick_Click"/>
+                    <MenuItem Header="Go to View..." Click="MenuItem_Click_2"/>
+                </ContextMenu>
+            </DataGrid.ContextMenu>
+        </DataGrid>
+        <Label Content="Selected Sheets" FontFamily="Verdana" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10,0,0,0" Grid.Row="2" Grid.Column="1" Height="25" Width="101"/>
+        <DataGrid x:Name="selectedSheet" Width="400" Height="300" Margin="10,30,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Row="3" Grid.Column="1" IsReadOnly="True" MouseDoubleClick="selectedSheet_MouseDoubleClick" AutoGeneratingColumn="selectedSheet_AutoGeneratingColumn" Sorting="selectedSheet_Sorting"/>
+        <Button x:Name="btnAccept" BorderThickness="0" Width="60" Height="20"  HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,0,200,0" Grid.Row="1" Grid.Column="1" Click="btnAccept_Click">
+            <StackPanel Orientation="Horizontal">
+                <Image Width="16" Height="15" HorizontalAlignment="Left" Margin="0,1,5,0" VerticalAlignment="Center" Source="image/button_start_16x18.png"/>
+                <Label Padding="0">OK</Label>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnCancel" BorderThickness="0" Width="70" Height="20"  HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,0,120,0" Grid.Row="1" Grid.Column="1" Click="btnCancel_Click">
+            <StackPanel Orientation="Horizontal">
+                <Image Width="16" Height="15" HorizontalAlignment="Left" Margin="0,1,5,0" VerticalAlignment="Center" Source="image/cancel_16x16.png"/>
+                <Label Padding="0">Cancel</Label>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnReload" BorderThickness="0"  Width="70" Height="20"  HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,0,40,0" Grid.Row="1" Grid.Column="1" Click="btnReload_Click">
+            <StackPanel Orientation="Horizontal">
+                <Image Width="16" Height="15" HorizontalAlignment="Left" Margin="0,1,5,0" VerticalAlignment="Center" Source="image/reload_16x16.png"/>
+                <Label Padding="0">Reload</Label>
+            </StackPanel>
+        </Button>
+        <Label Content="Find Sheet:" FontFamily="Verdana" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,0,0,0" Grid.Row="3" Grid.Column="0" Height="25" Width="80"/>
+        <TextBox x:Name="findSheet" Width="150" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="90,2,0,0" Grid.Row="3" Grid.Column="0" Text="Find by Sheet Number" PreviewMouseLeftButtonDown="findSheet_PreviewMouseLeftButtonDown" TextChanged="findSheet_TextChanged" KeyDown="findSheet_KeyDown" />
+        <!--<Label Content="Sort:" FontFamily="Verdana" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="300,0,0,0" Grid.Row="3" Grid.Column="0" Height="25" Width="40"/>
+        <ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Margin="350,0,0,0" Grid.Row="3" Grid.Column="0" Height="25" Width="60"/>-->
+        <Button x:Name="btnAdd" Content="Add >>" HorizontalAlignment="Left" Margin="350,0,0,328" Grid.Row="3" Grid.Column="0" Width="60" Height="25" Click="btnAdd_Click"/>
+
+        <Button x:Name="btnRemove" Content="Remove" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,0,0,0" Grid.Row="3" Grid.Column="1" Height="25" Width="60" Click="btnRemove_Click"/>
+
+        <Separator HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="9,8,0,17" Grid.Row="3" Width="840" Grid.Column="0" Grid.ColumnSpan="2" Background="#FF959494" />
+        <Label Content="Hoa Binh Coporation - BIM Department - Revit Addins Team - version 2.0.0.2017" FontFamily="Verdana" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="214,20,154,-7" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Height="25" Width="522" Grid.RowSpan="2"/>
+        <Image x:Name="iconBIM" Grid.Row="1" Grid.Column="1" Width="50" Height="50" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,40,0"/>
+        <control:MultiSelectComboBox Width="70" Height="25" HorizontalAlignment="Left" Margin="250,0,0,328"  x:Name="listCheckbox" Grid.Row="3" Grid.Column="0" MouseMove="listCheckbox_MouseMove"/>
+    </Grid>
+</UserControl>

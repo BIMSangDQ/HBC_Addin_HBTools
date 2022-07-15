@@ -1,0 +1,17 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style TargetType="GridViewColumnHeader" x:Key="GridViewColumnHeaderStyle">
+        <Setter Property="Padding" Value="10 5"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+    </Style>
+    <Style TargetType="ListViewItem" x:Key="ListViewItemStyle">
+        <Style.Triggers>
+            <Trigger Property="ItemsControl.AlternationIndex"  Value="0">
+                <Setter Property="Background" Value="White" />
+            </Trigger>
+            <Trigger Property="ItemsControl.AlternationIndex"  Value="1">
+                <Setter Property="Background" Value="LightBlue" />
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+</ResourceDictionary>
