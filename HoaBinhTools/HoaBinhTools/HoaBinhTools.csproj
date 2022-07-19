@@ -313,6 +313,14 @@
     <Compile Include="BIMQAQC\ModelChecker\Views\ProgessBar\ProgressBarViewQAQC.xaml.cs">
       <DependentUpon>ProgressBarViewQAQC.xaml</DependentUpon>
     </Compile>
+    <Compile Include="BIMQAQC\QAQC_FormWork\Command\Excutions\GeometryExcution.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Command\Excutions\IntersectElement.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Command\QAQCFormWorkCmd.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Models\CategoryOp.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\ViewModels\FormworkViewModels.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Views\QAQC_Formwork.xaml.cs">
+      <DependentUpon>QAQC_Formwork.xaml</DependentUpon>
+    </Compile>
     <Compile Include="BIMQAQC\QAQC_Quantity\Command\QAQC_QuantityCommand.cs" />
     <Compile Include="BIMQAQC\QAQC_Quantity\Models\CategoryOptions.cs" />
     <Compile Include="BIMQAQC\QAQC_Quantity\Models\DetectOverlap.cs" />
@@ -799,6 +807,10 @@
     <Page Include="BIMQAQC\ModelChecker\Views\ProgessBar\ProgressBarViewQAQC.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+    </Page>
+    <Page Include="BIMQAQC\QAQC_FormWork\Views\QAQC_Formwork.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="BIMQAQC\QAQC_Quantity\Views\QuantityStr.xaml">
       <SubType>Designer</SubType>

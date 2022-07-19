@@ -1,0 +1,188 @@
+﻿<Window x:Class="HoaBinhTools.BIMQAQC.QAQC_FormWork.Views.QAQC_Formwork"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HoaBinhTools.BIMQAQC.QAQC_FormWork.Views"
+		xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        mc:Ignorable="d"
+        Title="QAQC_Formwork" Height="450" Width="500">
+	<Window.Resources>
+		<ResourceDictionary Source="pack://application:,,,/HoaBinhTools;component/BIMQAQC/ResourceDictionary/ResourceDictionary.xaml"/>
+	</Window.Resources>
+
+	<TabControl>
+		<TabItem Header="Main" FontStyle="Italic">
+			<Grid>
+				<Grid.RowDefinitions>
+					<RowDefinition Height="30"/>
+					<RowDefinition Height="30"/>
+					<RowDefinition Height="30"/>
+					<RowDefinition />
+					<RowDefinition Height="30"/>
+				</Grid.RowDefinitions>
+				<Grid.ColumnDefinitions>
+					<ColumnDefinition Width="*"/>
+					<ColumnDefinition Width="*"/>
+				</Grid.ColumnDefinitions>
+
+				<TextBlock Margin="7" 
+						   Text="Include"
+						   FontWeight="DemiBold"/>
+
+				<ComboBox Margin="0 0 20 0" 
+						  Grid.Row="0" Grid.Column="1"
+						  Style="{StaticResource SDCombobox}"/>
+
+				<CheckBox Margin="0 7 20 0" 
+						  Grid.Row="1" Grid.Column="1"
+						  Content="Active View"/>
+
+				<CheckBox Margin="7" 
+						  Grid.Row="2" Grid.Column="1"
+						  HorizontalAlignment="Right"
+						  Content="Check All"/>
+
+				<ListBox Grid.Row="3" Grid.ColumnSpan="2" Margin="7"
+						 ItemsSource="{Binding CategoryOps}"
+						 HorizontalAlignment="Stretch" 
+						 HorizontalContentAlignment="Left"
+						 ScrollViewer.VerticalScrollBarVisibility="Auto">
+					<ListBox.ItemTemplate>
+						<DataTemplate>
+							<StackPanel Margin="5">
+								<CheckBox Content="{Binding Path = Name, UpdateSourceTrigger = PropertyChanged}"
+										  IsChecked="{Binding Path = IsChecked, UpdateSourceTrigger = PropertyChanged}"
+										  HorizontalAlignment="Left" VerticalContentAlignment="Center"/>
+							</StackPanel>
+						</DataTemplate>
+					</ListBox.ItemTemplate>
+				</ListBox>
+				
+				<Button Grid.Row="2" Width="100"
+						HorizontalAlignment="Left"
+						Margin="7 0 0 0" 
+						Content="Select Element" 
+					Style="{StaticResource SDButton}"
+					Command="{Binding btnSelect}"/>
+
+				<Button Grid.Row="4" Grid.ColumnSpan="2" 
+						Content="Run" 
+					Style="{StaticResource SDButton}"
+					Command="{Binding btnRun}"/>
+			</Grid>
+		</TabItem>
+
+		<TabItem Header="Result" FontStyle="Italic">
+
+		</TabItem>
+
+		<TabItem Header="Setting" FontStyle="Italic">
+			<Grid Margin="0 5 0 0">
+				<Grid.RowDefinitions>
+					<RowDefinition Height="30"/>
+					<RowDefinition Height="30"/>
+					<RowDefinition Height="30"/>
+					<RowDefinition Height="30"/>
+					<RowDefinition Height="30"/>
+					<RowDefinition Height="30"/>
+					<RowDefinition Height="30"/>
+					<RowDefinition Height="30"/>
+					<RowDefinition Height="30"/>
+					<RowDefinition Height="30"/>
+					<RowDefinition Height="30"/>
+					<RowDefinition Height="30"/>
+					<RowDefinition />
+					<RowDefinition Height="30"/>
+				</Grid.RowDefinitions>
+
+				<StackPanel Orientation="Horizontal" Margin="5 0">
+					<TextBlock Style="{StaticResource SDButtonText}" 
+						Text="A.1 Sàn có chiều dày &lt;"/>
+					<TextBox Style="{StaticResource SDTextBox}" Text="300"/>
+					<TextBlock Style="{StaticResource SDButtonText}" 
+						Text="mm thì cạnh bên tính theo m dài, còn lại tính theo m2."/>
+				</StackPanel>
+
+				<StackPanel Orientation="Horizontal" Grid.Row="1" Margin="5 0">
+					<TextBlock Style="{StaticResource SDButtonText}" 
+						Text="A.2 Sàn có đoạn giật cấp &lt;"/>
+					<TextBox Style="{StaticResource SDTextBox}" Text="300"/>
+					<TextBlock Style="{StaticResource SDButtonText}" 
+						Text="mm thì cạnh bên tính theo m dài, còn lại tính theo m2."/>
+				</StackPanel>
+
+				<StackPanel Orientation="Horizontal" Grid.Row="2" Margin="5 0">
+					<TextBlock Style="{StaticResource SDButtonText}" 
+						Text="A.3 Cốp pha đáy sàn:"/>
+					<ComboBox Style="{StaticResource SDCombobox}"/>
+				</StackPanel>
+
+				<StackPanel Orientation="Horizontal" Grid.Row="3" Margin="5 0">
+					<TextBlock Style="{StaticResource SDButtonText}"
+							   Text="A.4 Cốp pha đáy sàn tính cho các lỗ mở &lt;"/>
+					<TextBox Style="{StaticResource SDTextBox}" Text="300"/>
+					<TextBlock Style="{StaticResource SDButtonText}" 
+						Text="m2."/>
+				</StackPanel>
+
+				<StackPanel Orientation="Horizontal" Grid.Row="4" Margin="5 0">
+					<TextBlock Style="{StaticResource SDButtonText}"
+							   Text="A.5 Lỗ mở cho sàn, sàn dày &lt;"/>
+					<TextBox Style="{StaticResource SDTextBox}" Text="300"/>
+					<TextBlock Style="{StaticResource SDButtonText}" 
+						Text="mm thì cạnh lỗ mở tính theo m dài, còn lại tính theo m2."/>
+				</StackPanel>
+
+				<StackPanel Orientation="Horizontal" Grid.Row="5" Margin="5 0">
+					<TextBlock Style="{StaticResource SDButtonText}"
+							   Text="A.6 Lỗ mở cho sàn, có đáy &lt;"/>
+					<TextBox Style="{StaticResource SDTextBox}" Text="300"/>
+					<TextBlock Style="{StaticResource SDButtonText}" 
+						Text="m2 thì cạnh lỗ mở bỏ qua không tính."/>
+				</StackPanel>
+
+				<StackPanel Orientation="Horizontal" Grid.Row="6" Margin="5 0">
+					<TextBlock Style="{StaticResource SDButtonText}"
+							   Text="B.1 Tường có chiều cao &gt;"/>
+					<TextBox Style="{StaticResource SDTextBox}" Text="300"/>
+					<TextBlock Style="{StaticResource SDButtonText}" 
+						Text="mm thì cốp pha tính theo m dài, còn lại tính theo m2."/>
+				</StackPanel>
+
+				<StackPanel Orientation="Horizontal" Grid.Row="7" Margin="5 0">
+					<TextBlock Style="{StaticResource SDButtonText}"
+							   Text="B.2 Tường sẽ khấu trừ diện tích lỗ mở nếu lỗ mở &gt;"/>
+					<TextBox Style="{StaticResource SDTextBox}" Text="300"/>
+					<TextBlock Style="{StaticResource SDButtonText}" 
+						Text="m2."/>
+				</StackPanel>
+
+				<StackPanel Orientation="Horizontal" Grid.Row="8" Margin="5 0">
+					<TextBlock Style="{StaticResource SDButtonText}"
+							   Text="B.3 Lỗ mở tường, tường dày &lt;"/>
+					<TextBox Style="{StaticResource SDTextBox}" Text="300"/>
+					<TextBlock Style="{StaticResource SDButtonText}" 
+						Text="mm thì cạnh lỗ mở tính theo m dài, còn lại tính theo m2"/>
+				</StackPanel>
+
+				<StackPanel Orientation="Horizontal" Grid.Row="9" Margin="5 0">
+					<TextBlock Style="{StaticResource SDButtonText}"
+							   Text="B.4 Lỗ mở tường, diện tích lỗ mở &lt;"/>
+					<TextBox Style="{StaticResource SDTextBox}" Text="300"/>
+					<TextBlock Style="{StaticResource SDButtonText}" 
+						Text="m2 thì bỏ qua không tính cốp pha cạnh lỗ mở."/>
+				</StackPanel>
+
+				<StackPanel Orientation="Horizontal" Grid.Row="10" Margin="5 0">
+					<CheckBox Style="{StaticResource SDCheckBox}"
+						Content="Diễn giải cách tính toán"/>
+				</StackPanel>
+
+				<Button Grid.Row="13" Content="Save Setting"
+					Style="{StaticResource SDButton}"
+					Command="{Binding btnSaveSetting}"/>
+			</Grid>
+		</TabItem>
+	</TabControl>
+</Window>
