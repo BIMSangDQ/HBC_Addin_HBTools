@@ -15,6 +15,8 @@ using HoaBinhTools.BIMQAQC.QAQC_FormWork.Models;
 using Autodesk.Revit.DB.Architecture;
 using BeyCons.Core.Libraries.Geometries;
 using HoaBinhTools.BIMQAQC.QAQC_FormWork.Command.Excutions;
+using IntersectElement = HoaBinhTools.BIMQAQC.QAQC_FormWork.Command.Excutions.IntersectElement;
+using BeyCons.Core.Libraries.Units;
 
 namespace HoaBinhTools.BIMQAQC.QAQC_FormWork.ViewModels
 {
@@ -183,8 +185,8 @@ namespace HoaBinhTools.BIMQAQC.QAQC_FormWork.ViewModels
 
 		private List<string> includes = new List<string>()
 		{
-			"Trừ phần dầm giao",
-			"Không trừ dầm giao, cốp pha dầm nếu có giao sàn sẽ không tính đáy"
+			"Project",
+			"Selection"
 		};
 		public List<string> Includes
 		{
@@ -240,7 +242,23 @@ namespace HoaBinhTools.BIMQAQC.QAQC_FormWork.ViewModels
 				OnPropertyChanged("IsSelectAll");
 			}
 		}
+
+		private bool isAccurateExplanation;
+		public bool IsAccurateExplanation
+		{
+			get
+			{
+				return isAccurateExplanation;
+			}
+			set
+			{
+				isAccurateExplanation = value;
+				OnPropertyChanged("IsAccurateExplanation");
+			}
+		}
 		#endregion
+
+		public static Options Options { get; set; } = new Options() { DetailLevel = ViewDetailLevel.Fine };
 
 		private ObservableCollection<CategoryOp> categoryOps;
 		public ObservableCollection<CategoryOp> CategoryOps
@@ -293,6 +311,12 @@ namespace HoaBinhTools.BIMQAQC.QAQC_FormWork.ViewModels
 				return categories;
 			}
 		}
+
+		public static double EpsilonLenght { get; set; } = 0.05.ToFeet();
+		public static double EpsilonArea { get; set; } = 0.0025.ToSquareFeet();
+		public static double EpsilonVolume { get; set; } = 0.000125.ToCubicFeet();
+
+		public static double Thickness { get; set; } = 20.0.ToFeet();
 
 		#region button
 		public RelayCommand btnSaveSetting { get; set; }
@@ -384,12 +408,51 @@ namespace HoaBinhTools.BIMQAQC.QAQC_FormWork.ViewModels
 
 		public void BtnRun()
 		{
+			if (CheckInputInfor())
+			{
+				Wmain.Hide();
 
+				Action action = new Action(() =>
+				{
+					if (!ParameterEntity.CheckParameters)
+					{
+						ParameterEntity.CreateParameters();
+					}
+
+					List<string> filterCategories = CategoryOps.Where(c => c.IsChecked).Select(n => n.Name).ToList();
+					List<Element> elements = ElementsForFormworkFilter.Where(e => filterCategories.Contains(e.Category.Name)).ToList();
+
+					if (elements.Count > 0)
+					{
+						ProgressBarInstance progressBarInstance = new ProgressBarInstance("Calculating formwork ...", elements.Count);
+						ResultFace resultFace;
+
+						foreach (Element element in elements)
+						{
+							progressBarInstance.Start();
+
+							resultFace = FactoryFace.GetFaceFilter(element, ElementsForFormworkFilter, new ParaUtil()
+							{
+								SelectInclusion = Include,
+								IsActiveView = IsActiveView,
+								IsAccurateExplanation = IsAccurateExplanation
+							});
+
+
+						}
+					}
+					Wmain.Show();
+				});
+
+				ExternalEventHandler.Instance.SetAction(action);
+
+				ExternalEventHandler.Instance.Run();
+			}
 		}
 		#endregion
 
 		#region Utils
-		public bool CheckInputInformation(Element element)
+		public static bool CheckInputInformation(Element element)
 		{
 			if (null != element && null != element?.Category?.Name && Categories.Select(x => x.Name).Contains(element.Category.Name))
 			{
@@ -455,7 +518,51 @@ namespace HoaBinhTools.BIMQAQC.QAQC_FormWork.ViewModels
 			return false;
 		}
 
-
+		private bool CheckInputInfor()
+		{
+			//if (null == ElementsForFormworkFilter || ElementsForFormworkFilter.Count > 0)
+			//{
+			//	if (AngleTopAreaFrom < AngleTopAreaTo)
+			//	{
+			//		if (AngleTopAreaTo <= 45 && AngleBottomAreaTo <= 45)
+			//		{
+			//			if (CategoryOptions.Count > 0 && CategoryOptions.Select(x => x.IsChecked).Contains(true))
+			//			{
+			//				if (DataReports.Count == 0)
+			//				{
+			//					return true;
+			//				}
+			//				else
+			//				{
+			//					NotifyUtils.SelectAgain();
+			//					return false;
+			//				}
+			//			}
+			//			else
+			//			{
+			//				Notification.ShowDialog("No categories were checked.", false);
+			//				return false;
+			//			}
+			//		}
+			//		else
+			//		{
+			//			Notification.ShowDialog("The upper bound angle greater than 45.", false);
+			//			return false;
+			//		}
+			//	}
+			//	else
+			//	{
+			//		Notification.ShowDialog("Input incorrect at top area setting.", false);
+			//		return false;
+			//	}
+			//}
+			//else
+			//{
+			//	NotifyUtils.SelectAgain();
+			//	return false;
+			//}
+			return true;
+		}
 		#endregion
 	}
 }

@@ -137,8 +137,8 @@ namespace BeyCons.Core.RevitUtils.AddinIdentity
             {
                 return new AddinEntity()
                 {
-                    Name = "Formwork",
-                    Unique = "CFA30C0F-84F0-4C32-A55C-FCC774A994C4"
+                    Name = "QAQCFormwork",
+                    Unique = "1a973568-a4f3-4c1f-a31e-1004eed3314d"
                 };
             }
         }

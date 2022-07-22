@@ -18,5 +18,6 @@ namespace BeyCons.Core.RevitUtils.DataUtils.Enums
         HB_G_Coordinate = 6,
         HB_A_ClearanceHeight = 7,
         HB_S_InterFram = 8,
+        HB_QAQC_Formwork = 9,
     }
 }

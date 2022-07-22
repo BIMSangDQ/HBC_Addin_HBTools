@@ -225,7 +225,7 @@
     <Compile Include="RevitUtils\DataUtils\DirectShapeUtils.cs" />
     <Compile Include="RevitUtils\DataUtils\ElementLinkUtils.cs" />
     <Compile Include="RevitUtils\DataUtils\Enums\CustomGroupParameters.cs" />
-    <Compile Include="RevitUtils\DataUtils\Enums\CustomParameters.cs" />
+    <Compile Include="RevitUtils\DataUtils\Enums\QAQCCustomParameters.cs" />
     <Compile Include="RevitUtils\DataUtils\Filters\SelectionFilter.cs" />
     <Compile Include="RevitUtils\DataUtils\InforElementUtils.cs" />
     <Compile Include="RevitUtils\DataUtils\Models\ElementLink.cs" />

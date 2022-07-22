@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Autodesk.Revit.DB;
 using BeyCons.Core.Libraries.Units;
 using BeyCons.Core.RevitUtils.DataUtils;
+using HoaBinhTools.BIMQAQC.QAQC_FormWork.ViewModels;
 using Utils;
 
 namespace HoaBinhTools.BIMQAQC.QAQC_FormWork.Command.Excutions
@@ -54,75 +55,75 @@ namespace HoaBinhTools.BIMQAQC.QAQC_FormWork.Command.Excutions
             }
             return null;
         }
-        //public static IList<Element> GetElemenstIntersectWithHostElement(Element elementHost, bool isActiveView)
-        //{
-            //BoundingBoxXYZ boundingBoxXYZ = elementHost.get_BoundingBox(null);
-            //Outline outline = new Outline(boundingBoxXYZ.Min, boundingBoxXYZ.Max);
-            //BoundingBoxIntersectsFilter boundingBoxIntersectsFilter = new BoundingBoxIntersectsFilter(outline, 5.0.ToFeet());
-            //IEnumerable<Element> elementIntersectsBoundingBox;
-            //if (isActiveView)
-            //{
-            //    elementIntersectsBoundingBox = new FilteredElementCollector(elementHost.Document, ActiveData.ActiveView.Id)
-            //        .WherePasses(boundingBoxIntersectsFilter)
-            //        .Excluding(new List<ElementId>() { elementHost.Id }).ToElements()
-            //        .Where(x => x.Category != null && FormworkControl.Categories.Select(c => c.Name).Contains(x.Category.Name));
-            //}
-            //else
-            //{
-            //    elementIntersectsBoundingBox = new FilteredElementCollector(elementHost.Document)
-            //        .WherePasses(boundingBoxIntersectsFilter)
-            //        .Excluding(new List<ElementId>() { elementHost.Id }).ToElements()
-            //        .Where(x => x.Category != null && FormworkControl.Categories.Select(c => c.Name).Contains(x.Category.Name));
-            //}
-            //List<Element> filterElements = new List<Element>();
-            //foreach (Element element in elementIntersectsBoundingBox)
-            //{
-            //    if (FormworkControl.CheckInputInformation(element))
-            //    {
-            //        filterElements.Add(element);
-            //    }
-            //}
-            //if (filterElements.Count > 0)
-            //{
-            //    elementIntersectsBoundingBox = filterElements;
-            //    if (!(elementHost is Part))
-            //    {
-            //        elementIntersectsBoundingBox = elementIntersectsBoundingBox.Where(x => !(x is Part)).ToList();
-            //    }
-            //    else
-            //    {
-            //        elementIntersectsBoundingBox = FilterElementsWithPart(elementHost as Part, elementIntersectsBoundingBox);
-            //    }
-            //    if (elementIntersectsBoundingBox.Count() > 0)
-            //    {
-            //        List<Solid> solidsHost = GeometryUtils.GetSolidsFromInstanceElement(elementHost, new Options() { DetailLevel = ViewDetailLevel.Fine }, true).ToUnionSolids();
-            //        if (solidsHost.Count > 0)
-            //        {
-            //            List<ElementFilter> elementFilters = new List<ElementFilter>();
-            //            foreach (Solid solid in solidsHost)
-            //            {
-            //                ElementIntersectsSolidFilter elementIntersectsSolidFilter = new ElementIntersectsSolidFilter(solid);
-            //                elementFilters.Add(elementIntersectsSolidFilter);
-            //            }
-            //            LogicalOrFilter logicalOrFilter = new LogicalOrFilter(elementFilters);
-            //            IList<Element> elementsIntersect = new FilteredElementCollector(elementHost.Document, elementIntersectsBoundingBox.Select(x => x.Id).ToList())
-            //                .WherePasses(logicalOrFilter)
-            //                .Excluding(new List<ElementId>() { elementHost.Id }).ToElements();
-            //            List<Element> remainderElementsInFilter = elementIntersectsBoundingBox.Where(p => !elementsIntersect.Any(c => c.Id == p.Id)).ToList();
-            //            foreach (Element remainderElement in remainderElementsInFilter)
-            //            {
-            //                if (ElementUtils.HasIntersectElementWithSolids(remainderElement, solidsHost))
-            //                {
-            //                    elementsIntersect.Add(remainderElement);
-            //                }
-            //            }
-            //            return elementsIntersect.Count > 0 ? elementsIntersect : null;
-            //        }
-            //    }
-            //}
-            //return null;
-        //}
-        private static List<Element> FilterElementsWithPart(Part hostPart, IEnumerable<Element> intersectElements)
+		public static IList<Element> GetElemenstIntersectWithHostElement(Element elementHost, bool isActiveView)
+		{
+			BoundingBoxXYZ boundingBoxXYZ = elementHost.get_BoundingBox(null);
+			Outline outline = new Outline(boundingBoxXYZ.Min, boundingBoxXYZ.Max);
+			BoundingBoxIntersectsFilter boundingBoxIntersectsFilter = new BoundingBoxIntersectsFilter(outline, 5.0.ToFeet());
+			IEnumerable<Element> elementIntersectsBoundingBox;
+			if (isActiveView)
+			{
+				elementIntersectsBoundingBox = new FilteredElementCollector(elementHost.Document, ActiveData.ActiveView.Id)
+					.WherePasses(boundingBoxIntersectsFilter)
+					.Excluding(new List<ElementId>() { elementHost.Id }).ToElements()
+					.Where(x => x.Category != null && FormworkViewModels.Categories.Select(c => c.Name).Contains(x.Category.Name));
+			}
+			else
+			{
+				elementIntersectsBoundingBox = new FilteredElementCollector(elementHost.Document)
+					.WherePasses(boundingBoxIntersectsFilter)
+					.Excluding(new List<ElementId>() { elementHost.Id }).ToElements()
+					.Where(x => x.Category != null && FormworkViewModels.Categories.Select(c => c.Name).Contains(x.Category.Name));
+			}
+			List<Element> filterElements = new List<Element>();
+			foreach (Element element in elementIntersectsBoundingBox)
+			{
+				if (FormworkViewModels.CheckInputInformation(element))
+				{
+					filterElements.Add(element);
+				}
+			}
+			if (filterElements.Count > 0)
+			{
+				elementIntersectsBoundingBox = filterElements;
+				if (!(elementHost is Part))
+				{
+					elementIntersectsBoundingBox = elementIntersectsBoundingBox.Where(x => !(x is Part)).ToList();
+				}
+				else
+				{
+					elementIntersectsBoundingBox = FilterElementsWithPart(elementHost as Part, elementIntersectsBoundingBox);
+				}
+				if (elementIntersectsBoundingBox.Count() > 0)
+				{
+					List<Solid> solidsHost = GeometryUtils.GetSolidsFromInstanceElement(elementHost, new Options() { DetailLevel = ViewDetailLevel.Fine }, true).ToUnionSolids();
+					if (solidsHost.Count > 0)
+					{
+						List<ElementFilter> elementFilters = new List<ElementFilter>();
+						foreach (Solid solid in solidsHost)
+						{
+							ElementIntersectsSolidFilter elementIntersectsSolidFilter = new ElementIntersectsSolidFilter(solid);
+							elementFilters.Add(elementIntersectsSolidFilter);
+						}
+						LogicalOrFilter logicalOrFilter = new LogicalOrFilter(elementFilters);
+						IList<Element> elementsIntersect = new FilteredElementCollector(elementHost.Document, elementIntersectsBoundingBox.Select(x => x.Id).ToList())
+							.WherePasses(logicalOrFilter)
+							.Excluding(new List<ElementId>() { elementHost.Id }).ToElements();
+						List<Element> remainderElementsInFilter = elementIntersectsBoundingBox.Where(p => !elementsIntersect.Any(c => c.Id == p.Id)).ToList();
+						foreach (Element remainderElement in remainderElementsInFilter)
+						{
+							if (ElementUtils.HasIntersectElementWithSolids(remainderElement, solidsHost))
+							{
+								elementsIntersect.Add(remainderElement);
+							}
+						}
+						return elementsIntersect.Count > 0 ? elementsIntersect : null;
+					}
+				}
+			}
+			return null;
+		}
+		private static List<Element> FilterElementsWithPart(Part hostPart, IEnumerable<Element> intersectElements)
         {
             List<Element> excludeElements = GetElements(hostPart);
             if (intersectElements.Count() > 0)

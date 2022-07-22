@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\Sangdq\CapNhatAddin2021\HBC\HBC2021\HoaBinhTools\BeyCons.Core\obj\Debug\
+D:\00.Git\HBC_Addin_HBTools\HoaBinhTools\BeyCons.Core\obj\Debug\
 BeyCons.Core
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 21366619507
 
-73485929841
-271229090796
+73-138136913
+27921933331
 FormUtils\Views\NotificationView.xaml;FormUtils\Views\ProgressBarView.xaml;
 
 True

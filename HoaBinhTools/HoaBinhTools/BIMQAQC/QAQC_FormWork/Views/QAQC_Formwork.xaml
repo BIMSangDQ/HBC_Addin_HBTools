@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:HoaBinhTools.BIMQAQC.QAQC_FormWork.Views"
 		xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
         mc:Ignorable="d"
-        Title="QAQC_Formwork" Height="450" Width="500">
+        Title="QAQC_Formwork" Height="500" Width="500">
 	<Window.Resources>
 		<ResourceDictionary Source="pack://application:,,,/HoaBinhTools;component/BIMQAQC/ResourceDictionary/ResourceDictionary.xaml"/>
 	</Window.Resources>
@@ -32,15 +32,19 @@
 
 				<ComboBox Margin="0 0 20 0" 
 						  Grid.Row="0" Grid.Column="1"
+						  ItemsSource="{Binding Includes}"
+						  SelectedItem="{Binding Include}"
 						  Style="{StaticResource SDCombobox}"/>
 
 				<CheckBox Margin="0 7 20 0" 
 						  Grid.Row="1" Grid.Column="1"
+						  IsChecked="{Binding IsActiveView}"
 						  Content="Active View"/>
 
 				<CheckBox Margin="7" 
 						  Grid.Row="2" Grid.Column="1"
 						  HorizontalAlignment="Right"
+						  IsChecked="{Binding IsSelectAll}"
 						  Content="Check All"/>
 
 				<ListBox Grid.Row="3" Grid.ColumnSpan="2" Margin="7"
@@ -176,6 +180,7 @@
 
 				<StackPanel Orientation="Horizontal" Grid.Row="10" Margin="5 0">
 					<CheckBox Style="{StaticResource SDCheckBox}"
+							  IsChecked="{Binding IsAccurateExplanation}"
 						Content="Diễn giải cách tính toán"/>
 				</StackPanel>
 

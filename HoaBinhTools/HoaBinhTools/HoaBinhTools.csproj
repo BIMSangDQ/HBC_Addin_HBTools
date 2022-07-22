@@ -313,10 +313,26 @@
     <Compile Include="BIMQAQC\ModelChecker\Views\ProgessBar\ProgressBarViewQAQC.xaml.cs">
       <DependentUpon>ProgressBarViewQAQC.xaml</DependentUpon>
     </Compile>
+    <Compile Include="BIMQAQC\QAQC_FormWork\Command\Excutions\FactoryFace.cs" />
     <Compile Include="BIMQAQC\QAQC_FormWork\Command\Excutions\GeometryExcution.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Command\Excutions\HorizontalFormwork.cs" />
     <Compile Include="BIMQAQC\QAQC_FormWork\Command\Excutions\IntersectElement.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Command\Excutions\IntersectRay.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Command\Excutions\ParameterEntity.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Command\Excutions\PartExcution.cs" />
     <Compile Include="BIMQAQC\QAQC_FormWork\Command\QAQCFormWorkCmd.cs" />
     <Compile Include="BIMQAQC\QAQC_FormWork\Models\CategoryOp.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Command\Excutions\ColumnExcution.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Models\CommonFaceFilter.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Models\FaceFilter.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Models\FaceType.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Command\Excutions\FormworkUtils.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Models\ParaUtil.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Models\LineOfPerimeter.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Models\ResultFace.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Models\SolidAround.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Models\VerticalFaceFilter.cs" />
+    <Compile Include="BIMQAQC\QAQC_FormWork\Command\Excutions\VerticalFormwork.cs" />
     <Compile Include="BIMQAQC\QAQC_FormWork\ViewModels\FormworkViewModels.cs" />
     <Compile Include="BIMQAQC\QAQC_FormWork\Views\QAQC_Formwork.xaml.cs">
       <DependentUpon>QAQC_Formwork.xaml</DependentUpon>

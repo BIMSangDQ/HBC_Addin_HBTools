@@ -567,7 +567,7 @@ namespace HoaBinhTools.Apps
 		public void PutVersiondata(string hddSerial, string ComputerUser)
 		{
 			//AKfycbwd7K7WNUVZCM6Cs83N6E2vcU5PBub9HyzXUJWiRt0kLUmAmUy4
-			string url = string.Format("https://script.google.com/macros/s/AKfycbwd7K7WNUVZCM6Cs83N6E2vcU5PBub9HyzXUJWiRt0kLUmAmUy4/exec?Id={0}&UserName={1}&verAddin=040722", hddSerial, ComputerUser);
+			string url = string.Format("https://script.google.com/macros/s/AKfycbwd7K7WNUVZCM6Cs83N6E2vcU5PBub9HyzXUJWiRt0kLUmAmUy4/exec?Id={0}&UserName={1}&verAddin=200722", hddSerial, ComputerUser);
 			HttpWebRequest req;
 			HttpWebResponse res = null;
 
